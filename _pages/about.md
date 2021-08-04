@@ -18,19 +18,17 @@ News
 [07/2021] One paper is accepted to **ICCV 2021** (joint first author)  <br />
 [05/2021] One paper is accepted to **ICIP 2021** (first author)
 
-
-Publications
------
-Coming soon.
-
-
 Education
 -----
 <img style="float: left;" src="../images/NTU_logo.png" width="200" height="200">
 ### Nanyang Technological University
-<sub>Aug 2018 - Mar 2022</sub>  <br />
-<sub>B.E. in Information Engineering & Media</sub> <br />
+<sub>Aug 2018 - Mar 2022<br /> </sub>
+<sub>B.E. in Information Engineering & Media<br /> </sub>
 <sub>**CGPA: 5.00 / 5.00**</sub>
+
+Publications
+-----
+Coming soon.
 
 Awards
 -----
