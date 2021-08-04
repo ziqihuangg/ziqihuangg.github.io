@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at School of Electrical and Electronic Engineering (EEE) in Nanyang Technological University. I am an research intern at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). I am broadly interested in computer vision and deep learning.
+I am a final-year undergraduate student from School of Electrical and Electronic Engineering (EEE) in Nanyang Technological University (NTU). I am fortunate to be a research student at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). Previously, I had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).
+<br />
+I am broadly interested in computer vision and deep learning.
 
 
 News
