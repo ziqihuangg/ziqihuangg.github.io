@@ -26,7 +26,7 @@ Coming soon.
 
 Education
 -----
-<img style="float: left;" src="../images/NTU_logo.png" width="100" height="100">
+<img style="float: left;" src="../images/NTU_logo.png" width="200" height="200">
 ### Nanyang Technological University
 Aug 2018 - Mar 2022  <br />
 CGPA: 5.00 / 5.00
