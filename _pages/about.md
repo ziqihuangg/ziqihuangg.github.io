@@ -22,9 +22,9 @@ Education
 -----
 <img style="float: left;" src="../images/NTU_logo.png" width="200" height="200">
 ### Nanyang Technological University
-<sub>Aug 2018 - Mar 2022<br /> </sub>
-<sub>B.E. in Information Engineering & Media<br /> </sub>
-<sub>**CGPA: 5.00 / 5.00**</sub>
+<small>Aug 2018 - May 2022<br /> </small>
+<small>B.E. in Information Engineering & Media<br /> </small>
+<small>**CGPA: 5.00 / 5.00**</small>
 
 Publications
 -----
