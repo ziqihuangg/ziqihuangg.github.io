@@ -13,8 +13,8 @@ I am a final-year undergraduate student from School of Electrical and Electronic
 
 News
 -----
-[07/2021] One paper is accepted to **ICCV 2021** (joint first author)  <br />
-[05/2021] One paper is accepted to **ICIP 2021** (first author)
+∙ [07/2021] One paper is accepted to **ICCV 2021** (joint first author)  <br />
+∙ [05/2021] One paper is accepted to **ICIP 2021** (first author)
 
 Education
 -----
@@ -30,6 +30,6 @@ Coming soon
 
 Awards
 -----
-\- NTU Science and Engineering Undergraduate Scholarship          \(2018\-2022\)
-\- NTU President Research Scholar                                 \(2019\-2021\)
-\- Dean’s List (School of Electrical and Electronic Engineering)  \(2018\-2019\)
+∙ NTU Science and Engineering Undergraduate Scholarship          \(2018\-2022\)<br />
+∙ NTU President Research Scholar                                 \(2019\-2021\)<br />
+∙ Dean’s List (School of Electrical and Electronic Engineering)  \(2018\-2019\)
