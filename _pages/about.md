@@ -30,6 +30,6 @@ Coming soon
 
 Awards
 -----
-∙ NTU Science and Engineering Undergraduate Scholarship          \(2018\-2022\)<br />
-∙ NTU President Research Scholar                                 \(2019\-2021\)<br />
-∙ Dean’s List (School of Electrical and Electronic Engineering)  \(2018\-2019\)
+∙ \(2018\-2022\) NTU Science and Engineering Undergraduate Scholarship<br />
+∙ \(2019\-2021\) NTU President Research Scholar<br />
+∙ \(2018\-2019\) Dean’s List (School of Electrical and Electronic Engineering)
