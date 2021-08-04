@@ -13,8 +13,8 @@ I am an undergraduate student at School of Electrical and Electronic Engineering
 
 News
 ======
-[Jul 2021] One paper is accepted to **ICCV 2021** (joint first author)
-[May 2021] One paper is accepted to **ICIP 2021** (first author)
+Jul 2021 - One paper is accepted to **ICCV 2021** (joint first author)  <br />
+May 2021 - One paper is accepted to **ICIP 2021** (first author)
 
 
 Publications
