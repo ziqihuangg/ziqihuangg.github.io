@@ -20,7 +20,7 @@ Education
 -----
 <img style="float: left;" src="../images/NTU_logo.png" width="200" height="200">
 ### Nanyang Technological University
-<p style="line-height:0.8">
+<p style="line-height:1.0">
 <font size="2">
 Aug 2018 - May 2022<br />
 B.E. in Information Engineering & Media<br />
