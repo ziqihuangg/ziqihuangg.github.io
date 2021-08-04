@@ -26,8 +26,10 @@ Education
 
 Publications
 -----
-Coming soon.
+Coming soon
 
 Awards
 -----
-Coming soon
+\- NTU Science and Engineering Undergraduate Scholarship          \(2018\-2022\)
+\- NTU President Research Scholar                                 \(2019\-2021\)
+\- Dean’s List (School of Electrical and Electronic Engineering)  \(2018\-2019\)
