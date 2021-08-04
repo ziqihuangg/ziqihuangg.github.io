@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Ziqi Huang"
+excerpt: "Ziqi Huang"
 author_profile: true
 redirect_from:
   - /about/
@@ -14,20 +14,20 @@ I am broadly interested in computer vision and deep learning.
 
 
 News
-======
+-----
 [07/2021] One paper is accepted to **ICCV 2021** (joint first author)  <br />
 [05/2021] One paper is accepted to **ICIP 2021** (first author)
 
 
 Publications
-======
+-----
 Coming soon.
 
 
 Education
-======
+-----
 Coming soon
 
 Awards
-======
+-----
 Coming soon
