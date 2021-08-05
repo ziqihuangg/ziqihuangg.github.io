@@ -36,7 +36,7 @@ Publications
 <font size="2">
 Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
-[Coming soon]
+
 </font>
 </p>
 -----
@@ -46,7 +46,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 <font size="2">
 <strong>Ziqi Huang</strong>, Hongyuan Zhu, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
-[Coming soon]
+
 </font>
 </p>
 
