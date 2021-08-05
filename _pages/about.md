@@ -13,8 +13,8 @@ Ziqi Huang is a final-year undergraduate student from School of Electrical and E
 
 News
 -----
-∙ [07/2021] One paper is accepted to **ICCV 2021** (joint first author)  <br />
-∙ [05/2021] One paper is accepted to **ICIP 2021** (first author)
+∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
+∙ [05/2021] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
 Education
 -----
@@ -25,6 +25,28 @@ Education
 Aug 2018 - May 2022<br />
 B.E. in Information Engineering & Media<br />
 <strong>CGPA: 5.00 / 5.00</strong>
+</font>
+</p>
+
+Publications
+-----
+<img style="float: left;" src="../images/iccv2021.png" width="200" height="200">
+### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
+<p style="line-height:1.0">
+<font size="2">
+Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
+IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
+[Coming soon]
+</font>
+</p>
+
+<img style="float: left;" src="../images/icip2021.png" width="200" height="200">
+### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Hongyuan Zhu, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
+IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
+[Coming soon]
 </font>
 </p>
 
