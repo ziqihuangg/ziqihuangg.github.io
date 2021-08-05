@@ -30,7 +30,7 @@ B.E. in Information Engineering & Media<br />
 
 Publications
 -----
-<img style="float: left;" src="../images/iccv.png" width="200" height="160">
+<img style="float: left;" src="../images/iccv2021.png" width="200" height="160">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
