@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a final-year undergraduate student from School of Electrical and Electronic Engineering (EEE) in Nanyang Technological University (NTU). She is fortunate to be a research student at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). Ziqi Huang is broadly interested in computer vision and deep learning.
+Ziqi Huang is a final-year undergraduate student from [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee) in [Nanyang Technological University (NTU)](https://www.ntu.edu.sg). She is fortunate to be a research student at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). Ziqi Huang is broadly interested in computer vision and deep learning.
 
 
 News
