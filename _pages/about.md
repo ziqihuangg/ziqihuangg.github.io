@@ -36,6 +36,9 @@ Publications
 <font size="2">
 Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
+<a href="tbc">Paper</a> | 
+<a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
+<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a>
 <br />
 </font>
 </p>
@@ -46,7 +49,8 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 <font size="2">
 <strong>Ziqi Huang</strong>, Hongyuan Zhu, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
-<a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a>
+<a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=W1TLrhTKPKE">Video</a>
 <br />
 </font>
 </p>
