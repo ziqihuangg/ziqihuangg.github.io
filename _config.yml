@@ -84,7 +84,7 @@ author:
   location: "Singapore"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en"
   email: "connie.huangziqi@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
