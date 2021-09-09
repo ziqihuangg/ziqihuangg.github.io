@@ -30,7 +30,7 @@ B.E. in Information Engineering & Media<br />
 
 Publications
 -----
-<img style="float: left; padding: 0px 0px 0px 3px" src="../images/celeba_dialog.png" width="200" height="160">
+<img style="float: left; padding: 1px 1px 1px 1px" src="../images/celeba_dialog.png" width="200" height="160">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -43,7 +43,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 </font>
 </p>
 -----
-<img style="float: left; padding: 0px 0px 0px 3px" src="../images/icip2021.png" width="200" height="160">
+<img style="float: left; padding: 1px 1px 1px 1px" src="../images/icip2021.png" width="200" height="160">
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
