@@ -18,7 +18,7 @@ News
 
 Education
 -----
-<img style="float: left;" src="../images/NTU_logo.png" width="200" height="160">
+<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
@@ -30,7 +30,7 @@ B.E. in Information Engineering & Media<br />
 
 Publications
 -----
-<img style="float: left; margin:5px 10px" src="../images/celeba_dialog.png" width="160" height="120">
+<img style="float: left; margin:5px 10px" src="../images/celeba_dialog.png" width="160" height="140">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -43,7 +43,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/icip2021.png" width="160" height="120">
+<img style="float: left; margin:5px 10px" src="../images/icip2021_thumb.png" width="160" height="140">
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
