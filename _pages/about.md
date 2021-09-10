@@ -36,7 +36,7 @@ Publications
 <font size="2">
 Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
-<a href="tbc">Paper</a> | 
+<a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
 <a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
 <a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a>
 <br />
