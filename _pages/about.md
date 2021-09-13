@@ -38,7 +38,8 @@ Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
 <a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
 <a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
-<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a>
+<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
+<a href="https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs">Dataset</a>
 <br />
 </font>
 </p>
