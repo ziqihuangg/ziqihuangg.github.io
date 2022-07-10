@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a final-year undergraduate student from [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee) in [Nanyang Technological University (NTU)](https://www.ntu.edu.sg). She is fortunate to be a research student at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). Ziqi Huang is broadly interested in computer vision and deep learning.
+Ziqi Huang is a first-year PhD student at [MMLab@NTU](https://www.mmlab-ntu.com), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She obtained her Bachelor's degree from [NTU](https://www.ntu.edu.sg), [School of EEE](https://www.ntu.edu.sg/eee). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). 
+
+Ziqi is broadly interested in computer vision and deep learning. She currently works on generative models, image generation, and image manipulation.
 
 
 News
 -----
+∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
+∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) for PhD study<br />
 ∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
 ∙ [05/2021] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
@@ -22,9 +26,18 @@ Education
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
+Aug 2022 - Present<br />
+PhD student in MMLab@NTU<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+### Nanyang Technological University
+<p style="line-height:1.0">
+<font size="2">
 Aug 2018 - May 2022<br />
 B.E. in Information Engineering & Media<br />
-<strong>CGPA: 5.00 / 5.00</strong>
+<strong>CGPA: 5.00 / 5.00 (Rank 1)</strong>
 </font>
 </p>
 
@@ -40,7 +53,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 <a href="https://www.youtube.com/watch?v=ZKMkQhkMXPI">Video</a> |
 <a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
 <a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
-<a href="http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html">Dataset</a>
+<a href="https://github.com/ziqihuangg/CelebA-Dialog">Dataset</a>
 <br />
 </font>
 </p>
@@ -59,6 +72,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
+∙ \(2022\) Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
 ∙ \(2018\-2022\) NTU Science and Engineering Undergraduate Scholarship<br />
 ∙ \(2019\-2021\) NTU President Research Scholar<br />
 ∙ \(2018\-2019\) Dean’s List (School of Electrical and Electronic Engineering)
