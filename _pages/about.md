@@ -12,9 +12,12 @@ Ziqi Huang is a first-year PhD student at [MMLab@NTU](https://www.mmlab-ntu.com)
 
 Ziqi is broadly interested in computer vision and deep learning. She currently works on generative models, image generation, and image manipulation.
 
+[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](ZIQI002@e.ntu.edu.sg)
+
 
 News
 -----
+∙ [08/2022] We are organizing [ECCV 2022 SenseHuman Workshop](https://sense-human.github.io)<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) for PhD study<br />
 ∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
