@@ -80,15 +80,15 @@ Awards
 -----
 ∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
-∙ \(2021\-2022\) Dean’s List (School of Electrical and Electronic Engineering)
+∙ \(2021\-2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
 ∙ \(2018\-2022\) NTU Science and Engineering Undergraduate Scholarship<br />
 ∙ \(2019\-2021\) NTU President Research Scholar<br />
 ∙ \(2018\-2019\) Dean’s List (School of Electrical and Electronic Engineering)
 
 Professional Service
 -----
-Workshop Organizer:
-∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)
-∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)
-Talks Organizer:
-∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI
+Workshop Organizer:<br />
+∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)<br />
+∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)<br />
+Talks Organizer:<br />
+∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
