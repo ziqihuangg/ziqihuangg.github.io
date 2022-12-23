@@ -12,7 +12,7 @@ Ziqi Huang is a first-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.co
 
 Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of EEE](https://www.ntu.edu.sg/eee). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). 
 
-[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](ZIQI002@e.ntu.edu.sg)
+[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
 
 
 News
@@ -22,7 +22,7 @@ News
 ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a PhD student<br />
-∙ [06/2022] [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
+∙ [06/2022] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
 ∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
 ∙ [05/2021] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
@@ -33,7 +33,7 @@ Education
 <p style="line-height:1.0">
 <font size="2">
 Aug 2022 - Present<br />
-Ph.D. student in MMLab@NTU<br />
+Ph.D. student at MMLab@NTU<br />
 </font>
 </p>
 -----
