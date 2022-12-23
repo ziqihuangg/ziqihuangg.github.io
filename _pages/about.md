@@ -10,7 +10,7 @@ redirect_from:
 
 Ziqi Huang is a first-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
 
-Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of EEE](https://www.ntu.edu.sg/eee). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). 
+Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). 
 
 [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
 
@@ -80,15 +80,15 @@ Awards
 -----
 ∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
-∙ \(2021\-2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
-∙ \(2018\-2022\) NTU Science and Engineering Undergraduate Scholarship<br />
-∙ \(2019\-2021\) NTU President Research Scholar<br />
-∙ \(2018\-2019\) Dean’s List (School of Electrical and Electronic Engineering)
+∙ \(2020 & 2021\) NTU President Research Scholar<br />
+∙ \(2019 & 2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
+∙ \(2018\) NTU Science and Engineering Undergraduate Scholarship<br />
 
 Professional Service
 -----
-Workshop Organizer:<br />
+Workshops Organizer:<br />
 ∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)<br />
 ∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)<br />
+-----
 Talks Organizer:<br />
 ∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
