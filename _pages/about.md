@@ -18,7 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 News
 -----
 ∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br />
-∙ [09/2022] Awarded [The Global Undergraduate Award Regional Winner (Asia)](https://undergraduateawards.com/winners/regional-winners-2022)<br />
+∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a PhD student<br />
@@ -78,7 +78,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
-∙ \(2022\) [The Global Undergraduate Award Regional Winner (Asia)](https://undergraduateawards.com/winners/regional-winners-2022)<br />
+∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
 ∙ \(2021\-2022\) Dean’s List (School of Electrical and Electronic Engineering)
 ∙ \(2018\-2022\) NTU Science and Engineering Undergraduate Scholarship<br />
