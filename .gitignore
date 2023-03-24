@@ -1,2 +1,3 @@
 _site/
 projects/trash
+*.DS_Store
