@@ -123,13 +123,16 @@ Professional Service
 Workshops Organizer:<br />
 ∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)<br />
 ∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)<br />
+
 -----
 Talks Organizer:<br />
 ∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
+
 -----
 Reviewer:<br />
 ∙ CVPR, ICIP, IJCV, IET CV
 
 Teaching
+
 -----
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
