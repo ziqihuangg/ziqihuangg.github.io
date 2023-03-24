@@ -17,6 +17,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br />
 ∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
@@ -47,14 +48,47 @@ B.E. in Information Engineering & Media<br />
 </font>
 </p>
 
+
+Preprint
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
+### ReVersion: Diffusion-Based Relation Inversion from Images
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu<br />
+arXiv Preprint, 2023<br />
+<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
+<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
+<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
+<a href="https://ziqihuangg.github.io/projects/reversion.html">Dataset</a>
+<br />
+</font>
+</p>
+
+
 Publications
 -----
-<img style="float: left; margin:5px 10px" src="../images/celeba_dialog.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
+### Collaborative Diffusion for Multi-Modal Face Generation and Editing
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
+<a href="https://ziqihuangg.github.io">Paper</a> | 
+<a href="https://ziqihuangg.github.io">Video</a> |
+<a href="https://ziqihuangg.github.io">Code</a>
+
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/celeba_dialog.png" width="160" height="140">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
 Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
-IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
 <a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=ZKMkQhkMXPI">Video</a> |
 <a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
@@ -64,7 +98,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2021<b
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/icip2021_thumb.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/icip2021_thumb.png" width="160" height="140">
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
@@ -89,7 +123,13 @@ Professional Service
 Workshops Organizer:<br />
 ∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)<br />
 ∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)<br />
-
 -----
 Talks Organizer:<br />
 ∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
+-----
+Reviewer:<br />
+∙ CVPR, ICIP, IJCV, IET CV
+
+Teaching
+-----
+∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
