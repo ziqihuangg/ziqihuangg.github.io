@@ -133,6 +133,5 @@ Reviewer:<br />
 ∙ CVPR, ICIP, IJCV, IET CV
 
 Teaching
-
 -----
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
