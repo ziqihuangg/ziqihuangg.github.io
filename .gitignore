@@ -1,8 +1,8 @@
 _site/
 projects/trash
-projects/assets/reversion/images/*.ppt
+projects/assets/reversion/images/*.pptx
 projects/assets/reversion/images/*.pdf
-projects/assets/reversion/images/*/*.ppt
+projects/assets/reversion/images/*/*.pptx
 projects/assets/reversion/images/*/*pdf
 
 *.DS_Store
