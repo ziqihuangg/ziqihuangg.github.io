@@ -150,7 +150,8 @@ body {
 
 .results-carousel .item .carousel-content {
     padding: 0px 0 12px 0;
-    border-radius: 10px
+    /* border-radius: 10px */
+    border-radius: 0px
 }
 
 .unpad {
@@ -166,8 +167,10 @@ body {
 }
 
 .results-carousel img {
-  border: 1px solid #bbb;
-  border-radius: 10px;
+  /* border: 1px solid #bbb;
+  border-radius: 10px; */
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
   width: 100%;
   max-width: 4096px;
 }
