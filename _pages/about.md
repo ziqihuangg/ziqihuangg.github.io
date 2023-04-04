@@ -62,7 +62,8 @@ arXiv Preprint, 2023<br />
 <a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
 <a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
 <a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
-<a href="https://ziqihuangg.github.io/projects/reversion.html">Dataset</a>
+<a href="https://ziqihuangg.github.io/projects/reversion.html">Dataset</a> |
+<a href="https://huggingface.co/spaces/Ziqi/ReVersion">Demo</a>
 <br />
 </font>
 </p>
