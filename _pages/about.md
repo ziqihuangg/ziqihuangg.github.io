@@ -78,8 +78,9 @@ Publications
 <strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
 <a href="https://ziqihuangg.github.io">Paper</a> | 
-<a href="https://ziqihuangg.github.io">Video</a> |
-<a href="https://ziqihuangg.github.io">Code</a>
+<a href="https://www.youtube.com/watch?v=inLK4c8sNhc">Video</a> |
+<a href="https://github.com/ziqihuangg/Collaborative-Diffusion">Code</a> |
+<a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html">Project Page</a>
 
 <br />
 </font>

@@ -169,6 +169,7 @@
                 <br><br>    
                 In this work, we present Collaborative Diffusion, where pre-trained uni-modal diffusion models collaborate to achieve multi-modal face generation and editing without re-training. Our key insight is that diffusion models driven by different modalities are inherently complementary regarding the latent denoising steps, where bilateral connections can be established upon. Specifically, we propose dynamic diffuser, a meta-network that adaptively hallucinates multi-modal denoising steps by predicting the spatial-temporal influence functions for each pre-trained uni-modal model. Collaborative Diffusion not only collaborates generation capabilities from uni-modal diffusion models, but also integrates multiple uni-modal manipulations to perform multi-modal editing. Extensive qualitative and quantitative experiments demonstrate the superiority of our framework in both image quality and condition consistency.
             </p>
+            <br>
         </div>
       </div>
     </div>
@@ -229,7 +230,7 @@
         <div class="columns is-centered has-text-centered">
           <div class="column">
             <div class="publication-img">
-              <img id="architecture" src="assets/collaborative-diffusion/images/fig_generation/fig_generation.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/>
+              <img id="architecture" src="assets/collaborative-diffusion/images/fig_generation/fig_generation.jpg" style="width:1000px; margin-top:10px;margin-bottom:-20px;"/>
             </div>
           </div>
         </div>
@@ -451,7 +452,6 @@
       <p>
         <b>Temporal Variations:</b> The influence from the mask-driven model is stronger at earlier diffusion stages (i.e., larger t), since early stages focus on initializing the facial layout using the mask-driven model’s predictions. At later stages, the influence from the text-driven model increases as the textural details (e.g., skin wrinkles and beard length) are instantiated using information from the text.
       <p>      
-      <br>
 
 
       <div class="columns is-centered has-text-centered">
@@ -461,7 +461,8 @@
           </div>
         </div>
       </div>
-
+      
+      <br>
 
       <p>
         Below shows the influence functions at each DDIM timestep. (a) Given the mask condition, (b) displays the influence functions of the mask-driven collaborator at each DDIM sampling step t = 980, 960, ..., 20, 0, from the left to right, top to down. (c) Given the text condition, (d) displays the influence functions of the text-driven collaborator similarly. (f) shows the intermediate diffusion denoising results.
