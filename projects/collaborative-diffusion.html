@@ -1,1 +1,484 @@
-coming soon
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Collaborative Diffusion for Multi-Modal Face Generation and Editing">
+  <meta name="keywords" content="Collaborative Diffusion, Diffusion Model, Image Generation, Image Editing, Face Synthesis, Face Generation, Face Editing, Face Manipulation, Text-to-Image, Stable Diffusion, LDM, Latent Diffusion Model, AIGC">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Collaborative Diffusion for Multi-Modal Face Generation and Editing</title>
+
+<!--   Global site tag (gtag.js) - Google Analytics-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5ZVQZ7NHC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-Y5ZVQZ7NHC');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/collaborative-diffusion/css/bulma.min.css">
+  <link rel="stylesheet" href="./assets/collaborative-diffusion/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./assets/collaborative-diffusion/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./assets/collaborative-diffusion/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./assets/collaborative-diffusion/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./assets/collaborative-diffusion/js/fontawesome.all.min.js"></script>
+  <script src="./assets/collaborative-diffusion/js/bulma-carousel.min.js"></script>
+  <script src="./assets/collaborative-diffusion/js/bulma-slider.min.js"></script>
+  <script src="./assets/collaborative-diffusion/js/index.js"></script>
+</head>
+<body>
+
+<!-- title -->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <!-- <h1 class="title is-1 publication-title"><span style="color:#CB4335; font-weight: bold; font-style: italic">Collaborative Diffusion</span> for <br> Multi-Modal Face Generation and Editing</h1> -->
+          <h1 class="title is-1 publication-title"><span style="color:#CB4335; font-weight: bold;">Collaborative Diffusion</span> for <br> Multi-Modal Face Generation and Editing</h1>
+
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">CVPR 2023</span>
+        </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+
+              <span class="author-block">
+                  <a href="https://ziqihuangg.github.io" target="_blank">Ziqi Huang</a>,
+              </span>
+              <span class="author-block">
+                <a href="https://ckkelvinchan.github.io" target="_blank">Kelvin C.K. Chan</a>,
+              </span>
+              <span class="author-block">
+                <a href="https://yumingj.github.io/" target="_blank">Yuming Jiang</a>,
+              </span>
+              <span class="author-block">
+                <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>&#8224</sup>
+              </span>
+          </div>
+
+
+
+        <div class="is-size-5 publication-authors">
+          <span class="author-block">S-Lab, Nanyang Technological University</span>
+        </div>
+
+        <div class="column has-text-centered">
+          <div class="publication-links">
+            
+            <span class="link-block">
+              <a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="ai ai-arxiv"></i>
+                </span>
+                <span>Arxiv</span>
+              </a>
+            </span>
+            <!-- Video Link. -->
+            <span class="link-block">
+              <a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-youtube"></i>
+                </span>
+                <span>Video</span>
+              </a>
+            </span>
+            <!-- Code Link. -->
+            <span class="link-block">
+              <a href="https://github.com/ziqihuangg/Collaborative-Diffusion" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-github"></i>
+                </span>
+                <span>GitHub</span>
+              </a>
+            </span>
+            <!-- Huggingface Demo Link. -->
+            <!-- <span class="link-block">
+              <a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span>Huggingface Demo</span>
+              </a>
+            </span> -->
+
+          </div>
+
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- teaser -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="assets/collaborative-diffusion/images/fig_teaser/fig_teaser.jpg" style="width:1000px; margin-bottom:20px;"
+                   alt="Teaser."/>
+      <p>
+        We propose <b>Collaborative Diffusion</b>, where users can use multiple modalities to control face generation and editing. <br><b>(a) Face Generation</b>. Given multi-modal controls, our framework synthesizes high-quality images consistent with the input conditions. <b>(b) Face Editing</b>. Collaborative Diffusion also supports multi-modal editing of real images with promising identity preservation capability.
+      <p>
+    </div>
+  </div>
+</section>
+
+
+<!-- Paper video. -->
+<!-- <section class="hero is-light is-small">
+  <div class="columns is-centered has-text-centered"  style="margin-top: 10px; margin-bottom: 20px;">
+    <div class="column is-three-fifths">
+      <h2 class="title is-3">Video</h2>
+      <div class="publication-video">
+        <iframe src="https://www.youtube.com/embed/pkal3yjyyKQ" frameborder="10"
+          allow="autoplay; encrypted-media" width="50%" allowfullscreen></iframe>
+      </div>
+
+    </div>
+  </div>
+</section> -->
+<!-- / Paper video.   -->
+
+
+<!-- Abstract. -->
+<section class="hero is-light is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered" style="margin-top: 10px; margin-bottom: 0px;">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+                Diffusion models arise as a powerful generative tool recently. Despite the great progress, existing diffusion models mainly focus on uni-modal control, i.e., the diffusion process is driven by only one modality of condition. To further unleash the users' creativity, it is desirable for the model to be controllable by multiple modalities simultaneously, e.g., generating and editing faces by describing the age (text-driven) while drawing the face shape (mask-driven).
+                <br><br>    
+                In this work, we present Collaborative Diffusion, where pre-trained uni-modal diffusion models collaborate to achieve multi-modal face generation and editing without re-training. Our key insight is that diffusion models driven by different modalities are inherently complementary regarding the latent denoising steps, where bilateral connections can be established upon. Specifically, we propose dynamic diffuser, a meta-network that adaptively hallucinates multi-modal denoising steps by predicting the spatial-temporal influence functions for each pre-trained uni-modal model. Collaborative Diffusion not only collaborates generation capabilities from uni-modal diffusion models, but also integrates multiple uni-modal manipulations to perform multi-modal editing. Extensive qualitative and quantitative experiments demonstrate the superiority of our framework in both image quality and condition consistency.
+            </p>
+        </div>
+      </div>
+    </div>
+</section>
+<!--/ Abstract. -->
+
+<!--/ Framework. -->
+<section class="section" style="margin-top:-50px; margin-bottom:-50px;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+        <div class="section-title">
+          <h2 class="title is-3 is-centered">Framework</h2>
+        </div>
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <div class="publication-img">
+              <img id="architecture" src="assets/collaborative-diffusion/images/fig_framework/fig_framework.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/>
+            </div>
+          </div>
+        </div>
+        <p>
+            We use pre-trained uni-modal diffusion models to perform multi-modal guided face generation and editing. At each step of the reverse process (i.e., from timestep t to t − 1), the <b>dynamic diffuser</b> predicts the spatial-varying and temporal-varying <b>influence function</b> to <em>selectively enhance or suppress the contributions of the given modality</em>.
+        </p>
+    </div>
+  </div>
+</section>
+
+
+
+<!--/ Framework. -->
+<section class="section" style="margin-top:-50px; margin-bottom:-50px;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+        <div class="section-title">
+          <h2 class="title is-3 is-centered">Multi-Modal-Driven Face Generation</h2>
+        </div>
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <div class="publication-img">
+              <img id="architecture" src="assets/collaborative-diffusion/images/fig_generation/fig_generation.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/>
+            </div>
+          </div>
+        </div>
+        <p>
+          Our method generates realistic images under different combinations of multi-modal conditions, even for relatively rare combinations in the training distribution, such as a man with long hair.
+        </p>
+    </div>
+  </div>
+</section>
+
+
+<!--/ Framework. -->
+<section class="section" style="margin-top:-50px; margin-bottom:-50px;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+        <div class="section-title">
+          <h2 class="title is-3 is-centered">Multi-Modal-Driven Face Editing</h2>
+        </div>
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <div class="publication-img">
+              <!-- <img id="architecture" src="assets/collaborative-diffusion/images/fig_generation/fig_generation.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/> -->
+            </div>
+          </div>
+        </div>
+        <p>
+          Coming soon.
+        </p>
+    </div>
+  </div>
+</section>
+
+
+<!--/ Framework. -->
+<section class="section" style="margin-top:-50px; margin-bottom:-50px;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+        <div class="section-title">
+          <h2 class="title is-3 is-centered">Influence Functions</h2>
+        </div>
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <div class="publication-img">
+              <!-- <img id="architecture" src="assets/collaborative-diffusion/images/fig_generation/fig_generation.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/> -->
+            </div>
+          </div>
+        </div>
+        <p>
+          Coming soon.
+        </p>
+    </div>
+  </div>
+</section>
+
+<!-- Diverse Relations -->
+<!-- <section class="hero is-light is-small" >
+  <div class="hero-body">
+
+
+    <div class="container is-max-desktop"  style="margin-top:30px;">
+
+      <div class="section-title">
+        <h2 class="title is-3">Diverse Relations</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">Inverting diverse relations and apply them on new objects.</h2>
+      
+
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/supp_relations/fig_supp_hanging_from_shake_hands.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/supp_relations/fig_supp_inside_a_back2back.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/supp_relations/fig_supp_inside_b.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/supp_relations/fig_supp_ride_on_hug.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+
+      </div>
+    </div>    
+
+  
+</section> -->
+
+<!-- <section class="section"  style="margin-top:-100px; margin-bottom:-60px;">
+  <div class="hero-body">
+
+    <div class="container is-max-desktop">
+
+
+      </br>
+      </br>
+      <h2 class="subtitle has-text-centered">More results.</h2>
+      
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/paper_results/result_1.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/paper_results/result_2.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/paper_results/result_3.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/paper_results/result_4.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/paper_results/result_5.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+      </div>
+    
+  </div>
+</section> -->
+
+
+
+
+<!-- Diverse Backgrounds and Styles -->
+<!-- <section class="hero is-light is-small">
+  <div class="hero-body">
+
+
+    <div class="container is-max-desktop"   style="margin-top:30px;">
+
+      <div class="section-title">
+        <h2 class="title is-3">Diverse Backgrounds and Styles</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">The relation inverted by ReVersion can be applied robustly to related entities in scenes with diverse backgrounds or styles.</h2>
+
+
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/styles/styles_1.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/styles/styles_2.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/styles/styles_3.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/styles/styles_4.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+
+      </div>
+    </div>    
+
+</section> -->
+
+
+
+
+<!-- Robust Entity Combinations -->
+<!-- <section class="section" style="margin-top:-50px; margin-bottom:-70px;">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+
+      <div class="section-title">
+        <h2 class="title is-3">Robust Entity Combinations</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">Inverted relation can be robustly applied to arbitrary entity combinations.</h2>
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/collaborative-diffusion/images/fig_supp_carved_by.jpg" style="width:100%; margin-bottom:20px;"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content" style="text-align: center">
+            <img src="assets/collaborative-diffusion/images/fig_supp_painted_on.jpg" style="width:60%; margin-bottom:20px;"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+
+<!-- BibTeX -->
+<section class="hero is-light is-small" id="BibTeX" >
+  <div class="container is-max-desktop content" style="margin-top: 40px; margin-bottom: 20px;">
+    <h2 class="title">BibTeX</h2>
+    <p>If you find our work useful, please consider citing our paper:</p>
+    <pre><code> @InProceedings{huang2023collaborative,
+      author = {Huang, Ziqi and Chan, Kelvin C.K. and Jiang, Yuming and Liu, Ziwei},
+      title = {Collaborative Diffusion for Multi-Modal Face Generation and Editing},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      year = {2023},
+  }</code></pre>
+  </div>
+</section>
+
+<!-- footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="https://arxiv.org/abs/2303.13495">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/ziqihuangg/ReVersion" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            Website source code based on the <a href="https://nerfies.github.io/"> Nerfies</a> project page. If you want to reuse their <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a>, please credit them appropriately.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
