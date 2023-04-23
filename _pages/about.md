@@ -17,6 +17,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
 ∙ [03/2023] We released the paper [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
 ∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br />
@@ -45,7 +46,7 @@ Ph.D. student at MMLab@NTU<br />
 <font size="2">
 Aug 2018 - May 2022<br />
 B.E. in Information Engineering & Media<br />
-<strong>CGPA: 5.00 / 5.00 (Rank 1)</strong>
+<strong>CGPA: 5.00 / 5.00 (ranking: 1)</strong>
 </font>
 </p>
 
