@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a first-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
+Ziqi Huang is a Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
 
 Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r). 
 
@@ -19,9 +19,9 @@ News
 -----
 ∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
 ∙ [03/2023] We released the paper [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
-∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
-∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br />
-∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
+<!-- ∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br /> -->
+<!-- ∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br /> -->
+<!-- ∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br /> -->
 <!-- ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a PhD student<br />
@@ -117,7 +117,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 Awards
 -----
 ∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/convocation/about-convocation/medals-and-prizes/lee-kuan-yew-gold-medal) (Top 1 in Undergraduate Cohort)<br />
+∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ \(2020 & 2021\) NTU President Research Scholar<br />
 ∙ \(2019 & 2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
 ∙ \(2018\) NTU Science and Engineering Undergraduate Scholarship<br />
@@ -134,7 +134,7 @@ Talks Organizer:<br />
 
 -----
 Reviewer:<br />
-∙ CVPR, ICIP, IJCV, IET CV
+∙ CVPR, ICCV, ICIP, IJCV, IET CV
 
 Teaching
 -----
