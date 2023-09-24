@@ -17,8 +17,9 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [09/2023] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
 ∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
-∙ [03/2023] We released the paper [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
+∙ [03/2023] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
 <!-- ∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br /> -->
 <!-- ∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br /> -->
 <!-- ∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br /> -->
@@ -52,6 +53,20 @@ B.E. in Information Engineering & Media<br />
 
 
 Preprint
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu.jpg" width="160" height="140">
+### FreeU: Free Lunch in Diffusion U-Net
+<p style="line-height:1.0">
+<font size="2">
+Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu<br />
+arXiv Preprint, 2023<br />
+<a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
+<a href="https://github.com/ChenyangSi/FreeU">Code</a> |
+<a href="https://chenyangsi.top/FreeU/">Project Page</a>
+<br />
+</font>
+</p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
 ### ReVersion: Diffusion-Based Relation Inversion from Images
