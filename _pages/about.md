@@ -53,12 +53,14 @@ B.E. in Information Engineering & Media<br />
 
 
 Preprint
+(* equal contribution, † corresponding author)
+
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
 ### FreeU: Free Lunch in Diffusion U-Net
 <p style="line-height:1.0">
 <font size="2">
-Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu<br />
+Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu†<br />
 arXiv Preprint, 2023<br />
 <a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
@@ -68,11 +70,23 @@ arXiv Preprint, 2023<br />
 </font>
 </p>
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
+### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu†<br />
+arXiv Preprint, 2023<br />
+<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
+<a href="https://vchitect.github.io/LaVie-project/">Project Page</a>
+<br />
+</font>
+</p>
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
 ### ReVersion: Diffusion-Based Relation Inversion from Images
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu<br />
+<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
 arXiv Preprint, 2023<br />
 <a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
@@ -91,7 +105,7 @@ Publications
 ### Collaborative Diffusion for Multi-Modal Face Generation and Editing
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
+<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu†<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
 <a href="https://arxiv.org/abs/2304.10530">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=inLK4c8sNhc">Video</a> |
@@ -106,7 +120,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
-Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu<br />
+Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
 IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
 <a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=ZKMkQhkMXPI">Video</a> |
@@ -121,7 +135,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Hongyuan Zhu, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
+<strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
 <a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=W1TLrhTKPKE">Video</a>
