@@ -74,8 +74,8 @@ arXiv Preprint, 2023<br />
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† 
-arXiv Preprint, 2023<br />
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2023 
 <a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
 <a href="https://vchitect.github.io/LaVie-project/">Project Page</a>
 <br />
