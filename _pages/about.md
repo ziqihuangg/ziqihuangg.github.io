@@ -52,9 +52,7 @@ B.E. in Information Engineering & Media<br />
 </p>
 
 
-Preprint
-(* equal contribution, † corresponding author)
-
+Preprints
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
 ### FreeU: Free Lunch in Diffusion U-Net
