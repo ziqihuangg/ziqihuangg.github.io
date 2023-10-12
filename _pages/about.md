@@ -54,6 +54,19 @@ B.E. in Information Engineering & Media<br />
 
 Preprints
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
+### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2023 
+<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
+<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
+<a href="https://github.com/Vchitect/LaVie">Code</a>
+<br />
+</font>
+</p>
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
 ### FreeU: Free Lunch in Diffusion U-Net
 <p style="line-height:1.0">
@@ -63,19 +76,8 @@ arXiv Preprint, 2023<br />
 <a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
 <a href="https://github.com/ChenyangSi/FreeU">Code</a> |
-<a href="https://chenyangsi.top/FreeU/">Project Page</a>
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
-### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2023 
-<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
-<a href="https://vchitect.github.io/LaVie-project/">Project Page</a>
+<a href="https://chenyangsi.top/FreeU/">Project Page</a> |
+<a href="https://huggingface.co/spaces/Ziqi/ReVersion">Demo</a>
 <br />
 </font>
 </p>
@@ -91,7 +93,7 @@ arXiv Preprint, 2023<br />
 <a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
 <a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
 <a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
-<a href="https://huggingface.co/spaces/Ziqi/ReVersion">Demo</a>
+<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
 <br />
 </font>
 </p>
