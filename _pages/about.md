@@ -28,7 +28,7 @@ News
 ∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
-∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a PhD student<br />
+∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
 ∙ [06/2022] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
 ∙ [05/2021] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
@@ -154,6 +154,10 @@ Awards
 ∙ \(2020 & 2021\) NTU President Research Scholar<br />
 ∙ \(2019 & 2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
 ∙ \(2018\) NTU Science and Engineering Undergraduate Scholarship<br />
+
+Talk
+-----
+∙ [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net"<br />
 
 Professional Service
 -----
