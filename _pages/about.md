@@ -163,7 +163,9 @@ Talks Organizer:<br />
 
 -----
 Reviewer:<br />
-∙ CVPR, ICCV, ICIP, IJCV, IET CV
+∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP
+∙ Journal Reviewer: IJCV, IET CV 
+∙ Workshop Reviewer: ICCV 2023 CVEU Workshop (Outstanding Reviewer), CVPR 2023 WiCV Workshop
 
 Teaching
 -----
