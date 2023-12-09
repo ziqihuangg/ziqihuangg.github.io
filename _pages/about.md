@@ -18,6 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [11/2023] We released [VBench](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
 ∙ [11/2023] I am awarded the Google PhD Fellowship 2023<br />
 ∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
 ∙ [09/2023] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
@@ -56,6 +57,21 @@ B.E. in Information Engineering & Media<br />
 
 
 Preprints
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench.jpg" width="160" height="140">
+### VBench: Comprehensive Benchmark Suite for Video Generative Models
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2023 
+<a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
+<a href="https://github.com/Vchitect/VBench">Code</a> |
+<a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<br />
+</font>
+</p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
