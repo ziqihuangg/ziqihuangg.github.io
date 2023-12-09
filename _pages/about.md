@@ -18,7 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
-∙ [11/2023] We released [VBench](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
+∙ [11/2023] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
 ∙ [11/2023] I am awarded the Google PhD Fellowship 2023<br />
 ∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
 ∙ [09/2023] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
