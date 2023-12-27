@@ -62,7 +62,7 @@ Preprints
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
-Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu†† <br />
+Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
 arXiv Preprint, 2023 
 <a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
 <a href="https://youtu.be/lS5IYbAqriI">Video</a> |
