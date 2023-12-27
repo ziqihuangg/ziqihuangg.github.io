@@ -58,7 +58,7 @@ B.E. in Information Engineering & Media<br />
 
 Preprints
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="240">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -73,8 +73,7 @@ arXiv Preprint, 2023<br />
 </font>
 </p>
 -----
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench.jpg" width="160" height="240">
+<img style="float: left; margin:20px 20px" src="../images/paper_teasers/vbench.jpg" width="160" height="140">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
