@@ -19,7 +19,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 News
 -----
 ∙ [11/2023] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
-∙ [11/2023] I am awarded the Google PhD Fellowship 2023<br />
+∙ [11/2023] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
 ∙ [09/2023] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
 ∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
@@ -73,7 +73,7 @@ arXiv Preprint, 2023<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:20px 20px" src="../images/paper_teasers/vbench.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -179,7 +179,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
-∙ \(2023\) Google PhD Fellowship<br />
+∙ \(2023\) [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ \(2020 & 2021\) NTU President Research Scholar<br />
