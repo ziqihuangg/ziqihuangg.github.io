@@ -58,6 +58,22 @@ B.E. in Information Engineering & Media<br />
 
 Preprints
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="240">
+### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu†† <br />
+arXiv Preprint, 2023 
+<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
+<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
+<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
+<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
+<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
+<br />
+</font>
+</p>
+-----
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench.jpg" width="160" height="240">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
