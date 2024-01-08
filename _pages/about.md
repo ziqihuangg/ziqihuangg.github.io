@@ -135,6 +135,29 @@ arXiv Preprint, 2023<br />
 
 Publications
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/handbook_logo.png" width="160" height="140">
+### Generative Networks
+<p style="line-height:1.0">
+<font size="2">
+Ziwei Liu, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
+Handbook of Face Recognition, Third Edition, 2024<br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> | 
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/talk-to-edit-pami.png" width="160" height="140">
+### Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog
+<p style="line-height:1.0">
+<font size="2">
+Yuming Jiang, <strong>Ziqi Huang</strong>, Tianxing Wu, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
+<a href="https://ieeexplore.ieee.org/document/10374263/">Paper</a> | 
+<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
+<br />
+</font>
+</p>
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
 ### Collaborative Diffusion for Multi-Modal Face Generation and Editing
 <p style="line-height:1.0">

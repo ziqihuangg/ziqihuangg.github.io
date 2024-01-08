@@ -11,3 +11,4 @@ projects/assets/collaborative-diffusion/images/*/*.pptx
 projects/assets/collaborative-diffusion/images/*/*pdf
 
 *.DS_Store
+trash/*
