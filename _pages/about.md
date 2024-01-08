@@ -139,9 +139,9 @@ Publications
 ### Generative Networks
 <p style="line-height:1.0">
 <font size="2">
-Ziwei Liu, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
+Ziwei Liu†, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
 Handbook of Face Recognition, Third Edition, 2024<br />
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> | 
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> 
 <br />
 </font>
 </p>
@@ -151,9 +151,9 @@ Handbook of Face Recognition, Third Edition, 2024<br />
 <p style="line-height:1.0">
 <font size="2">
 Yuming Jiang, <strong>Ziqi Huang</strong>, Tianxing Wu, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024<br />
 <a href="https://ieeexplore.ieee.org/document/10374263/">Paper</a> | 
-<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
+<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a>
 <br />
 </font>
 </p>
