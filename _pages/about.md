@@ -18,6 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2024<br />
 ∙ [11/2023] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
 ∙ [11/2023] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
