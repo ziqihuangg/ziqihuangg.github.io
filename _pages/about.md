@@ -18,7 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
-∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2024<br />
+∙ [12/2023] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/) at CVPR 2024<br />
 ∙ [11/2023] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
 ∙ [11/2023] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
@@ -26,7 +26,7 @@ News
 ∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
 ∙ [03/2023] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
 ∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
-∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/) at CVPR 2023<br />
+∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023) at CVPR 2023<br />
 ∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
 ∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
@@ -153,6 +153,7 @@ Handbook of Face Recognition, Third Edition, 2023<br />
 <font size="2">
 Yuming Jiang, <strong>Ziqi Huang</strong>, Tianxing Wu, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023<br />
+<a href="https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf">PDF</a> | 
 <a href="https://ieeexplore.ieee.org/document/10374263/">Paper</a> | 
 <a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a>
 <br />
@@ -195,6 +196,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 <font size="2">
 <strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
+<a href="https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf">PDF</a> | 
 <a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=W1TLrhTKPKE">Video</a>
 <br />
@@ -212,13 +214,15 @@ Awards
 
 Talk
 -----
-∙ [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net"<br />
+∙ [2023-10] Invited talk at Adobe Research on "Exploring Free Lunch in Diffusion U-Net", [Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4)<br />
+∙ [2023-06] Invited talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC", [Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf)<br />
 
 Professional Service
 -----
 Workshops Organizer:<br />
-∙ CVPR 2023 - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv/)<br />
-∙ ECCV 2022 - [SenseHuman Workshop](https://sense-human.github.io)<br />
+∙ CVPR 2024 - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
+∙ CVPR 2023 - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
+∙ ECCV 2022 - SenseHuman: Sensing, Understanding and Synthesizing Humans, [Website](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
 
 -----
 Talks Organizer:<br />
@@ -232,4 +236,5 @@ Reviewer:<br />
 
 Teaching
 -----
+∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
