@@ -18,22 +18,23 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
-∙ [12/2023] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/) at CVPR 2024<br />
-∙ [11/2023] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
-∙ [11/2023] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [10/2023] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
-∙ [09/2023] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
-∙ [04/2023] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
-∙ [03/2023] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
-∙ [02/2023] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
-∙ [12/2022] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023) at CVPR 2023<br />
-∙ [09/2022] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ [08/2022] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
-∙ [08/2022] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
-∙ [08/2022] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
+∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com)<br />
+∙ [2023-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/) at CVPR 2024<br />
+∙ [2023-11] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
+∙ [2023-11] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
+∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
+∙ [2023-11] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
+∙ [2023-11] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
+∙ [2023-11] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
+∙ [2023-02] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
+∙ [2022-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023) at CVPR 2023<br />
+∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
+∙ [2022-08] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
+∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
+∙ [2022-08] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
 ∙ [06/2022] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ [07/2021] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
-∙ [05/2021] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
+∙ [2021-07] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
+∙ [2021-05] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
 Education
 -----
@@ -57,29 +58,14 @@ B.E. in Information Engineering & Media<br />
 </p>
 
 
-Preprints
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
-### FreeInit : Bridging Initialization Gap in Video Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
-arXiv Preprint, 2023<br /> 
-<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
-<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
-<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
-<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
-<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
-<br />
-</font>
-</p>
+Publications
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2023 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
 <a href="https://github.com/Vchitect/VBench">Code</a> |
@@ -89,25 +75,12 @@ arXiv Preprint, 2023
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
-### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2023 
-<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
-<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
-<a href="https://github.com/Vchitect/LaVie">Code</a>
-<br />
-</font>
-</p>
------
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
 ### FreeU: Free Lunch in Diffusion U-Net
 <p style="line-height:1.0">
 <font size="2">
 Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu†<br />
-arXiv Preprint, 2023<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
 <a href="https://github.com/ChenyangSi/FreeU">Code</a> |
@@ -116,25 +89,6 @@ arXiv Preprint, 2023<br />
 <br />
 </font>
 </p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
-### ReVersion: Diffusion-Based Relation Inversion from Images
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
-arXiv Preprint, 2023<br />
-<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
-<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
-<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
-<a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
-<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
-<br />
-</font>
-</p>
-
-
-Publications
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/handbook_logo.png" width="160" height="140">
 ### Generative Networks
@@ -202,6 +156,57 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 <br />
 </font>
 </p>
+
+
+
+
+Preprints
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
+### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
+arXiv Preprint, 2023<br /> 
+<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
+<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
+<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
+<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
+<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
+### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2023 
+<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
+<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
+<a href="https://github.com/Vchitect/LaVie">Code</a>
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
+### ReVersion: Diffusion-Based Relation Inversion from Images
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
+arXiv Preprint, 2023<br />
+<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
+<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
+<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
+<a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
+<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
+<br />
+</font>
+</p>
+
+
 
 Awards
 -----
