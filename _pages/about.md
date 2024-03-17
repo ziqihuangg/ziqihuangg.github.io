@@ -26,6 +26,7 @@ News
 ∙ [2023-11] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
 ∙ [2023-11] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
 ∙ [2023-11] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
+∙ [2023-10] Awarded Outstanding Reviewer for [CVEU Workshop (ICCV 2023)](https://cveu.github.io)<br />
 ∙ [2023-02] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [2022-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023) at CVPR 2023<br />
 ∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
@@ -211,6 +212,7 @@ arXiv Preprint, 2023<br />
 Awards
 -----
 ∙ \(2023\) [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
+∙ \(2023\) Outstanding Reviewer, CVEU Workshop, ICCV 2023<br />
 ∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ \(2020 & 2021\) NTU President Research Scholar<br />
