@@ -66,7 +66,7 @@ Publications
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red">(Spotlight)</span><br />
 <a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
 <a href="https://github.com/Vchitect/VBench">Code</a> |
@@ -81,7 +81,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <p style="line-height:1.0">
 <font size="2">
 Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu†<br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red">(Oral)</span><br />
 <a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
 <a href="https://github.com/ChenyangSi/FreeU">Code</a> |
