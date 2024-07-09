@@ -18,6 +18,8 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
+∙ [2024-04] We are organizing [LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot](https://sites.google.com/view/loveucvpr24/home) at CVPR 2024<br />
 ∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com)<br />
 ∙ [2023-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/) at CVPR 2024<br />
 ∙ [2023-11] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
@@ -60,6 +62,21 @@ B.E. in Information Engineering & Media<br />
 
 
 Publications
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
+### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
+<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
+<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
+<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
+<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
+<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
+<br />
+</font>
+</p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
@@ -163,21 +180,6 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Preprints
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
-### FreeInit : Bridging Initialization Gap in Video Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
-arXiv Preprint, 2023<br /> 
-<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
-<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
-<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
-<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
-<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
-<br />
-</font>
-</p>
------
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
@@ -221,12 +223,15 @@ Awards
 
 Talk
 -----
-∙ [2023-10] Invited talk at Adobe Research on "Exploring Free Lunch in Diffusion U-Net", [Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4)<br />
-∙ [2023-06] Invited talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC", [Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf)<br />
+∙ [2024-06] Oral Presentation at CVPR 2024 Workshop for accepted paper "FreeU: Free Lunch in Diffusion U-Net"<br />
+∙ [2024-06] Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models"<br />
+∙ [2023-10] Talk at Adobe Research on "Exploring Free Lunch in Diffusion U-Net", [Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4)<br />
+∙ [2023-06] Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC", [Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf)<br />
 
 Professional Service
 -----
 Workshops Organizer:<br />
+∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 ∙ CVPR 2023 - Organizer - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
 ∙ ECCV 2022 - Organizer - SenseHuman: Sensing, Understanding and Synthesizing Humans, [Website](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
@@ -237,7 +242,7 @@ Talks Organizer:<br />
 
 -----
 Reviewer:<br />
-∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP<br />
+∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, Siggraph Asia<br />
 ∙ Journal Reviewer: IJCV, IET CV<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop (Outstanding Reviewer), CVPR 2023 WiCV Workshop
 
