@@ -21,7 +21,7 @@ News
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
-∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/)<br />
+∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 ∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br />
 ∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
@@ -32,7 +32,7 @@ News
 ∙ [2023-02] One paper accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [2022-12] We are organizing CVPR 2023 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicvcvpr2023)<br />
 ∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ [2022-08] We are organizing ECCV 2022 Workshop [SenseHuman Workshop](https://sense-human.github.io)<br />
+∙ [2022-08] We are organizing ECCV 2022 Workshop [SenseHuman](https://sense-human.github.io)<br />
 ∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [2022-08] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
 ∙ [2022-06] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
