@@ -26,8 +26,8 @@ News
 ∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
 ∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br />
-∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br />
 ∙ [2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop [CVEU](https://cveu.github.io)<br />
+∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br />
 ∙ [2023-03] We released [ReVersion](https://github.com/ziqihuangg/ReVersion) to invert relations in diffusion models<br />
 ∙ [2023-02] One paper accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [2022-12] We are organizing CVPR 2023 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicvcvpr2023)<br />
