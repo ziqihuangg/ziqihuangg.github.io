@@ -19,25 +19,25 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 News
 -----
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
-∙ [2024-04] We are organizing [LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot](https://sites.google.com/view/loveucvpr24/home) at CVPR 2024<br />
-∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com)<br />
-∙ [2023-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/) at CVPR 2024<br />
-∙ [2023-11] We released [VBench](https://arxiv.org/abs/2311.17982), a comprehensive benchmark for evaluating video generation models. [Code](https://github.com/Vchitect/VBench) is also open-sourced.<br />
-∙ [2023-11] I am awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
+∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
+∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
+∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/)<br />
+∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br />
+∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
-∙ [2023-11] We released [FreeU](https://arxiv.org/abs/2309.11497) and its [code](https://github.com/ChenyangSi/FreeU)<br />
-∙ [2023-11] We released [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) (CVPR 2023) and its [code](https://github.com/ziqihuangg/Collaborative-Diffusion)<br />
-∙ [2023-11] We released [ReVersion](https://ziqihuangg.github.io/projects/reversion.html) and its [code](https://github.com/ziqihuangg/ReVersion)<br />
-∙ [2023-10] Awarded Outstanding Reviewer for [CVEU Workshop (ICCV 2023)](https://cveu.github.io)<br />
-∙ [2023-02] One paper is accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
-∙ [2022-12] We are organizing [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023) at CVPR 2023<br />
+∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br />
+∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br />
+∙ [2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop [CVEU](https://cveu.github.io)<br />
+∙ [2023-03] We released [ReVersion](https://github.com/ziqihuangg/ReVersion) to invert relations in diffusion models<br />
+∙ [2023-02] One paper accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
+∙ [2022-12] We are organizing CVPR 2023 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicvcvpr2023)<br />
 ∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ [2022-08] We are organizing [SenseHuman Workshop](https://sense-human.github.io) at ECCV 2022<br />
+∙ [2022-08] We are organizing ECCV 2022 Workshop [SenseHuman Workshop](https://sense-human.github.io)<br />
 ∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
 ∙ [2022-08] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
 ∙ [2022-06] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ [2021-07] One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
-∙ [2021-05] One paper is accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
+∙ [2021-07] One paper accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
+∙ [2021-05] One paper accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
 Education
 -----
@@ -83,7 +83,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red">(Spotlight)</span><br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span><br />
 <a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
 <a href="https://github.com/Vchitect/VBench">Code</a> |
@@ -98,7 +98,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <p style="line-height:1.0">
 <font size="2">
 Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu†<br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red">(Oral)</span><br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Oral)</span><br />
 <a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
 <a href="https://github.com/ChenyangSi/FreeU">Code</a> |
@@ -213,20 +213,20 @@ arXiv Preprint, 2023<br />
 
 Awards
 -----
-∙ \(2023\) [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ \(2023\) Outstanding Reviewer, CVEU Workshop, ICCV 2023<br />
-∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ \(2020 & 2021\) NTU President Research Scholar<br />
-∙ \(2019 & 2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
-∙ \(2018\) NTU Science and Engineering Undergraduate Scholarship<br />
+∙ [2023] [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
+∙ [2023] Outstanding Reviewer, CVEU Workshop, ICCV 2023<br />
+∙ [2022] [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
+∙ [2022] [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
+∙ [2020 & 2021] NTU President Research Scholar<br />
+∙ [2019 & 2022] Dean’s List (School of Electrical and Electronic Engineering)<br />
+∙ [2018] NTU Science and Engineering Undergraduate Scholarship<br />
 
 Talk
 -----
-∙ [2024-06] Oral Presentation at CVPR 2024 Workshop for accepted paper "FreeU: Free Lunch in Diffusion U-Net"<br />
-∙ [2024-06] Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models"<br />
-∙ [2023-10] Talk at Adobe Research on "Exploring Free Lunch in Diffusion U-Net", [Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4)<br />
-∙ [2023-06] Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC", [Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf)<br />
+∙ [2024-06] Oral Presentation at CVPR 2024 on accepted paper "FreeU: Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_freeu_cvpr2024oral.pdf))<br />
+∙ [2024-06] Invited Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf))<br />
+∙ [2023-10] Invited Talk at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4))<br />
+∙ [2023-06] Invited Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC" ([Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf))<br />
 
 Professional Service
 -----
