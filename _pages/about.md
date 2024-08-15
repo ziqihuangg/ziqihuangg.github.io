@@ -18,6 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [2024-08] One paper accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
@@ -62,6 +63,22 @@ B.E. in Information Engineering & Media<br />
 
 
 Publications
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
+### ReVersion: Diffusion-Based Relation Inversion from Images
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
+(<strong>SIGGRAPH Asia</strong>) (Conference Track), 2024 <br />
+<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
+<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
+<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
+<a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
+<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
+<br />
+</font>
+</p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
@@ -192,23 +209,6 @@ arXiv Preprint, 2023
 <br />
 </font>
 </p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
-### ReVersion: Diffusion-Based Relation Inversion from Images
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
-arXiv Preprint, 2023<br />
-<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
-<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
-<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
-<a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
-<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
-<br />
-</font>
-</p>
-
 
 
 Awards
