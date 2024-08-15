@@ -69,7 +69,7 @@ Publications
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
-(<strong>SIGGRAPH Asia</strong>) (Conference Track), 2024 <br />
+<strong>SIGGRAPH Asia</strong> (Conference Track), 2024 <br />
 <a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
 <a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
