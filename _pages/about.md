@@ -18,7 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
-∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)
+∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2024-08] One paper accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
@@ -250,5 +250,5 @@ Reviewer:<br />
 
 Teaching
 -----
-∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring
+∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring<br />
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
