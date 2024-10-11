@@ -18,6 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)
 ∙ [2024-08] One paper accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
@@ -213,6 +214,7 @@ arXiv Preprint, 2023
 
 Awards
 -----
+∙ [2024] [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2023] [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
 ∙ [2023] Outstanding Reviewer, CVEU Workshop, ICCV 2023<br />
 ∙ [2022] [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
