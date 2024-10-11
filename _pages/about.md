@@ -244,9 +244,9 @@ Talks Organizer:<br />
 
 -----
 Reviewer:<br />
-∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, Siggraph Asia<br />
+∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, SIGGRAPH Asia, NeurIPS, ACCV<br />
 ∙ Journal Reviewer: IJCV, IET CV<br />
-∙ Workshop Reviewer: ICCV 2023 CVEU Workshop (Outstanding Reviewer), CVPR 2023 WiCV Workshop
+∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
 Teaching
 -----
