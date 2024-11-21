@@ -65,7 +65,7 @@ B.E. in Information Engineering & Media<br />
 
 Publications & Preprints
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench++.jpg" width="160" height="140">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
