@@ -63,7 +63,21 @@ B.E. in Information Engineering & Media<br />
 </p>
 
 
-Publications
+Publications & Preprints
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
+### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Fan Zhang*, Xiaojie Xu, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2024<br />
+<a href="https://arxiv.org/abs/2411.13503">Paper</a> | 
+<a href="https://github.com/Vchitect/VBench">Code</a> |
+<a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<br />
+</font>
+</p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
 ### ReVersion: Diffusion-Based Relation Inversion from Images
@@ -77,6 +91,19 @@ Publications
 <a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
 <a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
 <a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
+### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+International Journal of Computer Vision (<strong>IJCV</strong>), 2024
+<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
+<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
+<a href="https://github.com/Vchitect/LaVie">Code</a>
 <br />
 </font>
 </p>
@@ -194,22 +221,6 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 </p>
 
 
-
-
-Preprints
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
-### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2023 
-<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
-<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
-<a href="https://github.com/Vchitect/LaVie">Code</a>
-<br />
-</font>
-</p>
 
 
 Awards
