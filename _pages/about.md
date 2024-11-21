@@ -70,7 +70,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Fan Zhang*, Xiaojie Xu, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2024<br />
+arXiv Preprint, 2024
 <a href="https://arxiv.org/abs/2411.13503">Paper</a> | 
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
@@ -128,7 +128,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span><br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span>
 <a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
 <a href="https://github.com/Vchitect/VBench">Code</a> |
