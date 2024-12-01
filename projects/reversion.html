@@ -176,9 +176,13 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-              Diffusion models gain increasing popularity for their generative capabilities. Recently, there have been surging needs to generate customized images by inverting diffusion models from exemplar images. However, existing inversion methods mainly focus on capturing object appearances. How to invert object relations, another important pillar in the visual world, remains unexplored. In this work, we propose ReVersion for the Relation Inversion task, which aims to learn a specific relation (represented as "relation prompt") from exemplar images. Specifically, we learn a relation prompt from a frozen pre-trained text-to-image diffusion model. The learned relation prompt can then be applied to generate relation-specific images with new objects, backgrounds, and styles. 
-              <br><br>    
-              Our key insight is the "preposition prior" - real-world relation prompts can be sparsely activated upon a set of basis prepositional words. Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior. 2) The relation prompt should be disentangled away from object appearances. We further devise relation-focal importance sampling to emphasize high-level interactions over low-level appearances (e.g., texture, color). To comprehensively evaluate this new task, we contribute ReVersion Benchmark, which provides various exemplar images with diverse relations. Extensive experiments validate the superiority of our approach over existing methods across a wide range of visual relations.
+            Diffusion models gain increasing popularity for their generative capabilities. Recently, there have been surging needs to generate customized images by inverting diffusion models from exemplar images, and existing inversion methods mainly focus on capturing object appearances (i.e., the "look"). However, how to invert object relations, another important pillar in the visual world, remains unexplored.
+            In this work, we propose the Relation Inversion task, which aims to learn a specific relation (represented as "relation prompt") from exemplar images. Specifically, we learn a relation prompt with a frozen pre-trained text-to-image diffusion model. The learned relation prompt can then be applied to generate relation-specific images with new objects, backgrounds, and styles. 
+            <br><br>    
+              To tackle the Relation Inversion task, we propose the ReVersion Framework.
+              Specifically, we propose a novel "relation-steering contrastive learning" scheme to steer the relation prompt towards relation-dense regions, and disentangle it away from object appearances. 
+              We further devise "relation-focal importance sampling" to emphasize high-level interactions over low-level appearances (e.g., texture, color).
+              To comprehensively evaluate this new task, we contribute the ReVersion Benchmark, which provides various exemplar images with diverse relations. Extensive experiments validate the superiority of our approach over existing methods across a wide range of visual relations. Our proposed task and method could be good inspirations for future research in various domains like generative inversion, few-shot learning, and visual relation detection.
           </p>
         </div>
       </div>
@@ -419,11 +423,11 @@
   <div class="container is-max-desktop content" style="margin-top: 40px; margin-bottom: 20px;">
     <h2 class="title">BibTeX</h2>
     <p>If you find our work useful, please consider citing our paper:</p>
-    <pre><code>@article{huang2023reversion,
+    <pre><code>@inproceedings{huang2023reversion,
       title={{ReVersion}: Diffusion-Based Relation Inversion from Images},
       author={Huang, Ziqi and Wu, Tianxing and Jiang, Yuming and Chan, Kelvin C.K. and Liu, Ziwei},
-      journal={arXiv preprint arXiv:2303.13495},
-      year={2023}
+      booktitle={SIGGRAPH Asia 2024 Conference Papers},
+      year={2024}
 }</code></pre>
   </div>
 </section>
