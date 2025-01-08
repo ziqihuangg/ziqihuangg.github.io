@@ -65,6 +65,20 @@ B.E. in Information Engineering & Media<br />
 
 Publications & Preprints
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/evaluation_agent.jpg" width="160" height="140">
+### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
+<p style="line-height:1.0">
+<font size="2">
+Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2024
+<a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
+<a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
+<a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=RyAS23dsgP8">Video</a>
+<br />
+</font>
+</p>
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench++.jpg" width="160" height="140">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
