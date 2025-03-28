@@ -10,7 +10,7 @@ redirect_from:
 
 Ziqi Huang is a Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
 
-Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the Google PhD Fellowship 2023.
+Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the Google PhD Fellowship 2023, and is a recipient of the 2025 Apple Scholars in AI/ML PhD Fellowship. 
 <!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
 
 [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
@@ -18,6 +18,7 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
+∙ [2025-03] Selected as a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
 ∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2024-08] One paper accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
