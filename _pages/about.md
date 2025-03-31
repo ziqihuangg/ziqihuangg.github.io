@@ -66,7 +66,12 @@ B.E. in Information Engineering & Media<br />
 
 Publications & Preprints
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140">
+<!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
+<img 
+  style="float: left; margin: 5px 10px; width: 160px; height: 140px; object-fit: cover; display: block;" 
+  src="../images/paper_teasers/vbench_2.0_cropped.jpg" 
+  alt="Paper Teaser"
+/>
 ### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
 <p style="line-height:1.0">
 <font size="2">
