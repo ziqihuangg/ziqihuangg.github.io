@@ -91,7 +91,7 @@ Publications & Preprints
 }
 </style>
 <!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
-<img class="teaser-img" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
+<img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
 <!-- <img
   style="
     float: left;
@@ -119,7 +119,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/evaluation_agent_cropped.jpg">
+<img class="teaser-img" src="../images/paper_teasers/evaluation_agent_cropped.jpg">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -163,7 +163,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/lavie.gif">
+<img class="teaser-img-tall" src="../images/paper_teasers/lavie.gif">
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
