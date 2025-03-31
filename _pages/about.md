@@ -78,6 +78,18 @@ Publications & Preprints
   display: block;
 }
 </style>
+<style>
+.teaser-img-tall {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
 <!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
 <img class="teaser-img" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
 <!-- <img
@@ -121,7 +133,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vbench++.jpg">
+<img class="teaser-img-tall" src="../images/paper_teasers/vbench++.jpg">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -179,7 +191,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vbench_cropped.jpg">
+<img class="teaser-img-tall" src="../images/paper_teasers/vbench_cropped.jpg">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
