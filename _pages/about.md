@@ -71,7 +71,7 @@ Publications & Preprints
   float: left;
   margin: 5px 10px;
   width: 160px;
-  height: 140px;
+  height: 110px;
   object-fit: contain;
   object-position: 50% 50%;
   background-color: #fff;
