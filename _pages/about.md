@@ -119,7 +119,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/evaluation_agent_cropped.jpg">
+<img class="teaser-img-tall" src="../images/paper_teasers/evaluation_agent_cropped.jpg">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
