@@ -65,9 +65,22 @@ B.E. in Information Engineering & Media<br />
 
 
 Publications & Preprints
+<style>
+.teaser-img {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 140px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
 -----
 <!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
-<img
+<img class="teaser-img" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
+<!-- <img
   style="
     float: left;
     margin: 5px 10px;
@@ -80,7 +93,7 @@ Publications & Preprints
   "
   src="../images/paper_teasers/vbench_2.0_cropped.jpg"
   alt="Paper Teaser"
-/>
+/> -->
 ### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
 <p style="line-height:1.0">
 <font size="2">
@@ -94,7 +107,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img style="float: left; margin:20px 10px" src="../images/paper_teasers/evaluation_agent_case.jpg" width="160" height="140">
+<img style="float: left; margin:20px 10px" src="../images/paper_teasers/evaluation_agent_cropped.jpg" width="160" height="140">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
