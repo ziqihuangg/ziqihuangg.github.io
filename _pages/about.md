@@ -176,7 +176,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/freeinit.mp4">
+<img class="teaser-img" src="../images/paper_teasers/freeinit_compressed.gif">
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
