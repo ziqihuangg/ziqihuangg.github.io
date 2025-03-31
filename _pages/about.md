@@ -65,6 +65,7 @@ B.E. in Information Engineering & Media<br />
 
 
 Publications & Preprints
+-----
 <style>
 .teaser-img {
   float: left;
@@ -77,7 +78,6 @@ Publications & Preprints
   display: block;
 }
 </style>
------
 <!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
 <img class="teaser-img" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
 <!-- <img
@@ -121,7 +121,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench++.jpg" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/vbench++.jpg">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -135,7 +135,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/reversion.jpg">
 ### ReVersion: Diffusion-Based Relation Inversion from Images
 <p style="line-height:1.0">
 <font size="2">
@@ -151,7 +151,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/lavie.gif">
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -164,7 +164,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/freeinit.mp4">
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -179,7 +179,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/vbench_cropped.jpg">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -194,7 +194,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/freeu_teaser.jpg">
 ### FreeU: Free Lunch in Diffusion U-Net
 <p style="line-height:1.0">
 <font size="2">
@@ -209,7 +209,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/handbook_logo_cropped.png" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/handbook_logo_cropped.png">
 ### Generative Networks
 <p style="line-height:1.0">
 <font size="2">
@@ -220,7 +220,7 @@ Handbook of Face Recognition, Third Edition, 2023<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/talk-to-edit-pami.png" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/talk-to-edit-pami.png">
 ### Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -233,7 +233,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/collaborative_diffusion.jpg">
 ### Collaborative Diffusion for Multi-Modal Face Generation and Editing
 <p style="line-height:1.0">
 <font size="2">
@@ -248,7 +248,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/celeba_dialog.png" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/celeba_dialog.png">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -263,7 +263,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/icip2021_thumb.png" width="160" height="140">
+<img class="teaser-img" src="../images/paper_teasers/icip2021_thumb.png">
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
