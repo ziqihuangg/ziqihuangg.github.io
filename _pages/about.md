@@ -66,7 +66,21 @@ B.E. in Information Engineering & Media<br />
 
 Publications & Preprints
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/evaluation_agent.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0.jpg" width="160" height="140">
+### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
+<p style="line-height:1.0">
+<font size="2">
+Dian Zheng*, <strong>Ziqi Huang*</strong>, Hongbo Liu, Kai Zou, Yinan He, Fan Zhang, Yuanhan Zhang, Jingwen He, Wei-Shi Zheng, Yu Qiao, Ziwei Liu <br />
+arXiv Preprint, 2025
+<a href="https://arxiv.org/abs/2503.21755">Paper</a> | 
+<a href="https://github.com/Vchitect/VBench">Code</a> |
+<a href="https://vchitect.github.io/VBench-2.0-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=kJrzKy9tgAc">Video</a>
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 30px" src="../images/paper_teasers/evaluation_agent.jpg" width="160" height="140">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
