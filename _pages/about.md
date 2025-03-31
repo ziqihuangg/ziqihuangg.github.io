@@ -66,7 +66,7 @@ B.E. in Information Engineering & Media<br />
 
 Publications & Preprints
 -----
-<img style="float: left; margin:20px 10px" src="../images/paper_teasers/vbench_2.0.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140">
 ### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
 <p style="line-height:1.0">
 <font size="2">
@@ -80,7 +80,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img style="float: left; margin:20px 10px" src="../images/paper_teasers/evaluation_agent.jpg" width="160" height="140">
+<img style="float: left; margin:20px 10px" src="../images/paper_teasers/evaluation_agent_case.jpg" width="160" height="140">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -182,7 +182,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/handbook_logo.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/handbook_logo_cropped.png" width="160" height="140">
 ### Generative Networks
 <p style="line-height:1.0">
 <font size="2">
