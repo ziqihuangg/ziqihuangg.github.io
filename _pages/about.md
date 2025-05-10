@@ -121,7 +121,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/repvideo.gif">
+<img class="teaser-img" src="../images/paper_teasers/repvideo_compressed.gif">
 ### RepVideo: Rethinking Cross-Layer Representation for Video Generation
 <p style="line-height:1.0">
 <font size="2">
@@ -134,7 +134,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0.png">
+<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0_compressed.png">
 ### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
