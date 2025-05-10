@@ -41,33 +41,28 @@ News
 }
 </style>
 <div class="news-scroll">
-∙ [2025-03] Awarded [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
-∙ [2025-01] Invited talk at [Fudan University](https://www.fudan.edu.cn) <br />
-∙ [2024-10] One paper ([LaVie](https://arxiv.org/abs/2309.15103)) accepted to [IJCV](https://link.springer.com/journal/11263)<br />
-∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
-∙ [2024-08] One paper ([ReVersion](https://arxiv.org/abs/2303.13495)) accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
-∙ [2024-07] One paper ([FreeInit](https://arxiv.org/abs/2312.07537)) accepted to [ECCV 2024](https://eccv.ecva.net)<br />
-∙ [2024-06] Invited talk at CVPR 2024 Workshop on [Long Video Understanding](https://sites.google.com/view/loveucvpr24/home) <br />
-∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
-∙ [2024-02] Two papers ([VBench](https://arxiv.org/abs/2311.17982) and [FreeU](https://arxiv.org/abs/2309.11497)) accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
-∙ [2023-12] One paper ([Talk-to-Edit](https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf)) accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br />
-∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicv-cvpr-2024/)<br />
-<!-- ∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br /> -->
-∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [2023-11] Invited talk at [Adobe Research](https://research.adobe.com) <br />
-<!-- ∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br /> -->
-∙ [2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop [CVEU](https://cveu.github.io)<br />
-<!-- ∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br /> -->
-<!-- ∙ [2023-03] We released [ReVersion](https://github.com/ziqihuangg/ReVersion) to invert relations in diffusion models<br /> -->
-∙ [2023-02] One paper ([Collaborative Diffusion](https://arxiv.org/abs/2304.10530)) accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
-∙ [2022-12] We are organizing CVPR 2023 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicvcvpr2023)<br />
-∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ [2022-08] We are organizing ECCV 2022 Workshop [SenseHuman](https://sense-human.github.io)<br />
-<!-- ∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br /> -->
-∙ [2022-08] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
-∙ [2022-06] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ [2021-07] One paper ([Talk-to-Edit](https://arxiv.org/abs/2109.04425)) accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
-∙ [2021-05] One paper ([AnalogicalVQA](https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf)) accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
+∙ <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">[2025-03] Awarded 2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
+∙ <a href="https://www.fudan.edu.cn">[2025-01] Invited talk at Fudan University</a> <br />
+∙ <a href="https://arxiv.org/abs/2309.15103">[2024-10] One paper (LaVie)</a> accepted to <a href="https://link.springer.com/journal/11263">IJCV</a><br />
+∙ <a href="https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers">[2024-09] Recognized as ECCV 2024 Outstanding Reviewer</a><br />
+∙ <a href="https://arxiv.org/abs/2303.13495">[2024-08] One paper (ReVersion)</a> accepted to <a href="https://asia.siggraph.org/2024/">SIGGRAPH Asia 2024</a><br />
+∙ <a href="https://arxiv.org/abs/2312.07537">[2024-07] One paper (FreeInit)</a> accepted to <a href="https://eccv.ecva.net">ECCV 2024</a><br />
+∙ Invited talk at CVPR 2024 Workshop on <a href="https://sites.google.com/view/loveucvpr24/home">Long Video Understanding</a> <br />
+∙ We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/loveucvpr24/home">LOVEU</a><br />
+∙ Two papers (<a href="https://arxiv.org/abs/2311.17982">VBench</a> and <a href="https://arxiv.org/abs/2309.11497">FreeU</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a> as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
+∙ <a href="https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf">[2023-12] One paper (Talk-to-Edit)</a> accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
+∙ We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/wicv-cvpr-2024/">Women in Computer Vision (WiCV)</a><br />
+∙ <a href="https://research.google/outreach/phd-fellowship/recipients/">[2023-11] Awarded Google PhD Fellowship 2023</a><br />
+∙ Invited talk at <a href="https://research.adobe.com">Adobe Research</a> <br />
+∙ <a href="https://cveu.github.io">[2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop CVEU</a><br />
+∙ <a href="https://arxiv.org/abs/2304.10530">[2023-02] One paper (Collaborative Diffusion)</a> accepted to <a href="https://cvpr.thecvf.com">CVPR 2023</a><br />
+∙ We are organizing CVPR 2023 Workshop <a href="https://sites.google.com/view/wicvcvpr2023">Women in Computer Vision (WiCV)</a><br />
+∙ <a href="https://undergraduateawards.com/winners/regional-winners-2022">[2022-09] Awarded The Global Undergraduate Award</a> Regional Winner (Asia)<br />
+∙ We are organizing ECCV 2022 Workshop <a href="https://sense-human.github.io">SenseHuman</a><br />
+∙ Start my journey at <a href="https://www.mmlab-ntu.com">MMLab@NTU</a> as a Ph.D. student<br />
+∙ <a href="https://www.ntu.edu.sg/eee/about-us/student-awards">[2022-06] Awarded Lee Kuan Yew Gold Medal</a> (Top 1 in Undergraduate Cohort)<br />
+∙ <a href="https://arxiv.org/abs/2109.04425">[2021-07] One paper (Talk-to-Edit)</a> accepted to <a href="http://iccv2021.thecvf.com">ICCV 2021</a><br />
+∙ <a href="https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf">[2021-05] One paper (AnalogicalVQA)</a> accepted to <a href="https://www.2021.ieeeicip.org">ICIP 2021</a>
 </div>
 
 Education
