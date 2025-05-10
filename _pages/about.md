@@ -367,18 +367,18 @@ Awards
 
 Professional Service
 -----
-#### Workshops Organizer:<br />
+### Workshop Organizer<br />
 ∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 ∙ CVPR 2023 - Organizer - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
 ∙ ECCV 2022 - Organizer - SenseHuman: Sensing, Understanding and Synthesizing Humans, [Website](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
 
 -----
-#### Talks Organizer:<br />
+### Talk Organizer<br />
 ∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
 
 -----
-#### Reviewer:<br />
+### Reviewer<br />
 ∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, SIGGRAPH Asia, NeurIPS, ACCV<br />
 ∙ Journal Reviewer: IJCV, IET CV, PR<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
