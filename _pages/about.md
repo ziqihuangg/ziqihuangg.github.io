@@ -19,28 +19,31 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 News
 -----
 ∙ [2025-03] Selected as a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
+∙ [2024-10] One paper ([LaVie](https://arxiv.org/abs/2309.15103)) accepted to [IJCV](https://link.springer.com/journal/11263)<br />
 ∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
-∙ [2024-08] One paper accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
-∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
+∙ [2024-08] One paper ([ReVersion](https://arxiv.org/abs/2303.13495)) accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
+∙ [2024-07] One paper ([FreeInit](https://arxiv.org/abs/2312.07537)) accepted to [ECCV 2024](https://eccv.ecva.net)<br />
+∙ [2024-06] [Invited talk](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf) at CVPR 2024 Workshop on [Long Video Understanding](https://sites.google.com/view/loveucvpr24/home) <br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
-∙ [2024-02] Two papers accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
+∙ [2024-02] Two papers ([VBench](https://arxiv.org/abs/2311.17982) and [FreeU](https://arxiv.org/abs/2309.11497)) accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
+∙ [2023-12] One paper ([Talk-to-Edit](https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf)) accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br />
 ∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicv-cvpr-2024/)<br />
-∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br />
+<!-- ∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br /> -->
 ∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at Adobe Research on "Exploring Free Lunch in Diffusion U-Net" <br />
-∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br />
+∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at [Adobe Research](https://research.adobe.com) <br />
+<!-- ∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br /> -->
 ∙ [2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop [CVEU](https://cveu.github.io)<br />
-∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br />
-∙ [2023-03] We released [ReVersion](https://github.com/ziqihuangg/ReVersion) to invert relations in diffusion models<br />
-∙ [2023-02] One paper accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
+<!-- ∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br /> -->
+<!-- ∙ [2023-03] We released [ReVersion](https://github.com/ziqihuangg/ReVersion) to invert relations in diffusion models<br /> -->
+∙ [2023-02] One paper ([Collaborative Diffusion](https://arxiv.org/abs/2304.10530)) accepted to [CVPR 2023](https://cvpr.thecvf.com)<br />
 ∙ [2022-12] We are organizing CVPR 2023 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicvcvpr2023)<br />
 ∙ [2022-09] Awarded [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [2022-08] We are organizing ECCV 2022 Workshop [SenseHuman](https://sense-human.github.io)<br />
-∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br />
+<!-- ∙ [2022-08] Release [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog), a large-scale visual-language face dataset<br /> -->
 ∙ [2022-08] Start my journey at [MMLab@NTU](https://www.mmlab-ntu.com) as a Ph.D. student<br />
 ∙ [2022-06] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ [2021-07] One paper accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
-∙ [2021-05] One paper accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
+∙ [2021-07] One paper ([Talk-to-Edit](https://arxiv.org/abs/2109.04425)) accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
+∙ [2021-05] One paper ([AnalogicalVQA](https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf)) accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
 
 Education
 -----
@@ -134,11 +137,11 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0_compressed.png">
+<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0_video.gif">
 ### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
-Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin, Yu Qiao, Ziwei Liu <br />
+Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
 arXiv Preprint, 2025
 <a href="https://arxiv.org/abs/2501.08453">Paper</a> | 
 <a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
