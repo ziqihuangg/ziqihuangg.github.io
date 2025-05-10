@@ -18,19 +18,43 @@ Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [
 
 News
 -----
-∙ [2025-03] Selected as a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
+<style>
+.news-scroll {
+  max-height: 16em;     /* 10 lines × 1.6em line height */
+  line-height: 1.6em;
+  overflow-y: auto;
+  padding-right: 10px;
+  margin-bottom: 1em;
+  border-left: 4px solid #eee;
+  padding-left: 10px;
+}
+/* Optional scrollbar style for WebKit (Chrome, Safari) */
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.news-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+</style>
+<div class="news-scroll">
+∙ [2025-03] Awarded [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
+∙ [2025-01] Invited talk at [Fudan University](https://www.fudan.edu.cn) <br />
 ∙ [2024-10] One paper ([LaVie](https://arxiv.org/abs/2309.15103)) accepted to [IJCV](https://link.springer.com/journal/11263)<br />
 ∙ [2024-09] Recognized as [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2024-08] One paper ([ReVersion](https://arxiv.org/abs/2303.13495)) accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)<br />
 ∙ [2024-07] One paper ([FreeInit](https://arxiv.org/abs/2312.07537)) accepted to [ECCV 2024](https://eccv.ecva.net)<br />
-∙ [2024-06] [Invited talk](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf) at CVPR 2024 Workshop on [Long Video Understanding](https://sites.google.com/view/loveucvpr24/home) <br />
+∙ [2024-06] Invited talk at CVPR 2024 Workshop on [Long Video Understanding](https://sites.google.com/view/loveucvpr24/home) <br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop [LOVEU](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ [2024-02] Two papers ([VBench](https://arxiv.org/abs/2311.17982) and [FreeU](https://arxiv.org/abs/2309.11497)) accepted to [CVPR 2024](https://cvpr.thecvf.com) as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
 ∙ [2023-12] One paper ([Talk-to-Edit](https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf)) accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br />
 ∙ [2023-12] We are organizing CVPR 2024 Workshop [Women in Computer Vision (WiCV)](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 <!-- ∙ [2023-11] We released [VBench](https://github.com/Vchitect/VBench) to evaluate video generative models<br /> -->
 ∙ [2023-11] Awarded [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [2023-11] [Invited talk](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf) at [Adobe Research](https://research.adobe.com) <br />
+∙ [2023-11] Invited talk at [Adobe Research](https://research.adobe.com) <br />
 <!-- ∙ [2023-11] We released [FreeU](https://github.com/ChenyangSi/FreeU) to improve diffusion sample quality<br /> -->
 ∙ [2023-10] Awarded Outstanding Reviewer for ICCV 2023 Workshop [CVEU](https://cveu.github.io)<br />
 <!-- ∙ [2023-04] We released [Collaborative Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion) for multi-modal face generation/editing<br /> -->
@@ -44,6 +68,7 @@ News
 ∙ [2022-06] Awarded [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ [2021-07] One paper ([Talk-to-Edit](https://arxiv.org/abs/2109.04425)) accepted to [ICCV 2021](http://iccv2021.thecvf.com)<br />
 ∙ [2021-05] One paper ([AnalogicalVQA](https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf)) accepted to [ICIP 2021](https://www.2021.ieeeicip.org)
+</div>
 
 Education
 -----
