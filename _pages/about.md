@@ -114,7 +114,36 @@ arXiv Preprint, 2025
 <a href="https://arxiv.org/abs/2503.21755">Paper</a> | 
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-2.0-project/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=kJrzKy9tgAc">Video</a>
+<a href="https://www.youtube.com/watch?v=kJrzKy9tgAc">Video</a> |
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a> |
+<a href="https://huggingface.co/Vchitect">Dataset</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/repvideo.gif">
+### RepVideo: Rethinking Cross-Layer Representation for Video Generation
+<p style="line-height:1.0">
+<font size="2">
+Chenyang Si*, Weichen Fan*, Zhengyao Lv, <strong>Ziqi Huang</strong>, Yu Qiao, Ziwei Liu <br />
+arXiv Preprint, 2025
+<a href="https://arxiv.org/abs/2501.08994">Paper</a> | 
+<a href="https://github.com/Vchitect/RepVideo">Code</a> |
+<a href="https://vchitect.github.io/RepVid-Webpage/">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0.png">
+### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin, Yu Qiao, Ziwei Liu <br />
+arXiv Preprint, 2025
+<a href="https://arxiv.org/abs/2501.08453">Paper</a> | 
+<a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
+<a href="https://vchitect.intern-ai.org.cn/">Project Page</a> |
+<a href="https://huggingface.co/datasets/Vchitect/Vchitect_T2V_DataVerse">Dataset</a>
 <br />
 </font>
 </p>
@@ -142,7 +171,7 @@ arXiv Preprint, 2024
 <a href="https://arxiv.org/abs/2411.13503">Paper</a> | 
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
-<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a>
 <br />
 </font>
 </p>
@@ -196,12 +225,13 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span> <br />
 <a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> |
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
-<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a> |
+<a href="https://huggingface.co/datasets/Vchitect/VBench_sampled_video/tree/main">Dataset</a>
 <br />
 </font>
 </p>
