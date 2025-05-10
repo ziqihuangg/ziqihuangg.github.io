@@ -43,14 +43,14 @@ News
 <div class="news-scroll">
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
-∙ [2024-11] Guest Lecture at <a href="https://umich.edu">University of Michigan</a><br />
+∙ [2024-11] Guest lecture at <a href="https://umich.edu">University of Michigan</a><br />
 ∙ [2024-10] One paper (<a href="https://arxiv.org/abs/2309.15103">LaVie</a>) accepted to <a href="https://link.springer.com/journal/11263">IJCV</a><br />
 ∙ [2024-09] Recognized as <a href="https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers">ECCV 2024 Outstanding Reviewer</a><br />
 ∙ [2024-08] One paper (<a href="https://arxiv.org/abs/2303.13495">ReVersion</a>) accepted to <a href="https://asia.siggraph.org/2024/">SIGGRAPH Asia 2024</a><br />
 ∙ [2024-07] One paper (<a href="https://arxiv.org/abs/2312.07537">FreeInit</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2024</a><br />
 ∙ [2024-06] Invited talk at CVPR 2024 Workshop on <a href="https://sites.google.com/view/loveucvpr24/home">Long Video Understanding</a> <br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/loveucvpr24/home">LOVEU</a><br />
-∙ [2024-02] Two papers (<a href="https://arxiv.org/abs/2311.17982">VBench</a> and <a href="https://arxiv.org/abs/2309.11497">FreeU</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a> as <span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span><br />
+∙ [2024-02] Two papers (<a href="https://arxiv.org/abs/2311.17982">VBench</a> & <a href="https://arxiv.org/abs/2309.11497">FreeU</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a> (<span style="color:red; font-weight:bold">Highlight</span> and <span style="color:red; font-weight:bold">Oral</span>)<br />
 ∙ [2023-12] One paper (<a href="https://ziqihuangg.github.io/papers/2023TPAMI-TalktoEdit3D.pdf">Talk-to-Edit</a>) accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
 ∙ [2023-12] We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/wicv-cvpr-2024/">Women in Computer Vision (WiCV)</a><br />
 ∙ [2023-11] Awarded <a href="https://research.google/outreach/phd-fellowship/recipients/">Google PhD Fellowship 2023</a><br />
@@ -159,7 +159,7 @@ arXiv Preprint, 2025
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vchitect-2.0_video.gif">
+<img class="teaser-img-tall" src="../images/paper_teasers/vchitect-2.0_video.gif">
 ### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -348,9 +348,10 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
+∙ [2025] [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
 ∙ [2024] [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2023] [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [2023] Outstanding Reviewer, CVEU Workshop, ICCV 2023<br />
+∙ [2023] Outstanding Reviewer, [CVEU Workshop, ICCV 2023](https://cveu.github.io)<br />
 ∙ [2022] [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [2022] [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ [2020 & 2021] NTU President Research Scholar<br />
@@ -366,20 +367,20 @@ Awards
 
 Professional Service
 -----
-Workshops Organizer:<br />
+#### Workshops Organizer:<br />
 ∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 ∙ CVPR 2023 - Organizer - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
 ∙ ECCV 2022 - Organizer - SenseHuman: Sensing, Understanding and Synthesizing Humans, [Website](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
 
 -----
-Talks Organizer:<br />
+#### Talks Organizer:<br />
 ∙ [The AI Talks](https://theaitalks.org) - keeping up with the latest advances in AI<br />
 
 -----
-Reviewer:<br />
+#### Reviewer:<br />
 ∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, SIGGRAPH Asia, NeurIPS, ACCV<br />
-∙ Journal Reviewer: IJCV, IET CV<br />
+∙ Journal Reviewer: IJCV, IET CV, PR<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
 Teaching
