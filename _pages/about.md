@@ -47,6 +47,7 @@ News
 ∙ [2024-10] One paper (<a href="https://arxiv.org/abs/2309.15103">LaVie</a>) accepted to <a href="https://link.springer.com/journal/11263">IJCV</a><br />
 ∙ [2024-09] Recognized as <a href="https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers">ECCV 2024 Outstanding Reviewer</a><br />
 ∙ [2024-08] One paper (<a href="https://arxiv.org/abs/2303.13495">ReVersion</a>) accepted to <a href="https://asia.siggraph.org/2024/">SIGGRAPH Asia 2024</a><br />
+∙ [2024-07] Invited talk at <a href="https://opendatalab.com">OpenDataLab</a> <br />
 ∙ [2024-07] One paper (<a href="https://arxiv.org/abs/2312.07537">FreeInit</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2024</a><br />
 ∙ [2024-06] Invited talk at CVPR 2024 Workshop on <a href="https://sites.google.com/view/loveucvpr24/home">Long Video Understanding</a> <br />
 ∙ [2024-04] We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/loveucvpr24/home">LOVEU</a><br />
