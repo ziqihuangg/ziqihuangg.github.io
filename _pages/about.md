@@ -136,7 +136,7 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 <p style="line-height:1.0">
 <font size="2">
 Dian Zheng*, <strong>Ziqi Huang*</strong>, Hongbo Liu, Kai Zou, Yinan He, Fan Zhang, Yuanhan Zhang, Jingwen He, Wei-Shi Zheng†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025
+arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2503.21755">Paper</a> | 
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-2.0-project/">Project Page</a> |
