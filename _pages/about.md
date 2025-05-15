@@ -20,7 +20,7 @@ News
 -----
 <style>
 .news-scroll {
-  max-height: 16em;     /* 10 lines × 1.6em line height */
+  max-height: 14.4em;     /* 10 lines × 1.6em line height */
   line-height: 1.6em;
   overflow-y: auto;
   padding-right: 10px;
@@ -57,7 +57,7 @@ News
 ∙ [2023-12] We are organizing CVPR 2024 Workshop <a href="https://sites.google.com/view/wicv-cvpr-2024/">Women in Computer Vision (WiCV)</a><br />
 ∙ [2023-11] Awarded <a href="https://research.google/outreach/phd-fellowship/recipients/">Google PhD Fellowship 2023</a><br />
 ∙ [2023-11] Invited talk at <a href="https://research.adobe.com">Adobe Research</a> <br />
-∙ [2023-06] Invited talk at <a href="https://zhidx.com/p/380937.html">Zhi Dongxi (智东西)</a> <br />
+∙ [2023-06] Invited talk at <a href="https://zhidx.com/p/380937.html">Zhi Dongxi</a> <br />
 ∙ [2023-10] Awarded Outstanding Reviewer for <a href="https://cveu.github.io">ICCV 2023 Workshop CVEU</a><br />
 ∙ [2023-02] One paper (<a href="https://arxiv.org/abs/2304.10530">Collaborative Diffusion</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2023</a><br />
 ∙ [2022-12] We are organizing CVPR 2023 Workshop <a href="https://sites.google.com/view/wicvcvpr2023">Women in Computer Vision (WiCV)</a><br />
@@ -152,7 +152,7 @@ arXiv Preprint, 2025<br />
 <p style="line-height:1.0">
 <font size="2">
 Chenyang Si*, Weichen Fan*, Zhengyao Lv, <strong>Ziqi Huang</strong>, Yu Qiao, Ziwei Liu <br />
-arXiv Preprint, 2025
+arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2501.08994">Paper</a> | 
 <a href="https://github.com/Vchitect/RepVideo">Code</a> |
 <a href="https://vchitect.github.io/RepVid-Webpage/">Project Page</a>
@@ -209,7 +209,7 @@ arXiv Preprint, 2024<br />
 <p style="line-height:1.0">
 <font size="2">
 Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-International Journal of Computer Vision (<strong>IJCV</strong>), 2024
+International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
 <a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
 <a href="https://github.com/Vchitect/LaVie">Code</a>
