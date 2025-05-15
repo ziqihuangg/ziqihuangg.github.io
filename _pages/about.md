@@ -41,6 +41,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main)<br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
 ∙ [2024-11] Guest lecture at <a href="https://umich.edu">University of Michigan</a><br />
@@ -116,6 +117,20 @@ Publications & Preprints
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/evaluation_agent.gif">
+### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
+<p style="line-height:1.0">
+<font size="2">
+Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main)<br />
+<a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
+<a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
+<a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=RyAS23dsgP8">Video</a>
+<br />
+</font>
+</p>
+-----
 <!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
 <img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
 <!-- <img
@@ -170,20 +185,6 @@ arXiv Preprint, 2025
 <a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
 <a href="https://vchitect.intern-ai.org.cn/">Project Page</a> |
 <a href="https://huggingface.co/datasets/Vchitect/Vchitect_T2V_DataVerse">Dataset</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/evaluation_agent_cropped.jpg">
-### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
-<p style="line-height:1.0">
-<font size="2">
-Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2024
-<a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
-<a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
-<a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=RyAS23dsgP8">Video</a>
 <br />
 </font>
 </p>
