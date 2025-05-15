@@ -117,7 +117,7 @@ Publications & Preprints
   display: block;
 }
 </style>
-<img class="teaser-img" src="../images/paper_teasers/evaluation_agent.gif">
+<img class="teaser-img-tall" src="../images/paper_teasers/evaluation_agent.gif">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -131,22 +131,7 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 </font>
 </p>
 -----
-<!-- <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_2.0_cropped.jpg" width="160" height="140"> -->
 <img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
-<!-- <img
-  style="
-    float: left;
-    margin: 5px 10px;
-    width: 160px;
-    height: 140px;
-    object-fit: contain;
-    object-position: 50% 50%;
-    background-color: #fff;
-    display: block;
-  "
-  src="../images/paper_teasers/vbench_2.0_cropped.jpg"
-  alt="Paper Teaser"
-/> -->
 ### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
 <p style="line-height:1.0">
 <font size="2">
@@ -180,7 +165,7 @@ arXiv Preprint, 2025
 <p style="line-height:1.0">
 <font size="2">
 Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025
+arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2501.08453">Paper</a> | 
 <a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
 <a href="https://vchitect.intern-ai.org.cn/">Project Page</a> |
@@ -194,7 +179,7 @@ arXiv Preprint, 2025
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang*</strong>, Fan Zhang*, Xiaojie Xu, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2024
+arXiv Preprint, 2024<br />
 <a href="https://arxiv.org/abs/2411.13503">Paper</a> | 
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
