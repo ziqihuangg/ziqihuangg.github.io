@@ -41,6 +41,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2025-05] One paper accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a><br />
 ∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main)<br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
