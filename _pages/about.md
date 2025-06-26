@@ -43,7 +43,7 @@ News
 <div class="news-scroll">
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
 ∙ [2025-05] One paper accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a><br />
-∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main)<br />
+∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span><br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
 ∙ [2024-11] Guest lecture at <a href="https://umich.edu">University of Michigan</a><br />
@@ -124,7 +124,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
-Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main)<br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span><br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
 <a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
@@ -357,6 +357,7 @@ Awards
 Professional Service
 -----
 ### Workshop Organizer:<br />
+∙ CVPR 2025 - Organizer - Tutorial: From Video Generation to World Model, [Website](https://world-model-tutorial.github.io)<br />
 ∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
 ∙ CVPR 2023 - Organizer - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
