@@ -42,8 +42,8 @@ News
 </style>
 <div class="news-scroll">
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
-∙ [2025-05] One paper accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a><br />
-∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span><br />
+∙ [2025-05] One paper accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a> as <span style="color:red; font-weight:bold">Spotlight</span><br />
+∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">SAC Highlights Award (47 out of 8350)</span><br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
 ∙ [2024-11] Guest lecture at <a href="https://umich.edu">University of Michigan</a><br />
@@ -124,7 +124,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
-Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span><br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award (47 out of 8350)</span><br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
 <a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
@@ -337,6 +337,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
+∙ [2025] [ACL 2025 SAC Highlights Award (47 out of 8350)](https://2025.aclweb.org/program/awards/)<br />
 ∙ [2025] [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
 ∙ [2024] [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2023] [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
