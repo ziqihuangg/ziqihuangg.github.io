@@ -43,7 +43,7 @@ News
 <div class="news-scroll">
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
 ∙ [2025-05] One paper accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a> as <span style="color:red; font-weight:bold">Spotlight</span><br />
-∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">SAC Highlights Award (47 out of 8350)</span><br />
+∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
 ∙ [2024-11] Guest lecture at <a href="https://umich.edu">University of Michigan</a><br />
@@ -119,12 +119,26 @@ Publications & Preprints
   display: block;
 }
 </style>
+<img class="teaser-img-tall" src="../images/paper_teasers/shotbench.jpg">
+### ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models
+<p style="line-height:1.0">
+<font size="2">
+Hongbo Liu*, Jingwen He*, Yi Jin, Dian Zheng, Yuhao Dong, Fan Zhang, <strong>Ziqi Huang</strong>, Yinan He, Yangguang Li, Weichao Chen, Yu Qiao, Wanli Ouyang, Shengjie Zhao†, Ziwei Liu†
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2506.21356">Paper</a> | 
+<a href="https://github.com/Vchitect/ShotBench">Code</a> |
+<a href="https://vchitect.github.io/ShotBench-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=MJBJlJEsPFM&t=6s">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall" src="../images/paper_teasers/evaluation_agent.gif">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
 Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
-Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award (47 out of 8350)</span><br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
 <a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
