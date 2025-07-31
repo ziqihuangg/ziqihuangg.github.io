@@ -123,7 +123,7 @@ Publications & Preprints
 ### ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models
 <p style="line-height:1.0">
 <font size="2">
-Hongbo Liu*, Jingwen He*, Yi Jin, Dian Zheng, Yuhao Dong, Fan Zhang, <strong>Ziqi Huang</strong>, Yinan He, Yangguang Li, Weichao Chen, Yu Qiao, Wanli Ouyang, Shengjie Zhao†, Ziwei Liu†
+Hongbo Liu*, Jingwen He*, Yi Jin, Dian Zheng, Yuhao Dong, Fan Zhang, <strong>Ziqi Huang</strong>, Yinan He, Yangguang Li, Weichao Chen, Yu Qiao, Wanli Ouyang, Shengjie Zhao†, Ziwei Liu†<br />
 arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2506.21356">Paper</a> | 
 <a href="https://github.com/Vchitect/ShotBench">Code</a> |
