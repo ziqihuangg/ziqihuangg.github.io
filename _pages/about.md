@@ -42,7 +42,7 @@ News
 </style>
 <div class="news-scroll">
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
-∙ [2025-05] One paper (<a href="https://gordonchen19.github.io/STENCIL-Project/https://arxiv.org/abs/2309.15103">Stencil</a>) accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a> as <span style="color:red; font-weight:bold">Spotlight</span><br />
+∙ [2025-05] One paper (<a href="https://gordonchen19.github.io/STENCIL-Project/">Stencil</a>) accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a> as <span style="color:red; font-weight:bold">Spotlight</span><br />
 ∙ [2025-05] One paper (<a href="https://arxiv.org/abs/2412.09645">Evaluation Agent</a>) accepted to <a href="https://2025.aclweb.org">ACL 2025</a> (Main Conference) as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 ∙ [2025-03] Awarded <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a><br />
 ∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
@@ -119,7 +119,7 @@ Publications & Preprints
   display: block;
 }
 </style>
-<img class="teaser-img-tall" src="../images/paper_teasers/stencil_thumbnail.jpg">
+<img class="teaser-img" src="../images/paper_teasers/stencil_thumbnail.jpg">
 ### STENCIL: Subject-Driven Generation with Context Guidance
 <p style="line-height:1.0">
 <font size="2">
@@ -127,7 +127,7 @@ Gordon Chen, <strong>Ziqi Huang</strong>, Cheston Tan, Ziwei Liu<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2025, <span style="color:red; font-weight:bold">(Spotlight)</span><br />
 <a href="https://gordonchen19.github.io/STENCIL-Project/static/pdfs/chen.pdf">Paper</a> | 
 <a href="https://github.com/GordonChen19/STENCIL">Code</a> |
-<a href="https://gordonchen19.github.io/STENCIL-Project/">Project Page</a> |
+<a href="https://gordonchen19.github.io/STENCIL-Project/">Project Page</a>
 <br />
 </font>
 </p>
