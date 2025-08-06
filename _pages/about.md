@@ -120,7 +120,7 @@ Publications & Preprints
 }
 </style>
 <img class="teaser-img" src="../images/paper_teasers/stencil_thumbnail.jpg">
-### STENCIL: Subject-Driven Generation with Context Guidance
+### Stencil: Subject-Driven Generation with Context Guidance
 <p style="line-height:1.0">
 <font size="2">
 Gordon Chen, <strong>Ziqi Huang</strong>, Cheston Tan, Ziwei Liu<br />
