@@ -150,7 +150,7 @@ arXiv Preprint, 2025<br />
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
-Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*</strong>, Yu Qiao†, Ziwei Liu† <br />
+Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*&</strong>, Yu Qiao†, Ziwei Liu† (& project lead)<br />
 Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
