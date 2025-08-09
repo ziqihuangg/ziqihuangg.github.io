@@ -13,7 +13,7 @@ Ziqi Huang is a Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyan
 Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025). 
 <!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
 
-[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [Twitter](https://twitter.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
+[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
 
 
 News
@@ -125,9 +125,9 @@ Publications & Preprints
 <font size="2">
 Gordon Chen, <strong>Ziqi Huang</strong>, Cheston Tan, Ziwei Liu<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2025, <span style="color:red; font-weight:bold">(Spotlight)</span><br />
-<a href="https://gordonchen19.github.io/STENCIL-Project/static/pdfs/chen.pdf">Paper</a> | 
-<a href="https://github.com/GordonChen19/STENCIL">Code</a> |
-<a href="https://gordonchen19.github.io/STENCIL-Project/">Project Page</a>
+<!-- <a href="https://gordonchen19.github.io/STENCIL-Project/static/pdfs/chen.pdf">Paper</a> |  -->
+<!-- <a href="https://github.com/GordonChen19/STENCIL">Code</a> | -->
+<!-- <a href="https://gordonchen19.github.io/STENCIL-Project/">Project Page</a> -->
 <br />
 </font>
 </p>
@@ -150,7 +150,7 @@ arXiv Preprint, 2025<br />
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
-Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*&</strong>, Yu Qiao†, Ziwei Liu† (& project lead)<br />
+Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang*‡</strong>, Yu Qiao†, Ziwei Liu† (‡: project lead)<br />
 Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
