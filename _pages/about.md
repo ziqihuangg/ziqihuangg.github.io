@@ -119,15 +119,28 @@ Publications & Preprints
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/cut2next.jpg">
+### Cut2Next: Generating Next Shot via In-Context Tuning
+<p style="line-height:1.0">
+<font size="2">
+Jingwen He, Hongbo Liu, Jiajun Li, <strong>Ziqi Huang</strong>, Yu Qiao, Wanli Ouyang, Ziwei Liu<br />
+arXiv Preprint, 2024<br />
+<a href="https://arxiv.org/abs/2508.08244">Paper</a> | 
+<a href="https://vchitect.github.io/Cut2Next-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=4-olVWzeXGY">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/stencil_thumbnail.jpg">
 ### Stencil: Subject-Driven Generation with Context Guidance
 <p style="line-height:1.0">
 <font size="2">
 Gordon Chen, <strong>Ziqi Huang</strong>, Cheston Tan, Ziwei Liu<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2025, <span style="color:red; font-weight:bold">(Spotlight)</span><br />
-<!-- <a href="https://gordonchen19.github.io/STENCIL-Project/static/pdfs/chen.pdf">Paper</a> |  -->
-<!-- <a href="https://github.com/GordonChen19/STENCIL">Code</a> | -->
-<!-- <a href="https://gordonchen19.github.io/STENCIL-Project/">Project Page</a> -->
+<a href="https://gordonchen19.github.io/STENCIL.github.io/static/pdfs/chen.pdf">Paper</a> | 
+<a href="https://github.com/GordonChen19/STENCIL">Code</a> |
+<a href="https://gordonchen19.github.io/STENCIL.github.io/">Project Page</a>
 <br />
 </font>
 </p>
