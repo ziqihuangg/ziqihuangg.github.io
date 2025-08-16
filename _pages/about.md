@@ -124,7 +124,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 Jingwen He, Hongbo Liu, Jiajun Li, <strong>Ziqi Huang</strong>, Yu Qiao, Wanli Ouyang, Ziwei Liu<br />
-arXiv Preprint, 2024<br />
+arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2508.08244">Paper</a> | 
 <a href="https://vchitect.github.io/Cut2Next-project/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=4-olVWzeXGY">Video</a>
