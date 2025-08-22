@@ -119,7 +119,7 @@ Publications & Preprints
   display: block;
 }
 </style>
-<img class="teaser-img" src="../images/paper_teasers/mavis.jpg">
+<img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
