@@ -119,6 +119,17 @@ Publications & Preprints
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/mavis.jpg">
+### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
+<p style="line-height:1.0">
+<font size="2">
+Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
+arXiv Preprint, 2025<br />
+<a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/cut2next.jpg">
 ### Cut2Next: Generating Next Shot via In-Context Tuning
 <p style="line-height:1.0">
