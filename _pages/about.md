@@ -119,7 +119,21 @@ Publications & Preprints
   display: block;
 }
 </style>
-<img class="teaser-img" src="../images/paper_teasers/mavis.png">
+<img class="teaser-img" src="../images/paper_teasers/cinescale.png">
+### CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
+<p style="line-height:1.0">
+<font size="2">
+Haonan Qiu, Ning Yu†, <strong>Ziqi Huang</strong>, Paul Debevec, Ziwei Liu†<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2508.15774">Paper</a> |
+<a href="https://github.com/Eyeline-Labs/CineScale">Code</a> |
+<a href="https://eyeline-labs.github.io/CineScale/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=bDYmXpNctc4">Video</a>
+
+<br />
+</font>
+</p>
+-----<img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
