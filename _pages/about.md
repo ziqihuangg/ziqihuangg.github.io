@@ -133,7 +133,8 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
------<img class="teaser-img" src="../images/paper_teasers/mavis.png">
+-----
+<img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
