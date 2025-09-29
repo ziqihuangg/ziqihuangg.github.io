@@ -10,7 +10,7 @@ redirect_from:
 
 Ziqi Huang is a Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
 
-Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025). 
+Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), and an [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025.
 <!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
 
 [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
@@ -139,7 +139,7 @@ arXiv Preprint, 2025<br />
 <p style="line-height:1.0">
 <font size="2">
 Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
-arXiv Preprint, 2025<br />
+ICCV Workshop, 2025<br />
 <a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
 <br />
 </font>
@@ -176,7 +176,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2025,
 <p style="line-height:1.0">
 <font size="2">
 Hongbo Liu*, Jingwen He*, Yi Jin, Dian Zheng, Yuhao Dong, Fan Zhang, <strong>Ziqi Huang</strong>, Yinan He, Yangguang Li, Weichao Chen, Yu Qiao, Wanli Ouyang, Shengjie Zhao†, Ziwei Liu†<br />
-arXiv Preprint, 2025<br />
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025<br />
 <a href="https://arxiv.org/abs/2506.21356">Paper</a> | 
 <a href="https://github.com/Vchitect/ShotBench">Code</a> |
 <a href="https://vchitect.github.io/ShotBench-project/">Project Page</a> |
