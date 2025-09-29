@@ -41,7 +41,7 @@ News
 }
 </style>
 <div class="news-scroll">
-∙ [2025-09] One paper (<a href="https://arxiv.org/abs/2506.21356">ShotBench</a>) accepted to <a href="https://neurips.cc">NeurIPS 2025</a></span><br />
+∙ [2025-09] One paper (<a href="https://arxiv.org/abs/2506.21356">ShotBench</a>) accepted to <a href="https://neurips.cc">NeurIPS 2025</a><br />
 ∙ [2025-08] One paper (<a href="https://arxiv.org/abs/2508.08244">Cut2Next</a>) accepted to <a href="https://asia.siggraph.org/2025/">SIGGRAPH Asia 2025</a><br />
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
 ∙ [2025-05] One paper (<a href="https://gordonchen19.github.io/STENCIL-Project/">Stencil</a>) accepted to <a href="https://2025.ieeeicip.org">ICIP 2025</a> as <span style="color:red; font-weight:bold">Spotlight</span><br />
