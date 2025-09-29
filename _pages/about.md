@@ -141,7 +141,7 @@ arXiv Preprint, 2025<br />
 <p style="line-height:1.0">
 <font size="2">
 Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
-ICCV Workshop, 2025<br />
+arXiv Preprint, 2025<br />
 <a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
 <br />
 </font>
