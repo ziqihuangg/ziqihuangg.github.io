@@ -121,6 +121,20 @@ Publications & Preprints
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/vchain.jpg">
+### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong>, Ning Yu†‡, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu† (‡: project lead)<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.05094">Paper</a> |
+<a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
+<a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=HV4uAHJwt1k">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/cinescale.png">
 ### CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
 <p style="line-height:1.0">
