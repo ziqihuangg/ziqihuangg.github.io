@@ -66,6 +66,7 @@ News
 ∙ [2023-02] One paper (<a href="https://arxiv.org/abs/2304.10530">Collaborative Diffusion</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2023</a><br />
 ∙ [2022-12] We are organizing CVPR 2023 Workshop <a href="https://sites.google.com/view/wicvcvpr2023">Women in Computer Vision (WiCV)</a><br />
 ∙ [2022-09] Awarded <a href="https://undergraduateawards.com/winners/regional-winners-2022">The Global Undergraduate Award</a> Asia Regional Winner<br />
+∙ [2022-08] We organize <a href="https://theaitalks.org">The AI Talks</a>, an initiative by researchers from NTU and NUS in Singapore to democratize AI through open talks and conversations<br />
 ∙ [2022-08] We are organizing ECCV 2022 Workshop <a href="https://sense-human.github.io">SenseHuman</a><br />
 ∙ [2022-08] Start my journey at <a href="https://www.mmlab-ntu.com">MMLab@NTU</a> as a Ph.D. student<br />
 ∙ [2022-06] Awarded <a href="https://www.ntu.edu.sg/eee/about-us/student-awards">Lee Kuan Yew Gold Medal</a><br />
