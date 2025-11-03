@@ -123,7 +123,7 @@ Publications & Preprints
   display: block;
 }
 </style>
-<img class="teaser-img" src="../images/paper_teasers/vchain.jpg">
+<img class="teaser-img-tall" src="../images/paper_teasers/vchain.jpg">
 ### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
 <p style="line-height:1.0">
 <font size="2">
@@ -133,6 +133,33 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 <a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
 <a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=HV4uAHJwt1k">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/uni-mmmu.jpg">
+### Uni-MMMU : A Massive Multi-discipline Multimodal Unified Benchmark
+<p style="line-height:1.0">
+<font size="2">
+Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
+<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
+<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/realdpo.jpg">
+### RealDPO: Real or Not Real, that is the Preference
+<p style="line-height:1.0">
+<font size="2">
+Guo Cheng*, Danni Yang*, <strong>Ziqi Huang‡</strong>, Jianlou Si, Chenyang Si, Ziwei Liu† (‡: project lead)<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.14955">Paper</a> | 
+<a href="https://github.com/Vchitect/RealDPO">Code</a> |
+<a href="https://vchitect.github.io/RealDPO-Project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=jvz5snFN0XA">Video</a>
 <br />
 </font>
 </p>
@@ -349,17 +376,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/handbook_logo_cropped.png">
-### Generative Networks
-<p style="line-height:1.0">
-<font size="2">
-Ziwei Liu†, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
-Handbook of Face Recognition, Third Edition, 2023<br />
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> 
-<br />
-</font>
-</p>
------
 <img class="teaser-img" src="../images/paper_teasers/talk-to-edit-pami.png">
 ### Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog
 <p style="line-height:1.0">
@@ -416,6 +432,41 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 </font>
 </p>
 
+-----
+### Book Chapter:<br />
+<img class="teaser-img" src="../images/paper_teasers/vlmbook_logo.png">
+### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
+Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_13">Digital Book</a> 
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/vlmbook_logo.png">
+### Boosting Diffusion U-Net with Free Lunch for Text-to-Image and Text-to-Video Generation
+<p style="line-height:1.0">
+<font size="2">
+Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu<br />
+Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_14">Digital Book</a> 
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/handbook_logo_cropped.png">
+### Generative Networks
+<p style="line-height:1.0">
+<font size="2">
+Ziwei Liu†, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
+Handbook of Face Recognition, Third Edition, 2023<br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> 
+<br />
+</font>
+</p>
+-----
 
 
 
