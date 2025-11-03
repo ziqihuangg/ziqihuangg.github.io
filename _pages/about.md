@@ -124,11 +124,11 @@ Publications & Preprints
 }
 </style>
 <style>
-.teaser-img-tall180 {
+.teaser-img-tall200 {
   float: left;
   margin: 5px 10px;
   width: 160px;
-  height: 180px;
+  height: 200px;
   object-fit: contain;
   object-position: 50% 50%;
   background-color: #fff;
@@ -149,8 +149,8 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img-tall180" src="../images/paper_teasers/uni-mmmu.jpg">
-### Uni-MMMU : A Massive Multi-discipline Multimodal Unified Benchmark
+<img class="teaser-img-tall200" src="../images/paper_teasers/uni-mmmu.jpg">
+### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
 <p style="line-height:1.0">
 <font size="2">
 Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
@@ -166,7 +166,7 @@ arXiv Preprint, 2025<br />
 ### RealDPO: Real or Not Real, that is the Preference
 <p style="line-height:1.0">
 <font size="2">
-Guo Cheng*, Danni Yang*, <strong>Ziqi Huang‡</strong>, Jianlou Si, Chenyang Si, Ziwei Liu† (‡: project lead)<br />
+Guo Cheng*, Danni Yang*, <strong>Ziqi Huang‡</strong>, Jianlou Si, Chenyang Si, Ziwei Liu† (‡: project lead)<br />
 arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2510.14955">Paper</a> | 
 <a href="https://github.com/Vchitect/RealDPO">Code</a> |
