@@ -122,6 +122,7 @@ Publications & Preprints
   background-color: #fff;
   display: block;
 }
+</style>
 <style>
 .teaser-img-tall {
   float: left;
