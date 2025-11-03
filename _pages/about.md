@@ -161,7 +161,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/uni-mmmu.jpg">
+<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
 ### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
 <p style="line-height:1.0">
 <font size="2">
