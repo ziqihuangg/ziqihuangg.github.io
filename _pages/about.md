@@ -112,6 +112,17 @@ Publications & Preprints
 }
 </style>
 <style>
+.teaser-img-tall140 {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 140px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+<style>
 .teaser-img-tall {
   float: left;
   margin: 5px 10px;
@@ -149,7 +160,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/paper_teasers/uni-mmmu.jpg">
+<img class="teaser-img" src="../images/paper_teasers/uni-mmmu.jpg">
 ### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
 <p style="line-height:1.0">
 <font size="2">
@@ -446,7 +457,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 -----
 ### Book Chapter:<br />
-<img class="teaser-img-tall" src="../images/paper_teasers/vlmbook_logo.png">
+<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
 ### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -457,7 +468,7 @@ Large Vision-Language Models: Pre-training, Prompting, and Applications, Springe
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vlmbook_logo.png">
+<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
 ### Boosting Diffusion U-Net with Free Lunch for Text-to-Image and Text-to-Video Generation
 <p style="line-height:1.0">
 <font size="2">
