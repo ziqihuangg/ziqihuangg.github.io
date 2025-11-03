@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
+Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
 
 Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), and an [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025.
 <!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
@@ -41,6 +41,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2025-10] One paper (<a href="https://arxiv.org/abs/2510.05094">VChain</a>) accepted to <a href="https://knowledgemr-workshop.github.io">ICCV 2025 Workshop</a> as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
 ∙ [2025-09] One paper (<a href="https://arxiv.org/abs/2506.21356">ShotBench</a>) accepted to <a href="https://neurips.cc">NeurIPS 2025</a><br />
 ∙ [2025-08] One paper (<a href="https://arxiv.org/abs/2508.08244">Cut2Next</a>) accepted to <a href="https://asia.siggraph.org/2025/">SIGGRAPH Asia 2025</a><br />
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
@@ -127,7 +128,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ziqi Huang</strong>, Ning Yu†‡, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu† (‡: project lead)<br />
-arXiv Preprint, 2025<br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025, <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
 <a href="https://arxiv.org/abs/2510.05094">Paper</a> |
 <a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
 <a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
@@ -156,7 +157,7 @@ arXiv Preprint, 2025<br />
 <p style="line-height:1.0">
 <font size="2">
 Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
-arXiv Preprint, 2025<br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025<br />
 <a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
 <br />
 </font>
@@ -420,11 +421,12 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Awards
 -----
+∙ [2025] Outstanding Paper Award, [ICCV 2025 KnowledgeMR Workshop](https://knowledgemr-workshop.github.io)<br />
 ∙ [2025] [ACL 2025 SAC Highlights Award (47 out of 8350)](https://2025.aclweb.org/program/awards/)<br />
 ∙ [2025] [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
 ∙ [2024] [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers)<br />
 ∙ [2023] [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/)<br />
-∙ [2023] Outstanding Reviewer, [CVEU Workshop, ICCV 2023](https://cveu.github.io)<br />
+∙ [2023] Outstanding Reviewer, [ICCV 2023 CVEU Workshop](https://cveu.github.io)<br />
 ∙ [2022] [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
 ∙ [2022] [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
 ∙ [2020 & 2021] NTU President Research Scholar<br />
