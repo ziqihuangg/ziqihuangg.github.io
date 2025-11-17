@@ -43,6 +43,8 @@ News
 <div class="news-scroll">
 ∙ [2025-11] One paper (<a href="https://arxiv.org/abs/2411.13503">VBench++</a>) accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
 ∙ [2025-10] One paper (<a href="https://arxiv.org/abs/2510.05094">VChain</a>) accepted to <a href="https://knowledgemr-workshop.github.io">ICCV 2025 Workshop</a> as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
+∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
+∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://i-hfm-2025.github.io/I-HFM-2025/">Interactive Human-centric Foundation Models</a> <br />
 ∙ [2025-09] One paper (<a href="https://arxiv.org/abs/2506.21356">ShotBench</a>) accepted to <a href="https://neurips.cc">NeurIPS 2025</a><br />
 ∙ [2025-08] One paper (<a href="https://arxiv.org/abs/2508.08244">Cut2Next</a>) accepted to <a href="https://asia.siggraph.org/2025/">SIGGRAPH Asia 2025</a><br />
 ∙ [2025-06] We are organizing CVPR 2025 Tutorial <a href="https://world-model-tutorial.github.io">From Video Generation to World Model</a><br />
