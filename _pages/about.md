@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and manipulation.
+Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and evaluation, and world models. 
 
 Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), and an [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025.
 <!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
