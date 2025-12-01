@@ -41,6 +41,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-11] One paper (<a href="https://arxiv.org/abs/2411.13503">VBench++</a>) accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
 ∙ [2025-10] One paper (<a href="https://arxiv.org/abs/2510.05094">VChain</a>) accepted to <a href="https://knowledgemr-workshop.github.io">ICCV 2025 Workshop</a> as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
