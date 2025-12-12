@@ -101,7 +101,7 @@ B.E. in Information Engineering & Media<br />
 </p>
 
 
-Publications & Preprints
+Publications
 -----
 <style>
 .teaser-img {
@@ -179,48 +179,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
-### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
-<p style="line-height:1.0">
-<font size="2">
-Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
-<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
-<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/realdpo.jpg">
-### RealDPO: Real or Not Real, that is the Preference
-<p style="line-height:1.0">
-<font size="2">
-Guo Cheng*, Danni Yang*, <strong>Ziqi Huang‡</strong>, Jianlou Si, Chenyang Si, Ziwei Liu† (‡: project lead)<br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2510.14955">Paper</a> | 
-<a href="https://github.com/Vchitect/RealDPO">Code</a> |
-<a href="https://vchitect.github.io/RealDPO-Project/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=jvz5snFN0XA">Video</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/cinescale.png">
-### CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
-<p style="line-height:1.0">
-<font size="2">
-Haonan Qiu, Ning Yu†, <strong>Ziqi Huang</strong>, Paul Debevec, Ziwei Liu†<br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2508.15774">Paper</a> |
-<a href="https://github.com/Eyeline-Labs/CineScale">Code</a> |
-<a href="https://eyeline-labs.github.io/CineScale/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=bDYmXpNctc4">Video</a>
-
-<br />
-</font>
-</p>
------
 <img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
@@ -282,49 +240,6 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
 <a href="https://vchitect.github.io/Evaluation-Agent-project/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=RyAS23dsgP8">Video</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
-### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
-<p style="line-height:1.0">
-<font size="2">
-Dian Zheng*, <strong>Ziqi Huang*</strong>, Hongbo Liu, Kai Zou, Yinan He, Fan Zhang, Yuanhan Zhang, Jingwen He, Wei-Shi Zheng†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2503.21755">Paper</a> | 
-<a href="https://github.com/Vchitect/VBench">Code</a> |
-<a href="https://vchitect.github.io/VBench-2.0-project/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=kJrzKy9tgAc">Video</a> |
-<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a> |
-<a href="https://huggingface.co/Vchitect">Dataset</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/repvideo_compressed.gif">
-### RepVideo: Rethinking Cross-Layer Representation for Video Generation
-<p style="line-height:1.0">
-<font size="2">
-Chenyang Si*, Weichen Fan*, Zhengyao Lv, <strong>Ziqi Huang</strong>, Yu Qiao, Ziwei Liu <br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2501.08994">Paper</a> | 
-<a href="https://github.com/Vchitect/RepVideo">Code</a> |
-<a href="https://vchitect.github.io/RepVid-Webpage/">Project Page</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall" src="../images/paper_teasers/vchitect-2.0_video.gif">
-### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2501.08453">Paper</a> | 
-<a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
-<a href="https://vchitect.intern-ai.org.cn/">Project Page</a> |
-<a href="https://huggingface.co/datasets/Vchitect/Vchitect_T2V_DataVerse">Dataset</a>
 <br />
 </font>
 </p>
@@ -459,9 +374,125 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 <br />
 </font>
 </p>
-
 -----
-### Book Chapter:<br />
+
+
+Preprints
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/worldlens.png">
+### WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
+<p style="line-height:1.0">
+<font size="2">
+Ao Liang*, Lingdong Kong‡*, Tianyi Yan*, Hongsi Liu*, Wesley Yang*, <strong>Ziqi Huang</strong>, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu† (‡: project lead)<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2512.10958">Paper</a> | 
+<a href="https://github.com/worldbench/WorldLens">Code</a> |
+<a href="https://worldbench.github.io/worldlens">Project Page</a> |
+<a href="https://huggingface.co/spaces/worldbench/WorldLens">Leaderboard</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/world_model_survey.png">
+### Simulating the Visual World with Artificial Intelligence: A Roadmap
+<p style="line-height:1.0">
+<font size="2">
+Jingtong Yue, <strong>Ziqi Huang‡</strong>, Zhaoxi Chen, Xintao Wang, Pengfei Wan, Ziwei Liu† (‡: project lead)<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2511.08585">Paper</a> | 
+<a href="https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model">Paper List</a> |
+<a href="https://world-model-roadmap.github.io">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
+### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+<p style="line-height:1.0">
+<font size="2">
+Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
+<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
+<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/realdpo.jpg">
+### RealDPO: Real or Not Real, that is the Preference
+<p style="line-height:1.0">
+<font size="2">
+Guo Cheng*, Danni Yang*, <strong>Ziqi Huang‡</strong>, Jianlou Si, Chenyang Si, Ziwei Liu† (‡: project lead)<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.14955">Paper</a> | 
+<a href="https://github.com/Vchitect/RealDPO">Code</a> |
+<a href="https://vchitect.github.io/RealDPO-Project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=jvz5snFN0XA">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/cinescale.png">
+### CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
+<p style="line-height:1.0">
+<font size="2">
+Haonan Qiu, Ning Yu†, <strong>Ziqi Huang</strong>, Paul Debevec, Ziwei Liu†<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2508.15774">Paper</a> |
+<a href="https://github.com/Eyeline-Labs/CineScale">Code</a> |
+<a href="https://eyeline-labs.github.io/CineScale/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=bDYmXpNctc4">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
+### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
+<p style="line-height:1.0">
+<font size="2">
+Dian Zheng*, <strong>Ziqi Huang*</strong>, Hongbo Liu, Kai Zou, Yinan He, Fan Zhang, Yuanhan Zhang, Jingwen He, Wei-Shi Zheng†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2503.21755">Paper</a> | 
+<a href="https://github.com/Vchitect/VBench">Code</a> |
+<a href="https://vchitect.github.io/VBench-2.0-project/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=kJrzKy9tgAc">Video</a> |
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a> |
+<a href="https://huggingface.co/Vchitect">Dataset</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/repvideo_compressed.gif">
+### RepVideo: Rethinking Cross-Layer Representation for Video Generation
+<p style="line-height:1.0">
+<font size="2">
+Chenyang Si*, Weichen Fan*, Zhengyao Lv, <strong>Ziqi Huang</strong>, Yu Qiao, Ziwei Liu <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2501.08994">Paper</a> | 
+<a href="https://github.com/Vchitect/RepVideo">Code</a> |
+<a href="https://vchitect.github.io/RepVid-Webpage/">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/vchitect-2.0_video.gif">
+### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Weichen Fan*, Chenyang Si*, Junhao Song, Zhenyu Yang, Yinan He, Long Zhuo, <strong>Ziqi Huang</strong>, Ziyue Dong, Jingwen He, Dongwei Pan, Yi Wang, Yuming Jiang, Yaohui Wang, Peng Gao, Xinyuan Chen, Hengjie Li, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2501.08453">Paper</a> | 
+<a href="https://github.com/Vchitect/Vchitect-2.0">Code</a> |
+<a href="https://vchitect.intern-ai.org.cn/">Project Page</a> |
+<a href="https://huggingface.co/datasets/Vchitect/Vchitect_T2V_DataVerse">Dataset</a>
+<br />
+</font>
+</p>
+-----
+
+Book Chapters
+-----
 <img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
 ### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
 <p style="line-height:1.0">
