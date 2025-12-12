@@ -406,15 +406,14 @@ arXiv Preprint, 2025<br />
 </font>
 </p>
 -----
-<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
-### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+<img class="teaser-img-tall" src="../images/paper_teasers/vimogen.jpg">
+### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
 <p style="line-height:1.0">
 <font size="2">
-Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+Jing Lin, Ruisi Wang, Junzhe Lu, Ziqi Huang, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu<br />
 arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
-<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
-<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
+<a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
+<a href="https://github.com/oneScotch/ViMoGen">Code</a>
 <br />
 </font>
 </p>
@@ -429,6 +428,19 @@ arXiv Preprint, 2025<br />
 <a href="https://github.com/Vchitect/RealDPO">Code</a> |
 <a href="https://vchitect.github.io/RealDPO-Project/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=jvz5snFN0XA">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
+### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+<p style="line-height:1.0">
+<font size="2">
+Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
+<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
+<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
 <br />
 </font>
 </p>
