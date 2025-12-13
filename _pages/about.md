@@ -179,7 +179,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/mavis.png">
+<img class="teaser-img-tall" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
@@ -406,11 +406,11 @@ arXiv Preprint, 2025<br />
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vimogen.jpg">
+<img class="teaser-img" src="../images/paper_teasers/vimogen.jpg">
 ### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
 <p style="line-height:1.0">
 <font size="2">
-Jing Lin, Ruisi Wang, Junzhe Lu, Ziqi Huang, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu<br />
+Jing Lin, Ruisi Wang, Junzhe Lu, <strong>Ziqi Huang</strong>, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu<br />
 arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
 <a href="https://github.com/oneScotch/ViMoGen">Code</a>
