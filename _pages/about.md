@@ -179,7 +179,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/mavis.png">
+<img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
@@ -374,7 +374,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 <br />
 </font>
 </p>
------
+
 
 
 Preprints
@@ -393,7 +393,7 @@ arXiv Preprint, 2025<br />
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/world_model_survey.png">
+<img class="teaser-img" src="../images/paper_teasers/world_model_survey.png">
 ### Simulating the Visual World with Artificial Intelligence: A Roadmap
 <p style="line-height:1.0">
 <font size="2">
@@ -501,7 +501,7 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
------
+
 
 Book Chapters
 -----
