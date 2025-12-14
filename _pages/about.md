@@ -165,7 +165,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </font>
 </p>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vchain.jpg">
+<img class="teaser-img" src="../images/paper_teasers/vchain.jpg">
 ### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
 <p style="line-height:1.0">
 <font size="2">
