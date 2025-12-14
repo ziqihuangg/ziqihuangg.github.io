@@ -184,7 +184,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 <p style="line-height:1.0">
 <font size="2">
 Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
-IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025<br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025
 <a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
 <br />
 </font>
@@ -411,7 +411,7 @@ arXiv Preprint, 2025<br />
 <p style="line-height:1.0">
 <font size="2">
 Jing Lin, Ruisi Wang, Junzhe Lu, <strong>Ziqi Huang</strong>, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu<br />
-arXiv Preprint, 2025<br />
+arXiv Preprint, 2025
 <a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
 <a href="https://github.com/oneScotch/ViMoGen">Code</a>
 <br />
