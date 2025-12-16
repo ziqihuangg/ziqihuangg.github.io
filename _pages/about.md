@@ -379,7 +379,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Preprints
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/metacanvas.png">
+<img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
 <font size="2">
