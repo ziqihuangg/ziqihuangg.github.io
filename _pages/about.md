@@ -379,6 +379,18 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 Preprints
 -----
+<img class="teaser-img-tall" src="../images/paper_teasers/metacanvas.png">
+### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
+<p style="line-height:1.0">
+<font size="2">
+Han Lin, Xichen Pan, <strong>Ziqi Huang</strong>, Ji Hou, Jialiang Wang, Weifeng Chen, Zecheng He, Felix Juefei-Xu, Junzhe Sun, Zhipeng Fan, Ali Thabet, Mohit Bansal, Chu Wang<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2512.11464">Paper</a> | 
+<a href="https://metacanvas.github.io">Project Page</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall" src="../images/paper_teasers/worldlens.png">
 ### WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
 <p style="line-height:1.0">
