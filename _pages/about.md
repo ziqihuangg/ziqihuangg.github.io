@@ -17,10 +17,10 @@ Her research broadly lies in computer vision and deep learning, with a focus on 
 - **Evaluation & Benchmarks**: defining tasks, setting evaluation targets, and providing diagnostic insights for generative models, including [VBench](https://arxiv.org/abs/2311.17982), [VBench++](https://arxiv.org/abs/2411.13503), [VBench-2.0](https://arxiv.org/abs/2503.21755), [Evaluation Agent](https://arxiv.org/abs/2412.09645), and [Uni-MMMU](https://arxiv.org/abs/2510.13759). 
 - **Image Generation & Editing**: controllable and high-fidelity image generation and editing, including [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html), [ReVersion](https://ziqihuangg.github.io/projects/reversion.html), [Talk-to-Edit](https://arxiv.org/abs/2109.04425), and [FreeU](https://chenyangsi.top/FreeU/)
 - **Video Generation**: foundation models for video generation, including [LaVie](https://vchitect.github.io/LaVie-project/) and [Vchitect-2.0](https://vchitect.intern-ai.org.cn/).
-- **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
+- **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), and [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
 
-[Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
 
+<!-- [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg) -->
 
 News
 -----
