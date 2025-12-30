@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She is broadly interested in computer vision and deep learning. She currently works on generative models, visual generation and evaluation, and world models. 
+Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from Nanyang Technological University in 2022. She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
-Ziqi obtained her Bachelor's degree (2022) from [NTU](https://www.ntu.edu.sg), [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee). She is awarded the [Google PhD Fellowship 2023](https://research.google/outreach/phd-fellowship/recipients/), and is a recipient of the [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), and an [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025.
-<!-- Previously, she had internships at [ByteDance AI Lab](https://ailab.bytedance.com) and [I2R A*STAR](https://www.a-star.edu.sg/i2r).  -->
+Ziqi is a recipient of the [Apple Scholars in AI/ML PhD Fellowship (2025)](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship (2023)](https://research.google/outreach/phd-fellowship/recipients/), [Lee Kuan Yew Gold Medal (2022)](https://www.ntu.edu.sg/eee/about-us/student-awards), [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025, and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV 2025 Workshop.
+
+Her research broadly lies in computer vision and deep learning, with a focus on generative models and their evaluation, particularly for image and video generation.
+
+- **Evaluation & Benchmarks**: defining tasks, setting evaluation targets, and providing diagnostic insights for generative models, including [VBench](https://arxiv.org/abs/2311.17982), [VBench++](https://arxiv.org/abs/2411.13503), [VBench-2.0](https://arxiv.org/abs/2503.21755), [Evaluation Agent](https://arxiv.org/abs/2412.09645), and [Uni-MMMU](https://arxiv.org/abs/2510.13759). 
+- **Image Generation & Editing**: controllable and high-fidelity image generation and editing, including [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html), [ReVersion](https://ziqihuangg.github.io/projects/reversion.html), [Talk-to-Edit](https://arxiv.org/abs/2109.04425), and [FreeU](https://chenyangsi.top/FreeU/)
+- **Video Generation**: foundation models for video generation, including [LaVie](https://vchitect.github.io/LaVie-project/) and [Vchitect-2.0](https://vchitect.intern-ai.org.cn/).
+- **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
 
 [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg)
 
@@ -78,27 +84,6 @@ News
 ∙ [2021-07] One paper (<a href="https://arxiv.org/abs/2109.04425">Talk-to-Edit</a>) accepted to <a href="http://iccv2021.thecvf.com">ICCV 2021</a><br />
 ∙ [2021-05] One paper (<a href="https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf">AnalogicalVQA</a>) accepted to <a href="https://www.2021.ieeeicip.org">ICIP 2021</a>
 </div>
-
-Education
------
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
-### Nanyang Technological University
-<p style="line-height:1.0">
-<font size="2">
-Aug 2022 - Present<br />
-Ph.D. student at MMLab@NTU<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
-### Nanyang Technological University
-<p style="line-height:1.0">
-<font size="2">
-Aug 2018 - May 2022<br />
-B.E. in Information Engineering & Media<br />
-<strong>CGPA: 5.00 / 5.00 (ranking: 1)</strong>
-</font>
-</p>
 
 
 Publications
@@ -551,6 +536,28 @@ Handbook of Face Recognition, Third Edition, 2023<br />
 </p>
 -----
 
+
+
+Education
+-----
+<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+### Nanyang Technological University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2022 - Present<br />
+Ph.D. student at MMLab@NTU<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+### Nanyang Technological University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2018 - May 2022<br />
+B.E. in Information Engineering & Media<br />
+<strong>CGPA: 5.00 / 5.00 (ranking: 1)</strong>
+</font>
+</p>
 
 
 Awards
