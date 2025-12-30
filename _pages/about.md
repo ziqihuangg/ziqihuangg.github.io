@@ -362,7 +362,8 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 
 
 
-Preprints
+-----
+### Preprints:<br />
 -----
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
@@ -500,7 +501,8 @@ arXiv Preprint, 2025<br />
 </p>
 
 
-Book Chapters
+-----
+### Book Chapters:<br />
 -----
 <img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
 ### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
@@ -594,15 +596,8 @@ Professional Service
 ∙ Journal Reviewer: IJCV, IET CV, PR<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
-Teaching
 -----
-∙ Guest Lecture: EECS 542 Advanced Topics in Computer Vision, <a href="https://umich.edu">University of Michigan</a>, 2024 Fall<br />
-∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring<br />
-∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
-
-
-Invited Talks
------
+### Invited Talks & Presentations:<br />
 ∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
 ∙ [2025-10] Oral Presentation at ICCV 2025 Workshop on accepted paper "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation"<br />
@@ -615,3 +610,12 @@ Invited Talks
 ∙ [2024-06] Invited Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf))<br />
 ∙ [2023-10] Invited Talk at <a href="https://research.adobe.com">Adobe Research</a> on "Exploring Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4))<br />
 ∙ [2023-06] Invited Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC" ([Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf))<br />
+
+
+
+Teaching
+-----
+∙ Guest Lecture: EECS 542 Advanced Topics in Computer Vision, <a href="https://umich.edu">University of Michigan</a>, 2024 Fall<br />
+∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring<br />
+∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring
+
