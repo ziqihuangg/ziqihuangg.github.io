@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-01] One paper (<a href="https://www.arxiv.org/abs/2508.08487">MAViS</a>) accepted to <a href="https://2026.eacl.org">EACL 2026</a><br />
 ∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-11] One paper (<a href="https://arxiv.org/abs/2411.13503">VBench++</a>) accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
 ∙ [2025-10] One paper (<a href="https://arxiv.org/abs/2510.05094">VChain</a>) accepted to <a href="https://knowledgemr-workshop.github.io">ICCV 2025 Workshop</a> as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
@@ -136,6 +137,18 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/mavis.png">
+### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
+<p style="line-height:1.0">
+<font size="2">
+Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
+European Chapter of the Association for Computational Linguistics (<strong>EACL</strong>), 2026
+<!-- IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025 -->
+<a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall" src="../images/paper_teasers/vbench++.jpg">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
@@ -160,17 +173,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 <a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
 <a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=HV4uAHJwt1k">Video</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/mavis.png">
-### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
-<p style="line-height:1.0">
-<font size="2">
-Qian Wang, <strong>Ziqi Huang</strong>, Ruoxi Jia, Paul Debevec, Ning Yu<br />
-IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025
-<a href="https://www.arxiv.org/abs/2508.08487">Paper</a>
 <br />
 </font>
 </p>
