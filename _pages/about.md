@@ -47,8 +47,10 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2026-01] One paper (<a href="https://github.com/MotrixLab/ViMoGen">ViMoGen</a>) accepted to <a href="https://iclr.cc">ICLR 2026</a><br />
 ∙ [2026-01] One paper (<a href="https://www.arxiv.org/abs/2508.08487">MAViS</a>) accepted to <a href="https://2026.eacl.org">EACL 2026</a> (Main Conference)<br />
-∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-11] One paper (<a href="https://arxiv.org/abs/2411.13503">VBench++</a>) accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a><br />
 ∙ [2025-10] One paper (<a href="https://arxiv.org/abs/2510.05094">VChain</a>) accepted to <a href="https://knowledgemr-workshop.github.io">ICCV 2025 Workshop</a> as <span style="color:red; font-weight:bold">Oral</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
@@ -137,6 +139,20 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/vimogen.jpg">
+### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
+<p style="line-height:1.0">
+<font size="2">
+Jing Lin*, Ruisi Wang*, Junzhe Lu*, <strong>Ziqi Huang</strong>, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai‡, Lei Yang, Ziwei Liu (‡: project lead)<br />
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026
+<a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
+<a href="https://github.com/MotrixLab/ViMoGen">Code</a> |
+<a href="https://linjing7.github.io/vimogen/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=50zSAUQy7Rs">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/mavis.png">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
@@ -406,18 +422,6 @@ arXiv Preprint, 2025<br />
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/vimogen.jpg">
-### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
-<p style="line-height:1.0">
-<font size="2">
-Jing Lin, Ruisi Wang, Junzhe Lu, <strong>Ziqi Huang</strong>, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu<br />
-arXiv Preprint, 2025
-<a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
-<a href="https://github.com/oneScotch/ViMoGen">Code</a>
-<br />
-</font>
-</p>
------
 <img class="teaser-img" src="../images/paper_teasers/realdpo.jpg">
 ### RealDPO: Real or Not Real, that is the Preference
 <p style="line-height:1.0">
@@ -600,7 +604,8 @@ Professional Service
 
 -----
 ### Invited Talks & Presentations:<br />
-∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
 ∙ [2025-10] Oral Presentation at ICCV 2025 Workshop on accepted paper "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation"<br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://i-hfm-2025.github.io/I-HFM-2025/">Interactive Human-centric Foundation Models</a> <br />
