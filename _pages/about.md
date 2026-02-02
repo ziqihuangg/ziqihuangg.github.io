@@ -144,7 +144,7 @@ Publications
 <p style="line-height:1.0">
 <font size="2">
 Jing Lin*, Ruisi Wang*, Junzhe Lu*, <strong>Ziqi Huang</strong>, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai‡, Lei Yang, Ziwei Liu (‡: project lead)<br />
-International Conference on Learning Representations (<strong>ICLR</strong>), 2026
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026<br />
 <a href="https://arxiv.org/abs/2510.26794">Paper</a> | 
 <a href="https://github.com/MotrixLab/ViMoGen">Code</a> |
 <a href="https://linjing7.github.io/vimogen/">Project Page</a> |
