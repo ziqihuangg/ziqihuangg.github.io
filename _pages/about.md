@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-02] We are organizing CVPR 2026 Workshop <a href="https://cvpr26-edge.github.io/">EDGE</a><br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2026-01] One paper (<a href="https://github.com/MotrixLab/ViMoGen">ViMoGen</a>) accepted to <a href="https://iclr.cc">ICLR 2026</a><br />
 ∙ [2026-01] One paper (<a href="https://www.arxiv.org/abs/2508.08487">MAViS</a>) accepted to <a href="https://2026.eacl.org">EACL 2026</a> (Main Conference)<br />
@@ -586,6 +587,7 @@ Awards
 Professional Service
 -----
 ### Workshop Organizer:<br />
+∙ CVPR 2026 - Organizer - EDGE Workshop: Efficient and On-Device Generation, [Website](https://cvpr26-edge.github.io/)<br />
 ∙ CVPR 2025 - Organizer - Tutorial: From Video Generation to World Model, [Website](https://world-model-tutorial.github.io)<br />
 ∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
 ∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
