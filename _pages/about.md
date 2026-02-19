@@ -384,6 +384,17 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img" src="../images/paper_teasers/unit.png">
+### UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
+<p style="line-height:1.0">
+<font size="2">
+Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, <strong>Ziqi Huang</strong>, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu<br />
+arXiv Preprint, 2025<br />
+<a href="https://arxiv.org/abs/2602.12279">Paper</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
@@ -601,7 +612,7 @@ Professional Service
 -----
 ### Reviewer:<br />
 ∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, SIGGRAPH Asia, NeurIPS, ACCV<br />
-∙ Journal Reviewer: IJCV, IET CV, PR<br />
+∙ Journal Reviewer: IJCV, IET CV, PR, TMLR<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
 -----
