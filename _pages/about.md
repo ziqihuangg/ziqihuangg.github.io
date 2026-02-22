@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-02] Two papers (<a href="https://arxiv.org/abs/2602.12279">UniT</a> and <a href="https://worldbench.github.io/worldlens">WorldLens</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2026</a><br />
 ∙ [2026-02] We are organizing CVPR 2026 Workshop <a href="https://cvpr26-edge.github.io/">EDGE</a><br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2026-01] One paper (<a href="https://github.com/MotrixLab/ViMoGen">ViMoGen</a>) accepted to <a href="https://iclr.cc">ICLR 2026</a><br />
@@ -140,6 +141,31 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img-tall140" src="../images/paper_teasers/unit.png">
+### UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
+<p style="line-height:1.0">
+<font size="2">
+Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, <strong>Ziqi Huang</strong>, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026<br />
+<a href="https://arxiv.org/abs/2602.12279">Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall" src="../images/paper_teasers/worldlens.png">
+### WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
+<p style="line-height:1.0">
+<font size="2">
+Ao Liang*, Lingdong Kong‡*, Tianyi Yan*, Hongsi Liu*, Wesley Yang*, <strong>Ziqi Huang</strong>, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu† (‡: project lead)<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026<br />
+<a href="https://arxiv.org/abs/2512.10958">Paper</a> | 
+<a href="https://github.com/worldbench/WorldLens">Code</a> |
+<a href="https://worldbench.github.io/worldlens">Project Page</a> |
+<a href="https://huggingface.co/spaces/worldbench/WorldLens">Leaderboard</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall" src="../images/paper_teasers/vimogen.jpg">
 ### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
 <p style="line-height:1.0">
@@ -384,17 +410,6 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
-<img class="teaser-img" src="../images/paper_teasers/unit.png">
-### UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
-<p style="line-height:1.0">
-<font size="2">
-Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, <strong>Ziqi Huang</strong>, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu<br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2602.12279">Paper</a>
-<br />
-</font>
-</p>
------
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
@@ -403,20 +418,6 @@ Han Lin, Xichen Pan, <strong>Ziqi Huang</strong>, Ji Hou, Jialiang Wang, Weifeng
 arXiv Preprint, 2025<br />
 <a href="https://arxiv.org/abs/2512.11464">Paper</a> | 
 <a href="https://metacanvas.github.io">Project Page</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall" src="../images/paper_teasers/worldlens.png">
-### WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
-<p style="line-height:1.0">
-<font size="2">
-Ao Liang*, Lingdong Kong‡*, Tianyi Yan*, Hongsi Liu*, Wesley Yang*, <strong>Ziqi Huang</strong>, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu† (‡: project lead)<br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2512.10958">Paper</a> | 
-<a href="https://github.com/worldbench/WorldLens">Code</a> |
-<a href="https://worldbench.github.io/worldlens">Project Page</a> |
-<a href="https://huggingface.co/spaces/worldbench/WorldLens">Leaderboard</a>
 <br />
 </font>
 </p>
