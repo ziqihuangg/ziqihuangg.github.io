@@ -304,7 +304,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 </p>
 -----
 <img class="teaser-img" src="../images/paper_teasers/freeinit_compressed.gif">
-### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+### FreeInit: Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
 Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
@@ -420,6 +420,21 @@ arXiv Preprint, 2026<br />
 <a href="https://github.com/OpenSenseNova/Demystifying_Video_Reasoning">Code</a> |
 <a href="https://www.wruisi.com/demystifying_video_reasoning/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=Gs9TPZmzo-s">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/babyvision.png">
+### BabyVision: Visual Reasoning Beyond Language
+<p style="line-height:1.0">
+<font size="2">
+Liang Chen, Weichu Xie, Yiyan Liang, Hongfeng He, Hans Zhao, Zhibo Yang, Zhiqi Huang, Haoning Wu, Haoyu Lu, Yiping Bao, Yuantao Fan, Guopeng Li, Haiyang Shen, Xuanzhong Chen, Wendong Xu, Shuzheng Si, Zefan Cai, Wenhao Chai, <strong>Ziqi Huang</strong>, Fangfu Liu, Tianyu Liu, Baobao Chang, Xiaobo Hu, Kaiyuan Chen, Yixin Ren, Yang Liu, Yuan Gong, Kuan Li<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2601.06521">Paper</a> | 
+<a href="https://unipat.ai/blog/BabyVision">Blog</a> | 
+<a href="https://github.com/UniPat-AI/BabyVision">Code</a> |
+<a href="https://unipat.ai/benchmarks/BabyVision">Leaderboard</a> |
+<a href="https://huggingface.co/collections/UnipatAI/babyvision">Dataset</a>
 <br />
 </font>
 </p>
