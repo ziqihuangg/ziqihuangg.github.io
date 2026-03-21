@@ -410,6 +410,20 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
+### Demystifing Video Reasoning
+<p style="line-height:1.0">
+<font size="2">
+Ruisi Wang, Zhongang Cai†, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, <strong>Ziqi Huang</strong>, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2603.16870">Paper</a> | 
+<a href="https://github.com/OpenSenseNova/Demystifying_Video_Reasoning">Code</a> |
+<a href="https://www.wruisi.com/demystifying_video_reasoning/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=Gs9TPZmzo-s">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
