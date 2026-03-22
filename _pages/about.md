@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Two papers (<a href="https://arxiv.org/abs/2602.12279">UniT</a> and <a href="https://worldbench.github.io/worldlens">WorldLens</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2026</a><br />
 ∙ [2026-02] We are organizing CVPR 2026 Workshop <a href="https://cvpr26-edge.github.io/">EDGE</a><br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
@@ -647,6 +648,7 @@ Professional Service
 
 -----
 ### Invited Talks & Presentations:<br />
+∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
