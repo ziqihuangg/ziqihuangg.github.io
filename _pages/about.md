@@ -428,7 +428,7 @@ arXiv Preprint, 2026<br />
 ### BabyVision: Visual Reasoning Beyond Language
 <p style="line-height:1.0">
 <font size="2">
-Liang Chen, Weichu Xie, Yiyan Liang, Hongfeng He, Hans Zhao, Zhibo Yang, Zhiqi Huang, Haoning Wu, Haoyu Lu, Yiping Bao, Yuantao Fan, Guopeng Li, Haiyang Shen, Xuanzhong Chen, Wendong Xu, Shuzheng Si, Zefan Cai, Wenhao Chai, <strong>Ziqi Huang</strong>, Fangfu Liu, Tianyu Liu, Baobao Chang, Xiaobo Hu, Kaiyuan Chen, Yixin Ren, Yang Liu, Yuan Gong, Kuan Li<br />
+BabyVision Team<br />
 arXiv Preprint, 2026<br />
 <a href="https://arxiv.org/abs/2601.06521">Paper</a> | 
 <a href="https://unipat.ai/blog/BabyVision">Blog</a> | 
