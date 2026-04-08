@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-04] Two papers (<a href="https://arxiv.org/abs/2510.05094">VChain</a> & <a href="https://arxiv.org/abs/2510.13759">Uni-MMMU</a>) accepted to <a href="https://2026.aclweb.org">ACL 2026</a> (Findings Paper and Main Conference)<br />
 ∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Two papers (<a href="https://arxiv.org/abs/2602.12279">UniT</a> and <a href="https://worldbench.github.io/worldlens">WorldLens</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2026</a><br />
 ∙ [2026-02] We are organizing CVPR 2026 Workshop <a href="https://cvpr26-edge.github.io/">EDGE</a><br />
@@ -142,6 +143,34 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img-tall140" src="../images/paper_teasers/vchain.jpg">
+### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong>, Ning Yu†‡, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu† (‡: project lead)<br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2026 (Findings Paper) <br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025, <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
+<a href="https://arxiv.org/abs/2510.05094">Paper</a> |
+<a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
+<a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=HV4uAHJwt1k">Video</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
+### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+<p style="line-height:1.0">
+<font size="2">
+Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2026 (Main Conference)<br />
+<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
+<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
+<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall140" src="../images/paper_teasers/unit.png">
 ### UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
 <p style="line-height:1.0">
@@ -203,20 +232,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <a href="https://github.com/Vchitect/VBench">Code</a> |
 <a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
 <a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Leaderboard</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall140" src="../images/paper_teasers/vchain.jpg">
-### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang</strong>, Ning Yu†‡, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu† (‡: project lead)<br />
-IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop, 2025, <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">Outstanding Paper Award</span><br />
-<a href="https://arxiv.org/abs/2510.05094">Paper</a> |
-<a href="https://github.com/Eyeline-Labs/VChain">Code</a> |
-<a href="https://eyeline-labs.github.io/VChain/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=HV4uAHJwt1k">Video</a>
 <br />
 </font>
 </p>
@@ -475,19 +490,6 @@ arXiv Preprint, 2025<br />
 <a href="https://github.com/Vchitect/RealDPO">Code</a> |
 <a href="https://vchitect.github.io/RealDPO-Project/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=jvz5snFN0XA">Video</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
-### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
-<p style="line-height:1.0">
-<font size="2">
-Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2025<br />
-<a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
-<a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
-<a href="https://vchitect.github.io/Uni-MMMU-Project/">Project Page</a>
 <br />
 </font>
 </p>
