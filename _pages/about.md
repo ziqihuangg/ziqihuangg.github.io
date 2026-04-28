@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from Nanyang Technological University in 2022. She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
+Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg) in 2022. She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
-Ziqi is a recipient of the [Apple Scholars in AI/ML PhD Fellowship (2025)](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship (2023)](https://research.google/outreach/phd-fellowship/recipients/), [Lee Kuan Yew Gold Medal (2022)](https://www.ntu.edu.sg/eee/about-us/student-awards), [SAC Highlights Award](https://2025.aclweb.org/program/awards/) at ACL 2025, and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV 2025 Workshop.
+Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
 Her research broadly lies in computer vision and deep learning, with a focus on generative models and their evaluation, particularly for image and video generation.
 
@@ -47,7 +47,9 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-04] Awarded <a href="https://www.meshy.ai/blog/fellowship-2026">Meshy Fellowship</a><br />
 ∙ [2026-04] Two papers (<a href="https://arxiv.org/abs/2510.05094">VChain</a> & <a href="https://arxiv.org/abs/2510.13759">Uni-MMMU</a>) accepted to <a href="https://2026.aclweb.org">ACL 2026</a> (Findings Paper and Main Conference)<br />
+∙ [2026-03] Awarded <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/">Microsoft Research Fellowship</a><br />
 ∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Two papers (<a href="https://arxiv.org/abs/2602.12279">UniT</a> and <a href="https://worldbench.github.io/worldlens">WorldLens</a>) accepted to <a href="https://cvpr.thecvf.com">CVPR 2026</a><br />
 ∙ [2026-02] We are organizing CVPR 2026 Workshop <a href="https://cvpr26-edge.github.io/">EDGE</a><br />
@@ -162,7 +164,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 ### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
 <p style="line-height:1.0">
 <font size="2">
-Kai Zou*, <strong>Ziqi Huang*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† <br />
+Kai Zou*, <strong>Ziqi Huang‡*</strong>, Yuhao Dong*, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu†, Yu Qiao†, Ziwei Liu† (‡: project lead)<br />
 Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2026 (Main Conference)<br />
 <a href="https://arxiv.org/abs/2510.13759">Paper</a> | 
 <a href="https://github.com/vchitect/Uni-MMMU">Code</a> |
@@ -615,6 +617,8 @@ B.E. in Information Engineering & Media<br />
 
 Awards
 -----
+∙ [2026] [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026)<br />
+∙ [2026] [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/)<br />
 ∙ [2025] Outstanding Paper Award, [ICCV 2025 KnowledgeMR Workshop](https://knowledgemr-workshop.github.io)<br />
 ∙ [2025] [ACL 2025 SAC Highlights Award (47 out of 8350)](https://2025.aclweb.org/program/awards/)<br />
 ∙ [2025] [2025 Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025)<br />
