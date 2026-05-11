@@ -445,7 +445,7 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/agentic_world_modeling.jpg">
+<img class="teaser-img-tall200" src="../images/paper_teasers/agentic_world_modeling.jpg">
 ### Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
 <p style="line-height:1.0">
 <font size="2">
@@ -458,7 +458,7 @@ arXiv Preprint, 2026<br />
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/animation_bench.png">
+<img class="teaser-img-tall140" src="../images/paper_teasers/animation_bench.png">
 ### AnimationBench: Are Video Models Good at Character-Centric Animation?
 <p style="line-height:1.0">
 <font size="2">
