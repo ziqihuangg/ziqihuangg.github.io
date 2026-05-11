@@ -10,7 +10,7 @@ redirect_from:
 
 Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg) in 2022. She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
-Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
+Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [WiGRAPH's Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
 Her research broadly lies in computer vision and deep learning, with a focus on generative models and their evaluation, particularly for image and video generation.
 
@@ -47,6 +47,8 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-05] Selected as <a href="https://www.wigraph.org/programs/rising-stars/">2026 Rising Stars in Computer Graphics</a> by the ACM SIGGRAPH Community Group <a href="https://www.wigraph.org/about/">WiGRAPH</a><br />
+∙ [2026-05] One paper (<a href="https://unipat.ai/blog/BabyVision">BabyVision</a>) accepted to <a href="https://icml.cc">ICML 2026</a><br />
 ∙ [2026-04] Awarded <a href="https://www.meshy.ai/blog/fellowship-2026">Meshy Fellowship</a><br />
 ∙ [2026-04] Two papers (<a href="https://arxiv.org/abs/2510.05094">VChain</a> & <a href="https://arxiv.org/abs/2510.13759">Uni-MMMU</a>) accepted to <a href="https://2026.aclweb.org">ACL 2026</a> (Findings Paper and Main Conference)<br />
 ∙ [2026-03] Awarded <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/">Microsoft Research Fellowship</a><br />
@@ -145,6 +147,21 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/babyvision.png">
+### BabyVision: Visual Reasoning Beyond Language
+<p style="line-height:1.0">
+<font size="2">
+BabyVision Team<br />
+International Conference on Machine Learning (<strong>ICML</strong>), 2026<br />
+<a href="https://arxiv.org/abs/2601.06521">Paper</a> | 
+<a href="https://unipat.ai/blog/BabyVision">Blog</a> | 
+<a href="https://github.com/UniPat-AI/BabyVision">Code</a> |
+<a href="https://unipat.ai/benchmarks/BabyVision">Leaderboard</a> |
+<a href="https://huggingface.co/collections/UnipatAI/babyvision">Dataset</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall140" src="../images/paper_teasers/vchain.jpg">
 ### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
 <p style="line-height:1.0">
@@ -428,6 +445,32 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img-tall" src="../images/paper_teasers/agentic_world_modeling.jpg">
+### Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
+<p style="line-height:1.0">
+<font size="2">
+Meng Chu*, Xuan Billy Zhang*, Kevin Qinghong Lin*, Lingdong Kong*, Jize Zhang*, Teng Tu*, Weijian Ma*, <strong>Ziqi Huang</strong>, Senqiao Yang, Wei Huang, Yeying Jin, Zhefan Rao, Jinhui Ye, Xinyu Lin, Xichen Zhang, Qisheng Hu, Shuai Yang, Leyang Shen, Wei Chow, Yifei Dong, Fengyi Wu, Quanyu Long, Bin Xia, Shaozuo Yu, Mingkang Zhu, Wenhu Zhang, Jiehui Huang, Haokun Gui, Haoxuan Che†, Long Chen†, Qifeng Chen†, Wenxuan Zhang†, Wenya Wang†, Xiaojuan Qi†, Yang Deng†, Yanwei Li†, Mike Zheng Shou†, Zhi-Qi Cheng†, See-Kiong Ng†, Ziwei Liu†, Philip Torr†, Jiaya Jia†<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2604.22748">Paper</a> | 
+<a href="https://github.com/matrix-agent/awesome-agentic-world-modeling">GitHub</a> |
+<a href="https://agentic-world-modeling.xyz">Project Page</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img" src="../images/paper_teasers/animation_bench.png">
+### AnimationBench: Are Video Models Good at Character-Centric Animation?
+<p style="line-height:1.0">
+<font size="2">
+Leyi Wu, Pengjun Fang, Kai Sun, Yazhou Xing, Yinwei Wu, Songsong Wang, <strong>Ziqi Huang</strong>, Dan Zhou, Yingqing He, Ying-Cong Chen, Qifeng Chen<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2604.15299">Paper</a> | 
+<a href="https://github.com/VideoVerses/AnimationBench">Code</a> |
+<a href="https://animationbench.github.io/">Project Page</a> 
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
 ### Demystifing Video Reasoning
 <p style="line-height:1.0">
@@ -438,21 +481,6 @@ arXiv Preprint, 2026<br />
 <a href="https://github.com/OpenSenseNova/Demystifying_Video_Reasoning">Code</a> |
 <a href="https://www.wruisi.com/demystifying_video_reasoning/">Project Page</a> |
 <a href="https://www.youtube.com/watch?v=Gs9TPZmzo-s">Video</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/babyvision.png">
-### BabyVision: Visual Reasoning Beyond Language
-<p style="line-height:1.0">
-<font size="2">
-BabyVision Team<br />
-arXiv Preprint, 2026<br />
-<a href="https://arxiv.org/abs/2601.06521">Paper</a> | 
-<a href="https://unipat.ai/blog/BabyVision">Blog</a> | 
-<a href="https://github.com/UniPat-AI/BabyVision">Code</a> |
-<a href="https://unipat.ai/benchmarks/BabyVision">Leaderboard</a> |
-<a href="https://huggingface.co/collections/UnipatAI/babyvision">Dataset</a>
 <br />
 </font>
 </p>
@@ -617,6 +645,7 @@ B.E. in Information Engineering & Media<br />
 
 Awards
 -----
+∙ [2026] [WiGRAPH's 2026 Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/)<br />
 ∙ [2026] [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026)<br />
 ∙ [2026] [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/)<br />
 ∙ [2025] Outstanding Paper Award, [ICCV 2025 KnowledgeMR Workshop](https://knowledgemr-workshop.github.io)<br />
