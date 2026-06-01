@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
 ∙ [2026-05] Selected as <a href="https://www.wigraph.org/programs/rising-stars/">2026 Rising Stars in Computer Graphics</a> by the ACM SIGGRAPH Community Group <a href="https://www.wigraph.org/about/">WiGRAPH</a><br />
 ∙ [2026-05] One paper (<a href="https://unipat.ai/blog/BabyVision">BabyVision</a>) accepted to <a href="https://icml.cc">ICML 2026</a><br />
 ∙ [2026-04] Awarded <a href="https://www.meshy.ai/blog/fellowship-2026">Meshy Fellowship</a><br />
@@ -683,6 +684,7 @@ Professional Service
 
 -----
 ### Invited Talks & Presentations:<br />
+∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
 ∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
 ∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
