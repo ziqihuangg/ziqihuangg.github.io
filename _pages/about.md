@@ -50,9 +50,9 @@ News
 ∙ [2026-07] We are organizing NeurIPS 2026 Workshop - Women in Machine Learning (WiML)<br />
 ∙ [2026-06] We are organizing BMVC 2024 Workshop <a href="https://sites.google.com/utwente.nl/mfm4health/home">Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)</a><br />
 ∙ [2026-06] One paper (<a href="https://www.wruisi.com/demystifying_video_reasoning/">Demystifying Video Reasoning</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2026</a><br />
-∙ [2026-06] Selected as <a href="https://hub.baai.ac.cn/view/55541">Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star</a>， <a href="https://hub.baai.ac.cn/view/55718">Link</a><br />
+∙ [2026-06] Selected as <a href="https://hub.baai.ac.cn/view/55541">Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star</a>, [<a href="https://hub.baai.ac.cn/view/55718">Link</a>]<br />
 ∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
-∙ [2026-06] Selected for <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Doctoral_Consortium&referrer=%5BHomepage%5D(%2F)#tab-accept">CVPR 2026 Doctoral Consortium</a><br />
+∙ [2026-06] Selected for <a href="https://cvpr.thecvf.com">CVPR 2026 Doctoral Consortium</a><br />
 ∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
 ∙ [2026-05] Awarded <a href="https://sites.google.com/view/sriss2026">SRISS 2026</a> Award of Distinction, Poster Presentation<br />
 ∙ [2026-05] Selected as <a href="https://www.wigraph.org/programs/rising-stars/">2026 Rising Stars in Computer Graphics</a> by the ACM SIGGRAPH Community Group <a href="https://www.wigraph.org/about/">WiGRAPH</a><br />
@@ -654,7 +654,7 @@ B.E. in Information Engineering & Media<br />
 Awards
 -----
 ∙ [2026] [Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star](https://hub.baai.ac.cn/view/55541), [link](https://hub.baai.ac.cn/view/55718)<br />
-∙ [2026] [CVPR 2026 Doctoral Consortium](https://openreview.net/group?id=thecvf.com/CVPR/2026/Doctoral_Consortium&referrer=%5BHomepage%5D(%2F)#tab-accept)<br />
+∙ [2026] [CVPR 2026 Doctoral Consortium](https://cvpr.thecvf.com)<br />
 ∙ [2026] [SRISS 2026](https://sites.google.com/view/sriss2026) Award of Distinction, Poster Presentation<br />
 ∙ [2026] [WiGRAPH's 2026 Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/)<br />
 ∙ [2026] [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026)<br />
