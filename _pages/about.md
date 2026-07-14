@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg) in 2022. She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
+Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
 Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [WiGRAPH's Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
@@ -47,7 +47,14 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-07] We are organizing NeurIPS 2026 Workshop - Women in Machine Learning (WiML)<br />
+∙ [2026-06] We are organizing BMVC 2024 Workshop <a href="https://sites.google.com/utwente.nl/mfm4health/home">Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)</a><br />
+∙ [2026-06] One paper (<a href="https://www.wruisi.com/demystifying_video_reasoning/">Demystifying Video Reasoning</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2026</a><br />
+∙ [2026-06] Selected as <a href="https://hub.baai.ac.cn/view/55541">Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star</a>， <a href="https://hub.baai.ac.cn/view/55718">Link</a><br />
+∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
+∙ [2026-06] Selected for <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Doctoral_Consortium&referrer=%5BHomepage%5D(%2F)#tab-accept">CVPR 2026 Doctoral Consortium</a><br />
 ∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
+∙ [2026-05] Awarded <a href="https://sites.google.com/view/sriss2026">SRISS 2026</a> Award of Distinction, Poster Presentation<br />
 ∙ [2026-05] Selected as <a href="https://www.wigraph.org/programs/rising-stars/">2026 Rising Stars in Computer Graphics</a> by the ACM SIGGRAPH Community Group <a href="https://www.wigraph.org/about/">WiGRAPH</a><br />
 ∙ [2026-05] One paper (<a href="https://unipat.ai/blog/BabyVision">BabyVision</a>) accepted to <a href="https://icml.cc">ICML 2026</a><br />
 ∙ [2026-04] Awarded <a href="https://www.meshy.ai/blog/fellowship-2026">Meshy Fellowship</a><br />
@@ -148,6 +155,20 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
+### Demystifying Video Reasoning
+<p style="line-height:1.0">
+<font size="2">
+Ruisi Wang, Zhongang Cai†, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, <strong>Ziqi Huang</strong>, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang<br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2026 <br /> 
+<a href="https://arxiv.org/abs/2603.16870">Paper</a> | 
+<a href="https://github.com/OpenSenseNova/Demystifying_Video_Reasoning">Code</a> |
+<a href="https://www.wruisi.com/demystifying_video_reasoning/">Project Page</a> |
+<a href="https://www.youtube.com/watch?v=Gs9TPZmzo-s">Video</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/babyvision.png">
 ### BabyVision: Visual Reasoning Beyond Language
 <p style="line-height:1.0">
@@ -472,20 +493,6 @@ arXiv Preprint, 2026<br />
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
-### Demystifing Video Reasoning
-<p style="line-height:1.0">
-<font size="2">
-Ruisi Wang, Zhongang Cai†, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, <strong>Ziqi Huang</strong>, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang<br />
-arXiv Preprint, 2026<br />
-<a href="https://arxiv.org/abs/2603.16870">Paper</a> | 
-<a href="https://github.com/OpenSenseNova/Demystifying_Video_Reasoning">Code</a> |
-<a href="https://www.wruisi.com/demystifying_video_reasoning/">Project Page</a> |
-<a href="https://www.youtube.com/watch?v=Gs9TPZmzo-s">Video</a>
-<br />
-</font>
-</p>
------
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
@@ -646,6 +653,9 @@ B.E. in Information Engineering & Media<br />
 
 Awards
 -----
+∙ [2026] [Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star](https://hub.baai.ac.cn/view/55541), [link](https://hub.baai.ac.cn/view/55718)<br />
+∙ [2026] [CVPR 2026 Doctoral Consortium](https://openreview.net/group?id=thecvf.com/CVPR/2026/Doctoral_Consortium&referrer=%5BHomepage%5D(%2F)#tab-accept)<br />
+∙ [2026] [SRISS 2026](https://sites.google.com/view/sriss2026) Award of Distinction, Poster Presentation<br />
 ∙ [2026] [WiGRAPH's 2026 Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/)<br />
 ∙ [2026] [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026)<br />
 ∙ [2026] [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/)<br />
@@ -665,6 +675,8 @@ Awards
 Professional Service
 -----
 ### Workshop Organizer:<br />
+∙ NeurIPS 2026 - General Chair - Women in Machine Learning (WiML) Workshop<br />
+∙ BMVC 2026 - Organizer - Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health), [Website](https://sites.google.com/utwente.nl/mfm4health/home)<br />
 ∙ CVPR 2026 - Organizer - EDGE Workshop: Efficient and On-Device Generation, [Website](https://cvpr26-edge.github.io/)<br />
 ∙ CVPR 2025 - Organizer - Tutorial: From Video Generation to World Model, [Website](https://world-model-tutorial.github.io)<br />
 ∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
@@ -684,6 +696,8 @@ Professional Service
 
 -----
 ### Invited Talks & Presentations:<br />
+∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
+∙ [2026-06] Invited talk at <a href="https://2026.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI) Conference (智源大会)</a><br />
 ∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
 ∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
 ∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
