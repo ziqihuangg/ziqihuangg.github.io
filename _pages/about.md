@@ -47,7 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
-∙ [2026-07] We are organizing NeurIPS 2026 Workshop - Women in Machine Learning (WiML)<br />
+∙ [2026-07] We are organizing NeurIPS 2026 Workshop <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/">Women in Machine Learning (WiML)</a> <br />
 ∙ [2026-06] We are organizing BMVC 2024 Workshop <a href="https://sites.google.com/utwente.nl/mfm4health/home">Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)</a><br />
 ∙ [2026-06] One paper (<a href="https://www.wruisi.com/demystifying_video_reasoning/">Demystifying Video Reasoning</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2026</a><br />
 ∙ [2026-06] Selected as <a href="https://hub.baai.ac.cn/view/55541">Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star</a>, [<a href="https://hub.baai.ac.cn/view/55718">Link</a>]<br />
@@ -467,6 +467,21 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img" src="../images/paper_teasers/circular_0_comprehension_graphic.gif">
+### Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
+<p style="line-height:1.0">
+<font size="2">
+Runmao Yao*, Kairui Hu*, Yukang Cao, Ruisi Wang, Shulin Tian, Ziang Cao, Weichen Fan, <strong>Ziqi Huang</strong>, Yuhao Dong, Hao Li, Zhaoxi Chen, Zhongang Cai, Lei Yang, Ziwei Liu<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2607.16401">Paper</a> | 
+<a href="https://github.com/21yrm/Apple-PI">GitHub</a> |
+<a href="https://21yrm.github.io/Apple-PI-homepage/">Project Page</a> |
+<a href="https://youtu.be/IduINd9phxw">Video</a> |
+<a href="https://huggingface.co/spaces/yaorunmao/apple-pi-leaderboard">Leaderboard</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img-tall200" src="../images/paper_teasers/agentic_world_modeling.jpg">
 ### Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
 <p style="line-height:1.0">
@@ -675,14 +690,14 @@ Awards
 Professional Service
 -----
 ### Workshop Organizer:<br />
-∙ NeurIPS 2026 - General Chair - Women in Machine Learning (WiML) Workshop<br />
-∙ BMVC 2026 - Organizer - Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health), [Website](https://sites.google.com/utwente.nl/mfm4health/home)<br />
-∙ CVPR 2026 - Organizer - EDGE Workshop: Efficient and On-Device Generation, [Website](https://cvpr26-edge.github.io/)<br />
-∙ CVPR 2025 - Organizer - Tutorial: From Video Generation to World Model, [Website](https://world-model-tutorial.github.io)<br />
-∙ CVPR 2024 - Organizer - LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot, [Website](https://sites.google.com/view/loveucvpr24/home)<br />
-∙ CVPR 2024 - General Chair - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicv-cvpr-2024/)<br />
-∙ CVPR 2023 - Organizer - Women in Computer Vision (WiCV) Workshop, [Website](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
-∙ ECCV 2022 - Organizer - SenseHuman: Sensing, Understanding and Synthesizing Humans, [Website](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
+∙ NeurIPS 2026 - General Chair - [Women in Machine Learning (WiML) Workshop](https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/)<br />
+∙ BMVC 2026 - Organizer - [Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)](https://sites.google.com/utwente.nl/mfm4health/home)<br />
+∙ CVPR 2026 - Organizer - [EDGE Workshop: Efficient and On-Device Generation](https://cvpr26-edge.github.io/)<br />
+∙ CVPR 2025 - Organizer - [Tutorial: From Video Generation to World Model](https://world-model-tutorial.github.io)<br />
+∙ CVPR 2024 - Organizer - [LOVEU Workshop: Long-form Video Understanding Towards Multimodal AI Assistant and Copilot](https://sites.google.com/view/loveucvpr24/home)<br />
+∙ CVPR 2024 - General Chair - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicv-cvpr-2024/)<br />
+∙ CVPR 2023 - Organizer - [Women in Computer Vision (WiCV) Workshop](https://sites.google.com/view/wicvcvpr2023), [Report](https://arxiv.org/abs/2309.12768), [Video](https://youtu.be/hm1RA4ef7W8)<br />
+∙ ECCV 2022 - Organizer - [SenseHuman Workshop: Sensing, Understanding and Synthesizing Humans](https://sense-human.github.io), [Video](https://www.youtube.com/watch?v=B8eyHbdDh14)<br />
 
 -----
 ### Talk Organizer:<br />
@@ -691,7 +706,7 @@ Professional Service
 -----
 ### Reviewer:<br />
 ∙ Conference Reviewer: CVPR, ICCV, ICLR, ICIP, ECCV, SIGGRAPH Asia, NeurIPS, ACCV<br />
-∙ Journal Reviewer: IJCV, IET CV, PR, TMLR<br />
+∙ Journal Reviewer: IJCV, IET CV, PR, TMLR, TIP<br />
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
 -----
