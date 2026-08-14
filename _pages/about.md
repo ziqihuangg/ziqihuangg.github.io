@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a Ph.D. candidate at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
+Ziqi Huang is a final-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
 Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [WiGRAPH's Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
@@ -19,8 +19,9 @@ Her research broadly lies in computer vision and deep learning, with a focus on 
 - **Video Generation**: foundation models for video generation, including [LaVie](https://vchitect.github.io/LaVie-project/) and [Vchitect-2.0](https://vchitect.intern-ai.org.cn/).
 - **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), and [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
 
+*<span style="color:#52adc8">For students interested in working on world models, embodied intelligence, and AI evaluation & measurement, feel free to [email me](mailto:connie.huangziqi@gmail.com).</span>*
 
-<!-- [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:ZIQI002@e.ntu.edu.sg) -->
+<!-- [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:connie.huangziqi@gmail.com) -->
 
 News
 -----
@@ -47,8 +48,9 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-08] Serving as Area Chair for <a href="https://iclr.cc">ICLR 2027</a><br />
 ∙ [2026-07] We are organizing NeurIPS 2026 Workshop <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/">Women in Machine Learning (WiML)</a> <br />
-∙ [2026-06] We are organizing BMVC 2024 Workshop <a href="https://sites.google.com/utwente.nl/mfm4health/home">Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)</a><br />
+∙ [2026-06] We are organizing BMVC 2026 Workshop <a href="https://sites.google.com/utwente.nl/mfm4health/home">Multimodal Foundation Models for Healthcare: Methods and Applications (MFM4Health)</a><br />
 ∙ [2026-06] One paper (<a href="https://www.wruisi.com/demystifying_video_reasoning/">Demystifying Video Reasoning</a>) accepted to <a href="https://eccv.ecva.net">ECCV 2026</a><br />
 ∙ [2026-06] Selected as <a href="https://hub.baai.ac.cn/view/55541">Beijing Academy of Artificial Intelligence (BAAI) 智源 InnoVibe Rising Star</a>, [<a href="https://hub.baai.ac.cn/view/55718">Link</a>]<br />
 ∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
@@ -155,6 +157,17 @@ Publications
   display: block;
 }
 </style>
+<img class="teaser-img-tall140" src="../images/NTU_logo.png">
+### Human-Machine Collaborative Visual Synthesis
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong><br />
+Ph.D. Thesis, Nanyang Technological University, 2026<br />
+<a href="https://dr.ntu.edu.sg/entities/publication/71f47bb5-c3d1-4408-ae19-c2b691451e65">Thesis</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
 ### Demystifying Video Reasoning
 <p style="line-height:1.0">
@@ -467,6 +480,18 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img" src="../images/paper_teasers/open_ea.jpg">
+### Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models
+<p style="line-height:1.0">
+<font size="2">
+Shulin Tian, <strong>Ziqi Huang</strong>, Fan Zhang, Hongyuan Zhu, Yu Qiao, Ziwei Liu<br />
+arXiv Preprint, 2026 (Journal extension of ACL 2025 paper)<br />
+<a href="https://arxiv.org/abs/2608.09666">Paper</a> | 
+<a href="https://github.com/Vchitect/Evaluation-Agent">Code</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/circular_0_comprehension_graphic.gif">
 ### Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
 <p style="line-height:1.0">
@@ -702,6 +727,12 @@ Professional Service
 -----
 ### Talk Organizer:<br />
 ∙ Director: [The AI Talks](https://theaitalks.org) - international seminar series that connects researchers across institutions<br />
+
+-----
+### Area Chair:<br />
+∙ International Conference on Learning Representations (<strong>ICLR</strong>), 2027<br />
+∙ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Workshop of Human-Interactive Generation and Editing<br />
+∙ European Conference on Computer Vision (<strong>ECCV</strong>) Workshop of Multimodal Large Language Models for Unified Comprehension and Generation (MUCG)<br />
 
 -----
 ### Reviewer:<br />
