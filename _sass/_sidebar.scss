@@ -84,11 +84,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    // border-radius: 50%; // disabled to show the full (non-square) avatar photo without cropping
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color; // disabled per request, no border around avatar
     }
   }
 }

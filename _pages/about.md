@@ -19,7 +19,7 @@ Her research broadly lies in computer vision and deep learning, with a focus on 
 - **Video Generation**: foundation models for video generation, including [LaVie](https://vchitect.github.io/LaVie-project/) and [Vchitect-2.0](https://vchitect.intern-ai.org.cn/).
 - **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), and [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
 
-*<span style="color:#52adc8">For students interested in working on world models, embodied intelligence, and AI evaluation & measurement, feel free to [email me](mailto:connie.huangziqi@gmail.com).</span>*
+*<span style="color:#52adc8">For students interested in working on generative models, embodied intelligence, and AI evaluation & measurement, feel free to [email me](mailto:connie.huangziqi@gmail.com).</span>*
 
 <!-- [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:connie.huangziqi@gmail.com) -->
 
