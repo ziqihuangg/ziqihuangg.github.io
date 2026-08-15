@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a final-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She is fortunate to have internships and collaborations with [Meta](www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
+Ziqi Huang is a final-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She is fortunate to have internships and collaborations with [Meta](https://www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
 Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [WiGRAPH's Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
 Her research broadly lies in computer vision and deep learning, with a focus on generative models and their evaluation, particularly for image and video generation.
 
 - **Evaluation & Benchmarks**: defining tasks, setting evaluation targets, and providing diagnostic insights for generative models, including [VBench](https://arxiv.org/abs/2311.17982), [VBench++](https://arxiv.org/abs/2411.13503), [VBench-2.0](https://arxiv.org/abs/2503.21755), [Evaluation Agent](https://arxiv.org/abs/2412.09645), and [Uni-MMMU](https://arxiv.org/abs/2510.13759). 
-- **Image Generation & Editing**: controllable and high-fidelity image generation and editing, including [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html), [ReVersion](https://ziqihuangg.github.io/projects/reversion.html), [Talk-to-Edit](https://arxiv.org/abs/2109.04425), and [FreeU](https://chenyangsi.top/FreeU/)
+- **Image Generation & Editing**: controllable and high-fidelity image generation and editing, including [Collaborative Diffusion](https://ziqihuangg.github.io/projects/collaborative-diffusion.html), [ReVersion](https://ziqihuangg.github.io/projects/reversion.html), [Talk-to-Edit](https://arxiv.org/abs/2109.04425), and [FreeU](https://chenyangsi.top/FreeU/).
 - **Video Generation**: foundation models for video generation, including [LaVie](https://vchitect.github.io/LaVie-project/) and [Vchitect-2.0](https://vchitect.intern-ai.org.cn/).
-- **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), and [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585)
+- **Reasoning-Aware Generative Modeling**: enabling generative models to simulate real-world phenomena and reactions, including [VChain](https://arxiv.org/abs/2510.05094), and [Roadmap: Simulating the Visual World](https://arxiv.org/abs/2511.08585).
 
 *<span style="color:#d18d46">For students interested in working on generative models, embodied intelligence, and AI evaluation & measurement, feel free to [email me](mailto:connie.huangziqi@gmail.com).</span>*
 
@@ -335,7 +335,7 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025<br />
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
-Fan Zhang*,  Shulin Tian*, <strong>Ziqi Huang‡*</strong>, Yu Qiao†, Ziwei Liu† (‡: project lead)<br />
+Fan Zhang*, Shulin Tian*, <strong>Ziqi Huang‡*</strong>, Yu Qiao†, Ziwei Liu† (‡: project lead)<br />
 Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025 (Main Conference), <span style="color:red; font-weight:bold">(Oral)</span> and <span style="color:red; font-weight:bold">SAC Highlights Award</span> (47 out of 8350)<br />
 <a href="https://arxiv.org/abs/2412.09645">Paper</a> | 
 <a href="https://github.com/Vchitect/Evaluation-Agent">Code</a> |
@@ -365,7 +365,7 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
 International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
 <a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
@@ -467,7 +467,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
+<strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo-Hwee Lim<br />
 IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
 <a href="https://ziqihuangg.github.io/papers/2021ICIP-AnalogicalVQA.pdf">PDF</a> | 
 <a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
@@ -493,7 +493,7 @@ arXiv Preprint, 2026 (Journal extension of ACL 2025 paper)<br />
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/paper_teasers/circular_0_comprehension_graphic.gif">
+<img class="teaser-img-tall140" src="../images/paper_teasers/circular_0_comprehension_graphic.gif">
 ### Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
 <p style="line-height:1.0">
 <font size="2">
