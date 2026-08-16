@@ -349,15 +349,27 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .sticky {
+  // Pinned to the viewport at all times (position: fixed) rather than
+  // position: sticky, which only locks after an initial free-scroll phase —
+  // that phase was visible as the sidebar drifting on every anchor jump.
+  // left/width replicate the Susy-computed span(2 of 12) box (see #main /
+  // .page in _page.scss) since a fixed element no longer participates in
+  // that float layout and can't size itself from it.
   @include breakpoint($large) {
     @include clearfix();
-    position: -webkit-sticky;
-    position: sticky;
-    top: 2em;
+    position: fixed;
+    top: 5.5em;
+    left: calc((100vw - #{$large}) / 2 + 1em);
+    width: calc((#{$large} - 2em) * 0.152542372881);
 
     > * {
       display: block;
     }
+  }
+
+  @include breakpoint($x-large) {
+    left: calc((100vw - #{$x-large}) / 2 + 1em);
+    width: calc((#{$x-large} - 2em) * 0.152542372881);
   }
 }
 
