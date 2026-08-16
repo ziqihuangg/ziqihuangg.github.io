@@ -712,8 +712,29 @@ Awards
 ∙ [2019 & 2022] Dean’s List (School of Electrical and Electronic Engineering)<br />
 ∙ [2018] NTU Science and Engineering Undergraduate Scholarship<br />
 
+-----
+### Invited Talks & Presentations:<br />
+∙ [2026-08] Invited talk at <a href="https://luma.com/video-model">Video Model Journal Club</a><br />
+∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
+∙ [2026-06] Invited talk at <a href="https://2026.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI) Conference (智源大会)</a><br />
+∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
+∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
+∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
+∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
+∙ [2025-10] Oral Presentation at ICCV 2025 Workshop on accepted paper "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation"<br />
+∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://i-hfm-2025.github.io/I-HFM-2025/">Interactive Human-centric Foundation Models</a> <br />
+∙ [2025-01] Invited talk at <a href="http://en.hitsz.edu.cn">Harbin Institute of Technology, Shenzhen</a> on “Human-Machine Collaborative Visual Synthesis”<br />
+∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
+∙ [2024-12] Oral Presentation at ACCV 2024 Workshop on accepted paper "Towards Robust Video Frame Interpolation with Long-Term Propagation."<br />
+∙ [2024-07] Invited talk at <a href="https://opendatalab.com">OpenDataLab</a> <br />
+∙ [2024-06] Oral Presentation at CVPR 2024 main conference on accepted paper "FreeU: Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_freeu_cvpr2024oral.pdf))<br />
+∙ [2024-06] Invited Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf))<br />
+∙ [2023-10] Invited Talk at <a href="https://research.adobe.com">Adobe Research</a> on "Exploring Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4))<br />
+∙ [2023-06] Invited Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC" ([Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf))<br />
 
-Professional Service
+
+Services
 -----
 ### Workshop Organizer:<br />
 ∙ NeurIPS 2026 - General Chair - [Women in Machine Learning (WiML) Workshop](https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/)<br />
@@ -742,30 +763,7 @@ Professional Service
 ∙ Workshop Reviewer: ICCV 2023 CVEU Workshop, CVPR 2023 WiCV Workshop
 
 -----
-### Invited Talks & Presentations:<br />
-∙ [2026-08] Invited talk at <a href="https://luma.com/video-model">Video Model Journal Club</a><br />
-∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
-∙ [2026-06] Invited talk at <a href="https://2026.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI) Conference (智源大会)</a><br />
-∙ [2026-05] Invited talk at <a href="http://xhslink.com/o/46bzwKw3Imt">Xinghe Talk (星河Talk)</a> on "Advancing Video World Modeling" at Shanghai AI Lab<br />
-∙ [2026-03] Invited talk at <a href="https://www.wisemodel.cn/home">WiseModel (始智AI)</a> on "2D Generative World Models"<br />
-∙ [2026-02] Invited talk at <a href="https://www.techbeat.net">TechBeat (将门创投)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
-∙ [2025-12] Invited talk at <a href="https://www.hongshan.com">HongShan (红杉)</a> on "Video Generation: Reasoning, Evaluation, and Beyond"<br />
-∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://egomotion-workshop.github.io">Egocentric Body Motion Tracking, Synthesis</a> <br />
-∙ [2025-10] Oral Presentation at ICCV 2025 Workshop on accepted paper "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation"<br />
-∙ [2025-10] Invited talk at ICCV 2025 Workshop on <a href="https://i-hfm-2025.github.io/I-HFM-2025/">Interactive Human-centric Foundation Models</a> <br />
-∙ [2025-01] Invited talk at <a href="http://en.hitsz.edu.cn">Harbin Institute of Technology, Shenzhen</a> on “Human-Machine Collaborative Visual Synthesis”<br />
-∙ [2025-01] Invited talk at <a href="https://www.fudan.edu.cn">Fudan University</a> <br />
-∙ [2024-12] Oral Presentation at ACCV 2024 Workshop on accepted paper "Towards Robust Video Frame Interpolation with Long-Term Propagation."<br />
-∙ [2024-07] Invited talk at <a href="https://opendatalab.com">OpenDataLab</a> <br />
-∙ [2024-06] Oral Presentation at CVPR 2024 main conference on accepted paper "FreeU: Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_freeu_cvpr2024oral.pdf))<br />
-∙ [2024-06] Invited Talk at CVPR 2024 Workshop on "VBench: Comprehensive Benchmark Suite for Video Generative Models" ([Slides](https://ziqihuangg.github.io/slides/2024_06_17_vbench_cvpr2024workshop.pdf))<br />
-∙ [2023-10] Invited Talk at <a href="https://research.adobe.com">Adobe Research</a> on "Exploring Free Lunch in Diffusion U-Net" ([Slides](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe.pdf), [Video](https://ziqihuangg.github.io/slides/2023_10_30_freeu_adobe_video.mp4))<br />
-∙ [2023-06] Invited Talk at Zhi Dongxi (智东西) on "Collaborative Diffusion and Human-Machine Collaborative AIGC" ([Slides](https://ziqihuangg.github.io/slides/2023_06_09_collaborative_diffusion_zhidongxi.pdf))<br />
-
-
-
-Teaching
------
+### Teaching:<br />
 ∙ Guest Lecture: EECS 542 Advanced Topics in Computer Vision, <a href="https://umich.edu">University of Michigan</a>, 2024 Fall<br />
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2024 Spring<br />
 ∙ Teaching Assistant: SC2001/CE2101/CZ2101 Algorithm Design & Analysis, NTU, 2023 Spring

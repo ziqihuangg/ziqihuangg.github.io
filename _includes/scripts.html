@@ -1,4 +1,19 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  // main.min.js binds smoothScroll with a flat offset:-20 that doesn't know
+  // about the sticky masthead height, so anchor jumps land the target title
+  // right under the bar. Rebind with an offset measured from the masthead
+  // itself so the title always clears it, on any screen size.
+  jQuery(function ($) {
+    function anchorOffset() {
+      return -($('.masthead').outerHeight() + 8);
+    }
+    $('a').smoothScroll({ offset: anchorOffset() });
+    $(window).on('resize', function () {
+      $('a').smoothScroll({ offset: anchorOffset() });
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

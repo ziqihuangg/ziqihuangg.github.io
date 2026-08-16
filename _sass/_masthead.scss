@@ -3,7 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: #fff;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -32,6 +35,16 @@
 }
 
 .masthead__menu {
+  display: flex;
+  align-items: center;
+
+  // Match .page's left offset (sidebar width + gutter, computed by Susy as
+  // 100% - 83.0508474576% + 4.2372881356%) so the nav links start flush
+  // with the content column below instead of hugging the brand link.
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: 21.186440678% 1fr;
+  }
 
   ul {
     margin: 0;
@@ -41,13 +54,19 @@
   }
 }
 
+.masthead__brand {
+  padding-right: 2em;
+  font-weight: 700;
+  white-space: nowrap;
+  color: $masthead-link-color;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
 }

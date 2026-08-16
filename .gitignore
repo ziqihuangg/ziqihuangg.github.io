@@ -12,3 +12,7 @@ projects/assets/collaborative-diffusion/images/*/*pdf
 
 *.DS_Store
 trash/*
+
+Gemfile.lock
+
+bin/preview.sh
