@@ -4,13 +4,9 @@
   // about the sticky masthead height, so anchor jumps land the target title
   // right under the bar. Rebind with an offset measured from the masthead
   // itself so the title always clears it, on any screen size.
-  //
-  // jquery.smooth-scroll computes scrollTop = target.offset().top + offset,
-  // so a *positive* offset stops short of the target's natural position,
-  // leaving a gap the height of the masthead above it.
   jQuery(function ($) {
     function anchorOffset() {
-      return $('.masthead').outerHeight() + 8;
+      return -($('.masthead').outerHeight() + 8);
     }
     $('a').smoothScroll({ offset: anchorOffset() });
     $(window).on('resize', function () {
