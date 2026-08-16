@@ -6,7 +6,7 @@
   // itself so the title always clears it, on any screen size.
   jQuery(function ($) {
     function anchorOffset() {
-      return -($('.masthead').outerHeight() + 8);
+      return -($('.masthead').outerHeight() );
     }
     $('a').smoothScroll({ offset: anchorOffset() });
     $(window).on('resize', function () {
