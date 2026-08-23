@@ -480,6 +480,20 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 -----
 ### Preprints:<br />
 -----
+<img class="teaser-img" src="../images/paper_teasers/harnesseval-w.png">
+### HarnessEval-W: Agentifying the Evaluation of Visual Worlds
+<p style="line-height:1.0">
+<font size="2">
+HarnessEval-W Team<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2608.16859">Paper</a> | 
+<a href="https://github.com/MirroS-Lab/HarnessEval-W">Code</a> |
+<a href="https://mirros-lab.github.io/HarnessEval-W">Project Page</a> |
+<a href="https://mirros-lab.github.io/HarnessEval-W#leaderboard">Leaderboard</a>
+<br />
+</font>
+</p>
+-----
 <img class="teaser-img" src="../images/paper_teasers/open_ea.jpg">
 ### Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models
 <p style="line-height:1.0">
