@@ -20,7 +20,6 @@ Her research interests broadly lie in computer vision and deep learning, with a 
 
 *<span style="color:#d18d46">For students interested in working on generative models, visual reasoning, embodied intelligence, and AI evaluation & measurement, feel free to [email me](mailto:connie.huangziqi@gmail.com).</span>*
 
-<!-- [Google Scholar](https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en) / [GitHub](https://github.com/ziqihuangg) / [X](https://x.com/ziqi_huang_) / [Email](mailto:connie.huangziqi@gmail.com) -->
 
 News
 -----
@@ -134,7 +133,7 @@ Publications
 }
 </style>
 <style>
-.teaser-img-tall {
+.teaser-img-tall160 {
   float: left;
   margin: 5px 10px;
   width: 160px;
@@ -157,7 +156,11 @@ Publications
   display: block;
 }
 </style>
-<img class="teaser-img-tall140" src="../images/NTU_logo.png">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img" src="../images/NTU_logo.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Human-Machine Collaborative Visual Synthesis
 <p style="line-height:1.0">
 <font size="2">
@@ -167,8 +170,14 @@ Ph.D. Thesis, Nanyang Technological University, 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img" src="../images/paper_teasers/demystifing.gif">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/demystifing.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Demystifying Video Reasoning
 <p style="line-height:1.0">
 <font size="2">
@@ -181,8 +190,14 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2026 <br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img" src="../images/paper_teasers/babyvision.png">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/babyvision.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### BabyVision: Visual Reasoning Beyond Language
 <p style="line-height:1.0">
 <font size="2">
@@ -196,8 +211,14 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall140" src="../images/paper_teasers/vchain.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
 <p style="line-height:1.0">
 <font size="2">
@@ -211,8 +232,14 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>) Wor
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall140" src="../images/paper_teasers/uni-mmmu.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
 <p style="line-height:1.0">
 <font size="2">
@@ -224,8 +251,14 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall140" src="../images/paper_teasers/unit.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
 <p style="line-height:1.0">
 <font size="2">
@@ -235,8 +268,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/worldlens.png">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/worldlens.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
 <p style="line-height:1.0">
 <font size="2">
@@ -249,8 +288,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vimogen.jpg">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/vimogen.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
 <p style="line-height:1.0">
 <font size="2">
@@ -263,8 +308,14 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/mavis.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
 <p style="line-height:1.0">
 <font size="2">
@@ -275,8 +326,14 @@ European Chapter of the Association for Computational Linguistics (<strong>EACL<
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vbench++.jpg">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/vbench++.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -289,8 +346,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/cut2next.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Cut2Next: Generating Next Shot via In-Context Tuning
 <p style="line-height:1.0">
 <font size="2">
@@ -302,8 +365,14 @@ Jingwen He, Hongbo Liu, Jiajun Li, <strong>Ziqi Huang</strong>, Yu Qiao, Wanli O
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/stencil_thumbnail.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Stencil: Subject-Driven Generation with Context Guidance
 <p style="line-height:1.0">
 <font size="2">
@@ -315,8 +384,14 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2025,
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/shotbench.jpg">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/shotbench.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models
 <p style="line-height:1.0">
 <font size="2">
@@ -329,8 +404,14 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/evaluation_agent.gif">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/evaluation_agent.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -343,8 +424,14 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/reversion.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### ReVersion: Diffusion-Based Relation Inversion from Images
 <p style="line-height:1.0">
 <font size="2">
@@ -359,8 +446,14 @@ Annual Meeting of the Association for Computational Linguistics (<strong>ACL</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/lavie.gif">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/lavie.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -372,8 +465,14 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/freeinit_compressed.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### FreeInit: Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -387,8 +486,14 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vbench_cropped.jpg">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/vbench_cropped.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -403,8 +508,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/freeu_teaser.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### FreeU: Free Lunch in Diffusion U-Net
 <p style="line-height:1.0">
 <font size="2">
@@ -418,8 +529,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/talk-to-edit-pami.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -431,8 +548,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/collaborative_diffusion.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Collaborative Diffusion for Multi-Modal Face Generation and Editing
 <p style="line-height:1.0">
 <font size="2">
@@ -446,8 +569,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/celeba_dialog.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 <p style="line-height:1.0">
 <font size="2">
@@ -461,8 +590,14 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/icip2021_thumb.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
 <p style="line-height:1.0">
 <font size="2">
@@ -474,13 +609,94 @@ IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<
 <br />
 </font>
 </p>
-
+</div>
+</div>
 
 
 -----
-### Preprints:<br />
+### Book Chapters:<br />
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
+</div>
+<div class="pub-entry__body" markdown="1">
+### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
+Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_13">Digital Book</a> 
+<br />
+</font>
+</p>
+</div>
+</div>
+-----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
+</div>
+<div class="pub-entry__body" markdown="1">
+### Boosting Diffusion U-Net with Free Lunch for Text-to-Image and Text-to-Video Generation
+<p style="line-height:1.0">
+<font size="2">
+Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu<br />
+Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_14">Digital Book</a> 
+<br />
+</font>
+</p>
+</div>
+</div>
+-----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img" src="../images/paper_teasers/handbook_logo_cropped.png">
+</div>
+<div class="pub-entry__body" markdown="1">
+### Generative Networks
+<p style="line-height:1.0">
+<font size="2">
+Ziwei Liu†, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
+Handbook of Face Recognition, Third Edition, 2023<br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> 
+<br />
+</font>
+</p>
+</div>
+</div>
+
+
+
+Preprints
+-----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img" src="../images/paper_teasers/VBVR-Pro.png">
+</div>
+<div class="pub-entry__body" markdown="1">
+### VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+<p style="line-height:1.0">
+<font size="2">
+VBVR-Pro Team<br />
+arXiv Preprint, 2026<br />
+<a href="https://arxiv.org/abs/2608.26105">Paper</a> | 
+<a href="https://github.com/Video-Reason/VBVR-Pro">Code</a> |
+<a href="https://video-reason.com/?v=pro">Project Page</a> |
+<a href="https://video-reason.com/pro/leaderboard/">Leaderboard</a> |
+<a href="https://huggingface.co/collections/Video-Reason/vbvr-pro-a-scalable-and-verifiable-suite-for-native-visual">Dataset</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+-----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/harnesseval-w.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### HarnessEval-W: Agentifying the Evaluation of Visual Worlds
 <p style="line-height:1.0">
 <font size="2">
@@ -493,8 +709,14 @@ arXiv Preprint, 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/open_ea.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models
 <p style="line-height:1.0">
 <font size="2">
@@ -505,8 +727,14 @@ arXiv Preprint, 2026 (Journal extension of ACL 2025 paper)<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall140" src="../images/paper_teasers/circular_0_comprehension_graphic.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
 <p style="line-height:1.0">
 <font size="2">
@@ -520,8 +748,14 @@ arXiv Preprint, 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall200" src="../images/paper_teasers/agentic_world_modeling.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
 <p style="line-height:1.0">
 <font size="2">
@@ -533,8 +767,14 @@ arXiv Preprint, 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img-tall140" src="../images/paper_teasers/animation_bench.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### AnimationBench: Are Video Models Good at Character-Centric Animation?
 <p style="line-height:1.0">
 <font size="2">
@@ -546,8 +786,14 @@ arXiv Preprint, 2026<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/metacanvas.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Exploring MLLM-Diffusion Information Transfer with MetaCanvas
 <p style="line-height:1.0">
 <font size="2">
@@ -558,8 +804,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/world_model_survey.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Simulating the Visual World with Artificial Intelligence: A Roadmap
 <p style="line-height:1.0">
 <font size="2">
@@ -571,8 +823,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/realdpo.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### RealDPO: Real or Not Real, that is the Preference
 <p style="line-height:1.0">
 <font size="2">
@@ -585,8 +843,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/cinescale.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
 <p style="line-height:1.0">
 <font size="2">
@@ -599,8 +863,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/vbench_2.0_cropped.jpg">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness
 <p style="line-height:1.0">
 <font size="2">
@@ -615,8 +885,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
 <img class="teaser-img" src="../images/paper_teasers/repvideo_compressed.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### RepVideo: Rethinking Cross-Layer Representation for Video Generation
 <p style="line-height:1.0">
 <font size="2">
@@ -628,8 +904,14 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img class="teaser-img-tall" src="../images/paper_teasers/vchitect-2.0_video.gif">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img class="teaser-img-tall160" src="../images/paper_teasers/vchitect-2.0_video.gif">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
@@ -642,50 +924,21 @@ arXiv Preprint, 2025<br />
 <br />
 </font>
 </p>
+</div>
+</div>
 
 
------
-### Book Chapters:<br />
------
-<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
-### Multimodal Face Generation and Manipulation with Collaborative Diffusion Models
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu<br />
-Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_13">Digital Book</a> 
-<br />
-</font>
-</p>
------
-<img class="teaser-img-tall140" src="../images/paper_teasers/vlmbook_logo.png">
-### Boosting Diffusion U-Net with Free Lunch for Text-to-Image and Text-to-Video Generation
-<p style="line-height:1.0">
-<font size="2">
-Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu<br />
-Large Vision-Language Models: Pre-training, Prompting, and Applications, Springer, 2025 <br />
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-94969-2_14">Digital Book</a> 
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/paper_teasers/handbook_logo_cropped.png">
-### Generative Networks
-<p style="line-height:1.0">
-<font size="2">
-Ziwei Liu†, Shuai Yang, Yuming Jiang, <strong>Ziqi Huang</strong><br />
-Handbook of Face Recognition, Third Edition, 2023<br />
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-43567-6_3">Digital Book</a> 
-<br />
-</font>
-</p>
------
+
 
 
 
 Education
 -----
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img src="../images/NTU_logo.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
@@ -693,8 +946,14 @@ Aug 2022 - Present<br />
 Ph.D. student at MMLab@NTU<br />
 </font>
 </p>
+</div>
+</div>
 -----
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+<div class="pub-entry" markdown="1">
+<div class="pub-entry__thumb" markdown="1">
+<img src="../images/NTU_logo.png">
+</div>
+<div class="pub-entry__body" markdown="1">
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
@@ -703,6 +962,8 @@ B.E. in Information Engineering & Media<br />
 <strong>CGPA: 5.00 / 5.00 (ranking: 1)</strong>
 </font>
 </p>
+</div>
+</div>
 
 
 Awards
@@ -725,8 +986,8 @@ Awards
 ∙ [2019 & 2022] Dean’s List (School of Electrical and Electronic Engineering)<br />
 ∙ [2018] NTU Science and Engineering Undergraduate Scholarship<br />
 
+Talks
 -----
-### Invited Talks & Presentations:<br />
 ∙ [2026-08] Invited talk at <a href="https://luma.com/video-model">Video Model Journal Club</a><br />
 ∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
 ∙ [2026-06] Invited talk at <a href="https://2026.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI) Conference (智源大会)</a><br />

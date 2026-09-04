@@ -9,11 +9,17 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Preprints"
+    url: /#preprints
+
   - title: "Education"
     url: /#education
 
   - title: "Awards"
     url: /#awards
+
+  - title: "Talks"
+    url: /#talks
 
   - title: "Services"
     url: /#services

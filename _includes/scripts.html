@@ -13,6 +13,44 @@
       $('a').smoothScroll({ offset: anchorOffset(), speed: 100 });
     });
   });
+
+  // Scroll-spy: highlight the nav item for whichever section is currently
+  // under the sticky masthead, so the menu reflects where you are on the
+  // page. Assumes nav link order matches the top-to-bottom section order.
+  jQuery(function ($) {
+    var sections = [];
+    $('#site-nav a[href*="#"]').each(function () {
+      var id = this.hash && this.hash.slice(1);
+      var target = id && document.getElementById(id);
+      if (target) sections.push({ link: this, target: target });
+    });
+    if (!sections.length) return;
+
+    function setActive() {
+      var triggerLine = ($('.masthead').outerHeight() || 0) + 30;
+      var current = sections[0];
+      sections.forEach(function (s) {
+        if (s.target.getBoundingClientRect().top <= triggerLine) {
+          current = s;
+        }
+      });
+      sections.forEach(function (s) {
+        $(s.link).toggleClass('is-active-link', s === current);
+      });
+    }
+
+    var ticking = false;
+    $(window).on('scroll resize', function () {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function () {
+        setActive();
+        ticking = false;
+      });
+    });
+
+    setActive();
+  });
 </script>
 
 {% include analytics.html %}

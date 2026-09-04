@@ -187,6 +187,11 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
+
+    &.is-active-link {
+      color: $masthead-link-color-hover;
+      font-weight: 700;
+    }
   }
 
   button {
@@ -239,7 +244,8 @@
                 transform: scaleX(0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:before,
+      &.is-active-link:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
