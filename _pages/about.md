@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Ziqi Huang is a fourth-year Ph.D. student at [MMLab@NTU](https://www.mmlab-ntu.com), [Nanyang Technological University, Singapore](https://www.ntu.edu.sg), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She received her Bachelor's degree from [NTU](https://www.ntu.edu.sg). She has internships and collaborations with [Meta](https://www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
+Ziqi Huang is a Lee Kuan Yew Postdoctoral Fellow (Principal Investigator) at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg).
+She received Bachelor's degree from [NTU](https://www.ntu.edu.sg), and her Ph.D. degree from [MMLab@NTU](https://www.mmlab-ntu.com), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io). She has internships and collaborations with [Meta](https://www.meta.com) Superintelligence Labs, [Netflix](https://about.netflix.com/en), [ByteDance](https://www.bytedance.com), [A*STAR](https://www.a-star.edu.sg), and [Shanghai AI Lab](https://www.shlab.org.cn).
 
 Ziqi is a recipient of [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2025), [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/), [Meshy Fellowship](https://www.meshy.ai/blog/fellowship-2026), [WiGRAPH's Rising Stars in Computer Graphics](https://www.wigraph.org/programs/rising-stars/), [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards), [ACL's SAC Highlights Award](https://2025.aclweb.org/program/awards/), and the [Outstanding Paper Award](https://knowledgemr-workshop.github.io) at ICCV Workshop.
 
