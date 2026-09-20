@@ -47,6 +47,7 @@ News
 }
 </style>
 <div class="news-scroll">
+∙ [2026-09] Invited talk at <a href="https://www.a-star.edu.sg/iaic">A*STAR, Institute of Advanced Intelligence and Computing (IAIC)</a><br />
 ∙ [2026-08] Invited talk at <a href="https://luma.com/video-model">Video Model Journal Club</a><br />
 ∙ [2026-08] Serving as Area Chair for <a href="https://iclr.cc">ICLR 2027</a><br />
 ∙ [2026-07] We are organizing NeurIPS 2026 Workshop <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/">Women in Machine Learning (WiML)</a> <br />
@@ -989,6 +990,7 @@ Awards
 
 Talks
 -----
+∙ [2026-09] Invited talk at <a href="https://www.a-star.edu.sg/iaic">A*STAR, Institute of Advanced Intelligence and Computing (IAIC)</a><br />
 ∙ [2026-08] Invited talk at <a href="https://luma.com/video-model">Video Model Journal Club</a><br />
 ∙ [2026-06] Invited talk at <a href="https://www.zhipuai.cn/zh/about">Zhipu (智谱)</a><br />
 ∙ [2026-06] Invited talk at <a href="https://2026.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI) Conference (智源大会)</a><br />
